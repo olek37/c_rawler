@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 05 Nov 2019 02:21:18 GMT
+Server: Apache
+Location: https://www.iana.org/
+Cache-Control: max-age=345600
+Expires: Sat, 09 Nov 2019 02:21:18 GMT
+Content-Length: 229
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.iana.org/">here</a>.</p>
+</body></html>
