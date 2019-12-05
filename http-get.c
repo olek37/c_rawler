@@ -51,19 +51,19 @@ char* getLinksFilenameFromHostname(char* hostname) {
 }
 
 void lineLinksToFile(char* line, int len, FILE * fp_write) {
-    char* tag = "href=";
-    for(int i = 0; i < len - 5; i++) {
+    char* tag = "www.";
+    for(int i = 0; i < len - 4; i++) {
         
-        if( strncmp(line+i, tag, 5) == 0) {
-            // NEXT CHAR IS "
-            int j = i + 6;
-            // 34 -> "
+        if( strncmp(line+i, tag, 4) == 0) {
+            int j = i + 4;
+            // 34 -> " 47 -> /
             char* temp = (char*)malloc(sizeof(char) * len);
-            while(*(line + j) != 34) { 
-                *(temp+j-i-6) = *(line + j);
+            while(*(line + j) != 34 && *(line + j) != 47) { 
+                *(temp+j-i-4) = *(line + j);
                 j++;
             }
-            write(fileno(fp_write), temp, j-i-6);
+            write(fileno(fp_write), temp, j-i-4);
+            write(fileno(fp_write), ".", 1);
             write(fileno(fp_write), "\n", 1);
 
             i = j;
@@ -78,7 +78,7 @@ void linksToFile(char* hostname) {
     FILE * fp_write = fopen(getLinksFilenameFromHostname(hostname), "w+");
     char * line = NULL;
     char * line_links = (char*)malloc(sizeof(char) * MAX_HOSTNAME_LEN);
-    int len = 0;
+    size_t len = 0;
     int read;
     
     while (true) {
@@ -96,6 +96,7 @@ void linksToFile(char* hostname) {
 }
 
 void httpGetToFile(char* hostname) {
+    printf("%s", hostname);
     char* filename = getFilenameFromHostname(hostname);
     FILE * fp = fopen(filename, "w+");
 
@@ -118,13 +119,11 @@ void httpGetToFile(char* hostname) {
 
     protoent = getprotobyname("tcp");
     socket_file_descriptor = socket(AF_INET, SOCK_STREAM, protoent->p_proto);
-    hostent = gethostbyname(hostname);
+    
+    struct hostent *he;
+    he = gethostbyname(hostname);
 
-    printf("Hello: %s\n", hostname);
-    in_addr = inet_addr(inet_ntoa(*(struct in_addr*)*(hostent->h_addr_list)));
-    printf("Hello: %s\n", hostname);
-     
-    sockaddr_in.sin_addr.s_addr = in_addr;
+    memcpy(&sockaddr_in.sin_addr, he->h_addr_list[0], he->h_length);
     sockaddr_in.sin_family = AF_INET;
     sockaddr_in.sin_port = htons(server_port);
 
@@ -167,7 +166,7 @@ void recursiveCrawl(char * hostname, int current_depth) {
 
     FILE * fp_read = fopen(getLinksFilenameFromHostname(hostname), "r");
     char* line = NULL;
-    int len = 0;
+    size_t len = 0;
     int read;
     
     int link_count = 0;
@@ -183,6 +182,6 @@ void recursiveCrawl(char * hostname, int current_depth) {
 }
 
 int main() {
-    char* root = "iana.org";
+    char* root = "iana.org.";
     recursiveCrawl(root, 0);
 }
