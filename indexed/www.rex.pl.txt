@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 14 Jan 2020 01:59:34 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 223
+Connection: keep-alive
+Location: https://rex.pl/
+Server: Apache/2
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://rex.pl/">here</a>.</p>
+</body></html>

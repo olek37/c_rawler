@@ -1,0 +1,1142 @@
+HTTP/1.1 200 OK
+Date: Tue, 14 Jan 2020 01:59:34 GMT
+Server: Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.2p DAV/2 mod_fastcgi/2.4.6 mod_wsgi/3.3 Python/2.6.6 mod_fcgid/2.3.10-dev Phusion_Passenger/4.0.42 mod_myfixip/1.4
+X-Powered-By: PHP/7.2.21
+Link: <http://www.apartament-kolobrzeg.info.pl/wp-json/>; rel="https://api.w.org/", <http://www.apartament-kolobrzeg.info.pl/>; rel=shortlink
+Vary: Accept-Encoding,User-Agent
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+11edf
+<!DOCTYPE html>
+<html lang="pl-PL">              
+    <head>
+        <meta charset="UTF-8" />                   
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Biznes i Finanse!</title>                
+        <link rel="pingback" href="http://www.apartament-kolobrzeg.info.pl/xmlrpc.php" />                       
+		<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Biznes i Finanse! &raquo; Kanał z wpisami" href="http://www.apartament-kolobrzeg.info.pl/feed" />
+<link rel="alternate" type="application/rss+xml" title="Biznes i Finanse! &raquo; Kanał z komentarzami" href="http://www.apartament-kolobrzeg.info.pl/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.apartament-kolobrzeg.info.pl\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://www.apartament-kolobrzeg.info.pl/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='http://www.apartament-kolobrzeg.info.pl/wp-content/plugins/wp-polls/polls-css.css?ver=2.75.3' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://www.apartament-kolobrzeg.info.pl/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='xmax_font-awesome-css'  href='http://www.apartament-kolobrzeg.info.pl/wp-content/themes/xmax/library/assets/fonts/awesome/css/font-awesome.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='xmax_bootstrap-css'  href='http://www.apartament-kolobrzeg.info.pl/wp-content/themes/xmax/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='xmax_magnific-popup-css'  href='http://www.apartament-kolobrzeg.info.pl/wp-content/themes/xmax/css/magnific-popup.css' type='text/css' media='all' />
+<link rel='stylesheet' id='xmax_mega-fish-css'  href='http://www.apartament-kolobrzeg.info.pl/wp-content/themes/xmax/css/megafish.css' type='text/css' media='all' />
+<link rel='stylesheet' id='xmax_mega-menu-css'  href='http://www.apartament-kolobrzeg.info.pl/wp-content/themes/xmax/css/mega-menu.css' type='text/css' media='all' />
+<link rel='stylesheet' id='xmax_flexslider-css'  href='http://www.apartament-kolobrzeg.info.pl/wp-content/themes/xmax/css/flexslider.css' type='text/css' media='all' />
+<link rel='stylesheet' id='xmax_owl-carousel-css'  href='http://www.apartament-kolobrzeg.info.pl/wp-content/themes/xmax/css/owl.carousel.css' type='text/css' media='all' />
+<link rel='stylesheet' id='xmax_owl-theme-css'  href='http://www.apartament-kolobrzeg.info.pl/wp-content/themes/xmax/css/owl.theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='xmax_jquery-fotorama-css'  href='http://www.apartament-kolobrzeg.info.pl/wp-content/themes/xmax/css/fotorama.css' type='text/css' media='all' />
+<link rel='stylesheet' id='xmax_jquery-mCustomScrollbar-css'  href='http://www.apartament-kolobrzeg.info.pl/wp-content/themes/xmax/css/jquery.mCustomScrollbar.css' type='text/css' media='all' />
+<link rel='stylesheet' id='xmax_style-css'  href='http://www.apartament-kolobrzeg.info.pl/wp-content/themes/xmax/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='xmax_responsive-css'  href='http://www.apartament-kolobrzeg.info.pl/wp-content/themes/xmax/css/responsive.css' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var RecaptchaOptions = {"theme":"clean","lang":"en"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.apartament-kolobrzeg.info.pl/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://www.apartament-kolobrzeg.info.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.apartament-kolobrzeg.info.pl/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.apartament-kolobrzeg.info.pl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.apartament-kolobrzeg.info.pl/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.2" />
+<link rel="canonical" href="http://www.apartament-kolobrzeg.info.pl/" />
+<link rel='shortlink' href='http://www.apartament-kolobrzeg.info.pl/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.apartament-kolobrzeg.info.pl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.apartament-kolobrzeg.info.pl%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.apartament-kolobrzeg.info.pl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.apartament-kolobrzeg.info.pl%2F&#038;format=xml" />
+<script type="text/javascript">
+	window._zem_rp_post_id = '85';
+	window._zem_rp_thumbnails = true;
+	window._zem_rp_post_title = 'Home';
+	window._zem_rp_post_tags = [];
+	window._zem_rp_static_base_url = 'https://content.zemanta.com/static/';
+	window._zem_rp_wp_ajax_url = 'http://www.apartament-kolobrzeg.info.pl/wp-admin/admin-ajax.php';
+	window._zem_rp_plugin_version = '1.14';
+	window._zem_rp_num_rel_posts = '20';
+</script>
+<link rel="stylesheet" href="http://www.apartament-kolobrzeg.info.pl/wp-content/plugins/related-posts-by-zemanta/static/themes/vertical.css?version=1.14" />
+    </head>    
+    <body class="home page-template-default page page-id-85 kopa-layout-front-page-1 kopa-show-position_1 kopa-show-position_2 kopa-show-position_3 kopa-show-position_4 kopa-show-position_5 kopa-show-position_6 kopa-show-position_7 kopa-show-position_8 kopa-show-position_9 kopa-show-position_10">  
+        <header id="kopa-header">
+            <div class="header-top">
+                <div class="wrapper clearfix">
+					           
+
+					
+                </div><!--/end .search-box-->
+            </div><!--/end .header-top-->
+
+			
+            <div class="header-bottom">
+                <div class="wrapper clearfix">
+
+					<nav id="main-nav" class="kopa-main-nav kopa-relative clearfix"><ul id="main-menu" class="main-menu sf-menu clearfix"><li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-85 current_page_item menu-item-87"><a href="http://www.apartament-kolobrzeg.info.pl/" aria-current="page">Home</a></li>
+<li id="menu-item-89" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-89"><a href="http://www.apartament-kolobrzeg.info.pl/iu/kredyty">Kredyty</a></li>
+<li id="menu-item-90" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-90"><a href="http://www.apartament-kolobrzeg.info.pl/iu/banki">Banki</a>
+<ul class="sub-menu">
+	<li id="menu-item-91" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-91"><a href="http://www.apartament-kolobrzeg.info.pl/iu/biznes">Biznes</a></li>
+</ul>
+</li>
+<li id="menu-item-92" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-92"><a href="http://www.apartament-kolobrzeg.info.pl/iu/finanse">Finanse</a></li>
+<li id="menu-item-93" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93"><a href="http://www.apartament-kolobrzeg.info.pl/iu/lokaty">Lokaty</a></li>
+</ul></nav>                     
+                </div>
+            </div><!--/end .header-bottom-->
+        </header>
+        <!--/end HEADER-->
+        <div class="wrapper clearfix">           
+<div id="kopa-main-content">
+    <section class="widget-area-1 clearfix">        
+        
+			<div class="widget kopa-list-post-no-thumb clearfix">
+				<span></span>
+
+				<h3 class="widget-title">Nowości:<span></span></h3>
+
+				<div class="list-post-main">
+					<div class="owl-carousel owl-carousel1"> 
+													<div class="item">
+								<article class="entry-item clearfix">
+									<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-wypromowac-wlasny-biznes.htm">W jaki sposób wypromować własny biznes?</a></h4>
+									<span class="entry-date">11 grudnia 2019</span>
+								</article>  
+							</div>
+														<div class="item">
+								<article class="entry-item clearfix">
+									<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/co-robic-aby-miec-sporo-bardziej-dochodowa-pizzerie.htm">Co robić, aby mieć sporo bardziej dochodową pizzerię?</a></h4>
+									<span class="entry-date">11 grudnia 2019</span>
+								</article>  
+							</div>
+														<div class="item">
+								<article class="entry-item clearfix">
+									<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/czy-promocja-za-pomoca-ulotek-nadal-ma-jakis-sens.htm">Czy promocja za pomocą ulotek nadal ma jakiś sens?</a></h4>
+									<span class="entry-date">11 grudnia 2019</span>
+								</article>  
+							</div>
+														<div class="item">
+								<article class="entry-item clearfix">
+									<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/co-mozemy-robic-aby-rozreklamowac-wlasna-restauracje.htm">Co możemy robić, aby rozreklamować własną restaurację?</a></h4>
+									<span class="entry-date">11 grudnia 2019</span>
+								</article>  
+							</div>
+												</div>
+				</div>
+			</div><!--/end widget.kopa-list-post-no-thumb-->
+			
+        <div class="main-wrapper clearfix"><div class="kopa-scrollbar"><div id="kopa-scrollbar-widget-2" class="widget kopa-scrollbar-widget clearfix">            <div class="masonry-wrap clearfix">
+                
+                        <div class="item size1 post-262 post type-post status-publish format-standard has-post-thumbnail hentry category-banki category-biznes category-finanse category-kredyty category-lokaty">
+                            <article class="entry-item clearfix">
+                                <a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-reklamowac-sie-w-internecie.htm"><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-438-oi13mp0thul3cc1nvdobwl5z43toozecao7d2kfgfu.jpg" alt="W jaki sposób reklamować się w Internecie?" /></a>
+                                <div class="entry-content">
+                                    <h2 class="entry-title">
+                                        <a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-reklamowac-sie-w-internecie.htm">W jaki sposób reklamować się w Internecie?</a>
+                                    </h2>
+                                                                            <p class="entry-date">
+                                                                                                                                            11 grudnia 2019                                            
+                                                                                            &nbsp;-&nbsp;                                                <span>0 Comment</span>                                                                                    </p>
+                                                                    </div>
+                            </article>
+                        </div>
+                        <div class="item-wrap">
+                        <div class="item post-280 post type-post status-publish format-standard has-post-thumbnail hentry category-banki">
+                            <article class="entry-item clearfix">
+                                <a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-wypromowac-wlasny-biznes.htm"><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-320-oi13llji4w1mt8rn3twok4p9lc2rugjxzr6oy9mgu0.jpg" alt="W jaki sposób wypromować własny biznes?" /></a>
+                                <div class="entry-content">
+                                    <h2 class="entry-title">
+                                        <a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-wypromowac-wlasny-biznes.htm">W jaki sposób wypromować własny biznes?</a>
+                                    </h2>
+                                                                            <p class="entry-date">
+                                                                                                                                            11 grudnia 2019                                            
+                                                                                            &nbsp;-&nbsp;                                                <span>0 Comment</span>                                                                                    </p>
+                                                                    </div>
+                            </article>
+                        </div>
+                        
+                        <div class="item post-276 post type-post status-publish format-standard has-post-thumbnail hentry category-finanse">
+                            <article class="entry-item clearfix">
+                                <a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-mozemy-zwiekszyc-liczbe-klientow.htm"><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-357-oi13lt27nkbxe4gpvx5p42sycf1pk1dsosekshbbg8.jpg" alt="W jaki sposób możemy zwiększyć liczbę klientów?" /></a>
+                                <div class="entry-content">
+                                    <h2 class="entry-title">
+                                        <a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-mozemy-zwiekszyc-liczbe-klientow.htm">W jaki sposób możemy zwiększyć liczbę klientów?</a>
+                                    </h2>
+                                                                            <p class="entry-date">
+                                                                                                                                            11 grudnia 2019                                            
+                                                                                            &nbsp;-&nbsp;                                                <span>0 Comment</span>                                                                                    </p>
+                                                                    </div>
+                            </article>
+                        </div>
+                        </div><div class="item-wrap">
+                        <div class="item post-268 post type-post status-publish format-standard has-post-thumbnail hentry category-banki category-biznes category-finanse category-kredyty category-lokaty">
+                            <article class="entry-item clearfix">
+                                <a href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm"><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-411-oi13m83mowwijvuvg3nq7z0bukzkz71i2uucgwp0oo.jpg" alt="Szukamy perfekcyjnego biura rachunkowego" /></a>
+                                <div class="entry-content">
+                                    <h2 class="entry-title">
+                                        <a href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm">Szukamy perfekcyjnego biura rachunkowego</a>
+                                    </h2>
+                                                                            <p class="entry-date">
+                                                                                                                                            11 grudnia 2019                                            
+                                                                                            &nbsp;-&nbsp;                                                <span>0 Comment</span>                                                                                    </p>
+                                                                    </div>
+                            </article>
+                        </div>
+                        
+                        <div class="item post-266 post type-post status-publish format-standard has-post-thumbnail hentry category-banki category-biznes category-finanse category-kredyty category-lokaty">
+                            <article class="entry-item clearfix">
+                                <a href="http://www.apartament-kolobrzeg.info.pl/co-zrobic-aby-moc-zadbac-o-swoj-wizerunek.htm"><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-419-oi13mcstn32y5xo1onov2ftmticf1ok5ri3rvai1tk.jpg" alt="Co zrobić, aby móc zadbać o swój wizerunek?" /></a>
+                                <div class="entry-content">
+                                    <h2 class="entry-title">
+                                        <a href="http://www.apartament-kolobrzeg.info.pl/co-zrobic-aby-moc-zadbac-o-swoj-wizerunek.htm">Co zrobić, aby móc zadbać o swój wizerunek?</a>
+                                    </h2>
+                                                                            <p class="entry-date">
+                                                                                                                                            11 grudnia 2019                                            
+                                                                                            &nbsp;-&nbsp;                                                <span>0 Comment</span>                                                                                    </p>
+                                                                    </div>
+                            </article>
+                        </div>
+                        </div><div class="item-wrap">
+                        <div class="item post-278 post type-post status-publish format-standard has-post-thumbnail hentry category-biznes">
+                            <article class="entry-item clearfix">
+                                <a href="http://www.apartament-kolobrzeg.info.pl/co-robic-aby-miec-sporo-bardziej-dochodowa-pizzerie.htm"><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-338-oi13lq8p3282faktcdxtelikk9flwy2loeg4cnfhyw.jpg" alt="Co robić, aby mieć sporo bardziej dochodową pizzerię?" /></a>
+                                <div class="entry-content">
+                                    <h2 class="entry-title">
+                                        <a href="http://www.apartament-kolobrzeg.info.pl/co-robic-aby-miec-sporo-bardziej-dochodowa-pizzerie.htm">Co robić, aby mieć sporo bardziej dochodową pizzerię?</a>
+                                    </h2>
+                                                                            <p class="entry-date">
+                                                                                                                                            11 grudnia 2019                                            
+                                                                                            &nbsp;-&nbsp;                                                <span>0 Comment</span>                                                                                    </p>
+                                                                    </div>
+                            </article>
+                        </div>
+                        
+                        <div class="item post-270 post type-post status-publish format-standard has-post-thumbnail hentry category-banki category-biznes category-finanse category-kredyty category-lokaty">
+                            <article class="entry-item clearfix">
+                                <a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-natrafic-na-doskonala-sale-weselna.htm"><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-401-oi13m4c9xkrd9g0c2217xzyhh1i44emkqc8ejsuldk.jpg" alt="W jaki sposób natrafić na doskonałą salę weselną?" /></a>
+                                <div class="entry-content">
+                                    <h2 class="entry-title">
+                                        <a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-natrafic-na-doskonala-sale-weselna.htm">W jaki sposób natrafić na doskonałą salę weselną?</a>
+                                    </h2>
+                                                                            <p class="entry-date">
+                                                                                                                                            11 grudnia 2019                                            
+                                                                                            &nbsp;-&nbsp;                                                <span>0 Comment</span>                                                                                    </p>
+                                                                    </div>
+                            </article>
+                        </div>
+                        </div>                
+            </div>
+            </div></div><div id="kopa-tab-1-widget-2" class="widget kopa-posts-tabs-by-group kopa-tab-1-widget clearfix">			<ul class="nav nav-tabs">
+									<li id="NkJ8-tab-link-category-1" class="active"><a href="#NkJ8-tab-category-1" data-toggle="tab">Kredyty</a></li>
+										<li id="NkJ8-tab-link-category-5" class=""><a href="#NkJ8-tab-category-5" data-toggle="tab">Lokaty</a></li>
+										<li id="NkJ8-tab-link-category-4" class=""><a href="#NkJ8-tab-category-4" data-toggle="tab">Finanse</a></li>
+										<li id="NkJ8-tab-link-category-2" class=""><a href="#NkJ8-tab-category-2" data-toggle="tab">Banki</a></li>
+										<li id="NkJ8-tab-link-category-3" class=""><a href="#NkJ8-tab-category-3" data-toggle="tab">Biznes</a></li>
+								</ul>
+
+			<div class="dropdown">
+				<a data-toggle="dropdown" href="#">Kredyty</a>
+				<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+											<li><a href="#NkJ8-tab-link-category-1" data-toggle="tab">Kredyty</a></li>
+												<li><a href="#NkJ8-tab-link-category-5" data-toggle="tab">Lokaty</a></li>
+												<li><a href="#NkJ8-tab-link-category-4" data-toggle="tab">Finanse</a></li>
+												<li><a href="#NkJ8-tab-link-category-2" data-toggle="tab">Banki</a></li>
+												<li><a href="#NkJ8-tab-link-category-3" data-toggle="tab">Biznes</a></li>
+										</ul>
+			</div>
+
+
+			<div class="tab-content">
+									<div class="tab-pane active" id="NkJ8-tab-category-1">
+													<ul class="clearfix">
+																	<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-411-oi13m83mdy6sylfp1qfxg7wxdrs0rexx20gy6mcuai.jpg" alt="Szukamy perfekcyjnego biura rachunkowego"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm" title="Szukamy perfekcyjnego biura rachunkowego"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm" title="Szukamy perfekcyjnego biura rachunkowego">Szukamy perfekcyjnego biura rachunkowego</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+																		<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/czy-promocja-za-pomoca-ulotek-nadal-ma-jakis-sens.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-375-oi13lvvpx3q2rnxg135s1szxnrg8zcleobzmy0uyje.jpg" alt="Czy promocja za pomocą ulotek nadal ma jakiś sens?"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/czy-promocja-za-pomoca-ulotek-nadal-ma-jakis-sens.htm" title="Czy promocja za pomocą ulotek nadal ma jakiś sens?"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/czy-promocja-za-pomoca-ulotek-nadal-ma-jakis-sens.htm" title="Czy promocja za pomocą ulotek nadal ma jakiś sens?">Czy promocja za pomocą ulotek nadal ma jakiś sens?</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+																		<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-dbac-o-wlasny-wizerunek.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-424-oi13mjdonym8twzb7vbga52gie8fbs6p3karxxw47u.jpg" alt="W jaki sposób dbać o własny wizerunek?"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-dbac-o-wlasny-wizerunek.htm" title="W jaki sposób dbać o własny wizerunek?"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-dbac-o-wlasny-wizerunek.htm" title="W jaki sposób dbać o własny wizerunek?">W jaki sposób dbać o własny wizerunek?</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+																		<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/co-zrobic-aby-moc-zadbac-o-swoj-wizerunek.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-419-oi13mcstc4d8kn8vaah2aoq8cp4utwgkqnqdl05vfe.jpg" alt="Co zrobić, aby móc zadbać o swój wizerunek?"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/co-zrobic-aby-moc-zadbac-o-swoj-wizerunek.htm" title="Co zrobić, aby móc zadbać o swój wizerunek?"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/co-zrobic-aby-moc-zadbac-o-swoj-wizerunek.htm" title="Co zrobić, aby móc zadbać o swój wizerunek?">Co zrobić, aby móc zadbać o swój wizerunek?</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+									                
+							</ul>
+												</div>
+										<div class="tab-pane " id="NkJ8-tab-category-5">
+													<ul class="clearfix">
+																	<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-411-oi13m83mdy6sylfp1qfxg7wxdrs0rexx20gy6mcuai.jpg" alt="Szukamy perfekcyjnego biura rachunkowego"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm" title="Szukamy perfekcyjnego biura rachunkowego"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm" title="Szukamy perfekcyjnego biura rachunkowego">Szukamy perfekcyjnego biura rachunkowego</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+																		<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-reklamowac-sie-w-internecie.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-438-oi13mp0psytyrkr4axr7p3n82pgmlyt34c7otlnr6i.jpg" alt="W jaki sposób reklamować się w Internecie?"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-reklamowac-sie-w-internecie.htm" title="W jaki sposób reklamować się w Internecie?"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-reklamowac-sie-w-internecie.htm" title="W jaki sposób reklamować się w Internecie?">W jaki sposób reklamować się w Internecie?</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+																		<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-natrafic-na-doskonala-sale-weselna.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-401-oi13m4c9mm1no5l5notf68v308ajwmizphv09iieze.jpg" alt="W jaki sposób natrafić na doskonałą salę weselną?"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-natrafic-na-doskonala-sale-weselna.htm" title="W jaki sposób natrafić na doskonałą salę weselną?"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-natrafic-na-doskonala-sale-weselna.htm" title="W jaki sposób natrafić na doskonałą salę weselną?">W jaki sposób natrafić na doskonałą salę weselną?</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+																		<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/co-zrobic-aby-moc-zadbac-o-swoj-wizerunek.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-419-oi13mcstc4d8kn8vaah2aoq8cp4utwgkqnqdl05vfe.jpg" alt="Co zrobić, aby móc zadbać o swój wizerunek?"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/co-zrobic-aby-moc-zadbac-o-swoj-wizerunek.htm" title="Co zrobić, aby móc zadbać o swój wizerunek?"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/co-zrobic-aby-moc-zadbac-o-swoj-wizerunek.htm" title="Co zrobić, aby móc zadbać o swój wizerunek?">Co zrobić, aby móc zadbać o swój wizerunek?</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+									                
+							</ul>
+												</div>
+										<div class="tab-pane " id="NkJ8-tab-category-4">
+													<ul class="clearfix">
+																	<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-dbac-o-wlasny-wizerunek.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-424-oi13mjdonym8twzb7vbga52gie8fbs6p3karxxw47u.jpg" alt="W jaki sposób dbać o własny wizerunek?"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-dbac-o-wlasny-wizerunek.htm" title="W jaki sposób dbać o własny wizerunek?"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-dbac-o-wlasny-wizerunek.htm" title="W jaki sposób dbać o własny wizerunek?">W jaki sposób dbać o własny wizerunek?</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+																		<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-reklamowac-sie-w-internecie.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-438-oi13mp0psytyrkr4axr7p3n82pgmlyt34c7otlnr6i.jpg" alt="W jaki sposób reklamować się w Internecie?"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-reklamowac-sie-w-internecie.htm" title="W jaki sposób reklamować się w Internecie?"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-reklamowac-sie-w-internecie.htm" title="W jaki sposób reklamować się w Internecie?">W jaki sposób reklamować się w Internecie?</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+																		<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-411-oi13m83mdy6sylfp1qfxg7wxdrs0rexx20gy6mcuai.jpg" alt="Szukamy perfekcyjnego biura rachunkowego"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm" title="Szukamy perfekcyjnego biura rachunkowego"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm" title="Szukamy perfekcyjnego biura rachunkowego">Szukamy perfekcyjnego biura rachunkowego</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+																		<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-mozemy-zwiekszyc-liczbe-klientow.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-357-oi13lt27clm7su1jhjxwcbpjvlu5c9a7ny16i6z522.jpg" alt="W jaki sposób możemy zwiększyć liczbę klientów?"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-mozemy-zwiekszyc-liczbe-klientow.htm" title="W jaki sposób możemy zwiększyć liczbę klientów?"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-mozemy-zwiekszyc-liczbe-klientow.htm" title="W jaki sposób możemy zwiększyć liczbę klientów?">W jaki sposób możemy zwiększyć liczbę klientów?</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+									                
+							</ul>
+												</div>
+										<div class="tab-pane " id="NkJ8-tab-category-2">
+													<ul class="clearfix">
+																	<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-411-oi13m83mdy6sylfp1qfxg7wxdrs0rexx20gy6mcuai.jpg" alt="Szukamy perfekcyjnego biura rachunkowego"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm" title="Szukamy perfekcyjnego biura rachunkowego"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm" title="Szukamy perfekcyjnego biura rachunkowego">Szukamy perfekcyjnego biura rachunkowego</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+																		<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-natrafic-na-doskonala-sale-weselna.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-401-oi13m4c9mm1no5l5notf68v308ajwmizphv09iieze.jpg" alt="W jaki sposób natrafić na doskonałą salę weselną?"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-natrafic-na-doskonala-sale-weselna.htm" title="W jaki sposób natrafić na doskonałą salę weselną?"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-natrafic-na-doskonala-sale-weselna.htm" title="W jaki sposób natrafić na doskonałą salę weselną?">W jaki sposób natrafić na doskonałą salę weselną?</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+																		<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-wypromowac-wlasny-biznes.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-320-oi13lljhtxbx7ycgpgovsdlv4iv7mogcywtanzaafu.jpg" alt="W jaki sposób wypromować własny biznes?"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-wypromowac-wlasny-biznes.htm" title="W jaki sposób wypromować własny biznes?"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-wypromowac-wlasny-biznes.htm" title="W jaki sposób wypromować własny biznes?">W jaki sposób wypromować własny biznes?</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+																		<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/co-zrobic-aby-moc-zadbac-o-swoj-wizerunek.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-419-oi13mcstc4d8kn8vaah2aoq8cp4utwgkqnqdl05vfe.jpg" alt="Co zrobić, aby móc zadbać o swój wizerunek?"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/co-zrobic-aby-moc-zadbac-o-swoj-wizerunek.htm" title="Co zrobić, aby móc zadbać o swój wizerunek?"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/co-zrobic-aby-moc-zadbac-o-swoj-wizerunek.htm" title="Co zrobić, aby móc zadbać o swój wizerunek?">Co zrobić, aby móc zadbać o swój wizerunek?</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+									                
+							</ul>
+												</div>
+										<div class="tab-pane " id="NkJ8-tab-category-3">
+													<ul class="clearfix">
+																	<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-reklamowac-sie-w-internecie.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-438-oi13mp0psytyrkr4axr7p3n82pgmlyt34c7otlnr6i.jpg" alt="W jaki sposób reklamować się w Internecie?"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-reklamowac-sie-w-internecie.htm" title="W jaki sposób reklamować się w Internecie?"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-reklamowac-sie-w-internecie.htm" title="W jaki sposób reklamować się w Internecie?">W jaki sposób reklamować się w Internecie?</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+																		<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-411-oi13m83mdy6sylfp1qfxg7wxdrs0rexx20gy6mcuai.jpg" alt="Szukamy perfekcyjnego biura rachunkowego"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm" title="Szukamy perfekcyjnego biura rachunkowego"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm" title="Szukamy perfekcyjnego biura rachunkowego">Szukamy perfekcyjnego biura rachunkowego</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+																		<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-natrafic-na-doskonala-sale-weselna.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-401-oi13m4c9mm1no5l5notf68v308ajwmizphv09iieze.jpg" alt="W jaki sposób natrafić na doskonałą salę weselną?"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-natrafic-na-doskonala-sale-weselna.htm" title="W jaki sposób natrafić na doskonałą salę weselną?"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-natrafic-na-doskonala-sale-weselna.htm" title="W jaki sposób natrafić na doskonałą salę weselną?">W jaki sposób natrafić na doskonałą salę weselną?</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+																		<li>
+										<article class="entry-item clearfix">
+											<div class="entry-thumb">
+												<a href="http://www.apartament-kolobrzeg.info.pl/co-robic-aby-miec-sporo-bardziej-dochodowa-pizzerie.htm" class=""><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-338-oi13lq8os3icu05my0q0muf63g81p5z0nk2q2d3bkq.jpg" alt="Co robić, aby mieć sporo bardziej dochodową pizzerię?"></a>
+												<div class="thumb-hover">
+													<div class="thumb-icon">
+														<span class="icon-top"></span>
+																												<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/co-robic-aby-miec-sporo-bardziej-dochodowa-pizzerie.htm" title="Co robić, aby mieć sporo bardziej dochodową pizzerię?"></a>                                                    
+													</div>
+												</div>
+											</div> 
+											<div class="entry-content">
+												<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/co-robic-aby-miec-sporo-bardziej-dochodowa-pizzerie.htm" title="Co robić, aby mieć sporo bardziej dochodową pizzerię?">Co robić, aby mieć sporo bardziej dochodową pizzerię?</a></h4>
+
+																									<p class="entry-date">
+																																												11 grudnia 2019														
+																													&nbsp;-&nbsp;															<span>0 Comment</span>																											</p>
+												
+											</div>
+										</article>
+									</li>
+									                
+							</ul>
+												</div>
+								</div>
+
+			</div></div>                
+    </section><!--/end widget-area-1-->
+
+    <div class="clear"></div>
+    <div class="main-wrapper clearfix">        
+        <div class="kopa-main-col">
+            <div class="main-container clearfix">
+                <section class="widget-area-2"><div id="kopa-article-list-widget-2" class="widget kopa-article-list-widget clearfix"><h3 class="widget-title">Inne wpisy:</h3>			<ul class="clearfix">
+				
+					<li class="item last-item post-276 post type-post status-publish format-standard has-post-thumbnail hentry category-finanse">
+						<article class="entry-item clearfix">  
+															
+									                                                        
+									<div class="entry-thumb">
+										<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-mozemy-zwiekszyc-liczbe-klientow.htm" title="W jaki sposób możemy zwiększyć liczbę klientów?"><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-357-oi13lt28i9gl17c57t4r2y03aq3sf3dxqjttocq2aq.jpg" alt="W jaki sposób możemy zwiększyć liczbę klientów?" class="img-responsive"/></a>
+																			</div>
+															
+							
+							<div class="entry-content">
+								<header>
+																			<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-mozemy-zwiekszyc-liczbe-klientow.htm" title="W jaki sposób możemy zwiększyć liczbę klientów?">W jaki sposób możemy zwiększyć liczbę klientów?</a></h4>
+									
+																			<p class="entry-date">
+																																			<span>11 grudnia 2019</span>
+											
+																							&nbsp;-&nbsp;												<span>0 Comment</span>																					</p>
+									
+									
+								</header>
+
+								<p>W jaki sposób możemy zwiększyć liczbę klientów? Załóżmy, że być może jesteś osobą,</p>
+
+															</div>
+						</article>
+					</li>
+					
+					<li class="item other-item post-268 post type-post status-publish format-standard has-post-thumbnail hentry category-banki category-biznes category-finanse category-kredyty category-lokaty">
+						<article class="entry-item clearfix">  
+																						
+							
+							<div class="entry-content">
+								<header>
+																			<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm" title="Szukamy perfekcyjnego biura rachunkowego">Szukamy perfekcyjnego biura rachunkowego</a></h4>
+									
+																			<p class="entry-date">
+																																			<span>11 grudnia 2019</span>
+											
+																							&nbsp;-&nbsp;												<span>0 Comment</span>																					</p>
+									
+									
+								</header>
+
+								
+
+															</div>
+						</article>
+					</li>
+					
+					<li class="item other-item post-264 post type-post status-publish format-standard has-post-thumbnail hentry category-banki category-biznes category-finanse category-kredyty category-lokaty">
+						<article class="entry-item clearfix">  
+																						
+							
+							<div class="entry-content">
+								<header>
+																			<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-dbac-o-wlasny-wizerunek.htm" title="W jaki sposób dbać o własny wizerunek?">W jaki sposób dbać o własny wizerunek?</a></h4>
+									
+																			<p class="entry-date">
+																																			<span>11 grudnia 2019</span>
+											
+																							&nbsp;-&nbsp;												<span>0 Comment</span>																					</p>
+									
+									
+								</header>
+
+								
+
+															</div>
+						</article>
+					</li>
+					                
+			</ul>
+			</div></section>   
+
+                <section class="widget-area-3"><div class="kopa-scrollbar"><div id="kopa-flex-slider-1-widget-2" class="widget kopa-flex-slider-1-widget clearfix"><h3 class="widget-title">Ciekawe wpisy:</h3>            <div class="flexslider kopa-slider-1">
+                <ul class="slides">
+                    
+                        <li class="item item-first post-270 post type-post status-publish format-standard has-post-thumbnail hentry category-banki category-biznes category-finanse category-kredyty category-lokaty">
+                            <article class="entry-item clearfix">
+                                <div class="entry-thumb">
+                                    <a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-natrafic-na-doskonala-sale-weselna.htm" title="W jaki sposób natrafić na doskonałą salę weselną?"><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-401-oi13m4cbxhyg5sizzb0fqs6dx51ff4yrbd9u8t4rr8.jpg" alt="W jaki sposób natrafić na doskonałą salę weselną?" /></a>
+                                </div>
+
+                                <div class="entry-content">
+                                    <header>
+                                        <h2 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-natrafic-na-doskonala-sale-weselna.htm" title="W jaki sposób natrafić na doskonałą salę weselną?">W jaki sposób natrafić na doskonałą salę weselną?</a></h2>
+
+                                                                                    <p class="entry-date">
+                                                                                                                                                        11 grudnia 2019                                                
+                                                                                                    &nbsp;-&nbsp;                                                    <span>0 Comment</span>                                                                                            </p>
+                                            
+
+                                    </header>
+                                    <p>W jaki sposób natrafić na doskonałą salę weselną? Często to jest tak, że polskie wesela są fantastycznymi imprezami. Cóż, taka jest właśnie nasza tradycja. Jednak prawda jest taka, że choć wesele trwa stosunkowo krótko -</p>                                </div>
+                            </article>
+                        </li>
+                        
+                        <li class="item item-first post-262 post type-post status-publish format-standard has-post-thumbnail hentry category-banki category-biznes category-finanse category-kredyty category-lokaty">
+                            <article class="entry-item clearfix">
+                                <div class="entry-thumb">
+                                    <a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-reklamowac-sie-w-internecie.htm" title="W jaki sposób reklamować się w Internecie?"><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-438-oi13mp0s3uqr97oymjy89myizm7i4h8uq7miswa3yc.jpg" alt="W jaki sposób reklamować się w Internecie?" /></a>
+                                </div>
+
+                                <div class="entry-content">
+                                    <header>
+                                        <h2 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-reklamowac-sie-w-internecie.htm" title="W jaki sposób reklamować się w Internecie?">W jaki sposób reklamować się w Internecie?</a></h2>
+
+                                                                                    <p class="entry-date">
+                                                                                                                                                        11 grudnia 2019                                                
+                                                                                                    &nbsp;-&nbsp;                                                    <span>0 Comment</span>                                                                                            </p>
+                                            
+
+                                    </header>
+                                    <p>W jaki sposób reklamować się w Internecie? Trzeba zwrócić uwagę, że aktualne czasy nie są za bardzo OK dla przedsiębiorców, którzy są generalnie mocno konserwatywni, czyli po prostu nie sądzą, że Sieć jest miejscem, które jest</p>                                </div>
+                            </article>
+                        </li>
+                        
+                        <li class="item item-first post-272 post type-post status-publish format-standard has-post-thumbnail hentry category-lokaty">
+                            <article class="entry-item clearfix">
+                                <div class="entry-thumb">
+                                    <a href="http://www.apartament-kolobrzeg.info.pl/co-mozemy-robic-aby-rozreklamowac-wlasna-restauracje.htm" title="Co możemy robić, aby rozreklamować własną restaurację?"><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-393-oi13lzn4zbs0jqptqqzawbd2y7olcng3mq0eufbqmc.jpg" alt="Co możemy robić, aby rozreklamować własną restaurację?" /></a>
+                                </div>
+
+                                <div class="entry-content">
+                                    <header>
+                                        <h2 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/co-mozemy-robic-aby-rozreklamowac-wlasna-restauracje.htm" title="Co możemy robić, aby rozreklamować własną restaurację?">Co możemy robić, aby rozreklamować własną restaurację?</a></h2>
+
+                                                                                    <p class="entry-date">
+                                                                                                                                                        11 grudnia 2019                                                
+                                                                                                    &nbsp;-&nbsp;                                                    <span>0 Comment</span>                                                                                            </p>
+                                            
+
+                                    </header>
+                                    <p>Co możemy robić, aby rozreklamować własną restaurację? Ciężko jednoznacznie powiedzieć co trzeba robić, aby w jakiś sposób rozreklamować swoją restaurację, bo to zależy od bardzo wielu czynników. Jednak można śmiało</p>                                </div>
+                            </article>
+                        </li>
+                        
+                        <li class="item item-first post-264 post type-post status-publish format-standard has-post-thumbnail hentry category-banki category-biznes category-finanse category-kredyty category-lokaty">
+                            <article class="entry-item clearfix">
+                                <div class="entry-thumb">
+                                    <a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-dbac-o-wlasny-wizerunek.htm" title="W jaki sposób dbać o własny wizerunek?"><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-424-oi13mjdqyuj1bjx5jhiguodrfazauamgpfplx8igzo.jpg" alt="W jaki sposób dbać o własny wizerunek?" /></a>
+                                </div>
+
+                                <div class="entry-content">
+                                    <header>
+                                        <h2 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-dbac-o-wlasny-wizerunek.htm" title="W jaki sposób dbać o własny wizerunek?">W jaki sposób dbać o własny wizerunek?</a></h2>
+
+                                                                                    <p class="entry-date">
+                                                                                                                                                        11 grudnia 2019                                                
+                                                                                                    &nbsp;-&nbsp;                                                    <span>0 Comment</span>                                                                                            </p>
+                                            
+
+                                    </header>
+                                    <p>W jaki sposób dbać o własny wizerunek? Należy zwrócić uwagę, że szczególnie wizerunek jest wszystkim co posiadamy. A więc na przykład firma świadcząca usługi hostingowe może oferować swoim klientom przeciętną ofertę i wysokie</p>                                </div>
+                            </article>
+                        </li>
+                                        
+                </ul>
+            </div> 
+            </div></section>                                   
+            </div>
+
+            <section class="widget-area-4"><div id="kopa-posts-list-two-parts-3" class="widget kopa-article-list-widget-1 clearfix"><h3 class="widget-title">Starsze wpisy:</h3>
+												<article class="entry-item clearfix last-item post-262 post type-post status-publish format-standard has-post-thumbnail hentry category-banki category-biznes category-finanse category-kredyty category-lokaty">
+																				<div class="entry-thumb">
+								<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-reklamowac-sie-w-internecie.htm" title="W jaki sposób reklamować się w Internecie?"><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-438-oi13mp0qymobzy1q16y2fpxrhtq9oswt6y0bzreof6.jpg" alt="W jaki sposób reklamować się w Internecie?"/></a>
+								<div class="thumb-hover">
+									<div class="thumb-icon">
+										<span class="icon-top"></span>
+										<a class="fa fa-link" href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-reklamowac-sie-w-internecie.htm" title="W jaki sposób reklamować się w Internecie?"></a>
+									</div>
+								</div>
+							</div>
+						
+						<div class="entry-content">
+							<header>
+								<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-reklamowac-sie-w-internecie.htm" title="W jaki sposób reklamować się w Internecie?">W jaki sposób reklamować się w Internecie?</a></h4>
+
+																	<p class="entry-date">
+																																<span>11 grudnia 2019</span>
+										
+																					&nbsp;-&nbsp;											<span>0 Comment</span>																			</p>
+															</header>
+
+							<p>W jaki sposób reklamować się w Internecie? Trzeba zwrócić uwagę, że aktualne czasy nie są za bardzo OK dla przedsiębiorców, którzy są generalnie mocno konserwatywni, czyli po prostu nie sądzą, że Sieć jest miejscem, które jest</p>
+
+															<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-reklamowac-sie-w-internecie.htm" class="more-link" title="W jaki sposób reklamować się w Internecie?">Read more<span class="fa fa-angle-double-right "></span></a>
+													</div>
+					</article>
+
+
+											<div class="kopa-other-post">
+							<h4 class="list-post-title">
+								<span>Other post</span>
+							</h4>
+							<ul class="clearfix">
+																			<li>
+								<article class="entry-item clearfix item-other post-270 post type-post status-publish format-standard has-post-thumbnail hentry category-banki category-biznes category-finanse category-kredyty category-lokaty">
+																			
+										<div class="entry-thumb">
+											<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-natrafic-na-doskonala-sale-weselna.htm" title="W jaki sposób natrafić na doskonałą salę weselną?"><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-401-oi13m4c8hdzkouchnz0qglcbqqvu8hdnqbjio5jyvk.jpg" alt="W jaki sposób natrafić na doskonałą salę weselną?"/></a>
+										</div>
+									
+									<div class="entry-content">
+										<header>
+											<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-natrafic-na-doskonala-sale-weselna.htm" title="W jaki sposób natrafić na doskonałą salę weselną?">W jaki sposób natrafić na doskonałą salę weselną?</a></h4>
+
+																							<p class="entry-date">
+																																									<span>11 grudnia 2019</span>
+													
+																											&nbsp;-&nbsp;														<span>0 Comment</span>																									</p>
+																					</header>
+
+										<p>W jaki sposób natrafić na doskonałą salę weselną? Często to jest tak, że polskie wesela</p>
+
+																					<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-natrafic-na-doskonala-sale-weselna.htm" class="more-link" title="W jaki sposób natrafić na doskonałą salę weselną?">Read more<span class="fa fa-angle-double-right "></span></a>
+																				</div>
+								</article>
+							</li>   
+																	<li>
+								<article class="entry-item clearfix item-other post-280 post type-post status-publish format-standard has-post-thumbnail hentry category-banki">
+																			
+										<div class="entry-thumb">
+											<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-wypromowac-wlasny-biznes.htm" title="W jaki sposób wypromować własny biznes?"><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-320-oi13lljgop9u8n3spqw72q33v1ghyjb0zqht2mbuc0.jpg" alt="W jaki sposób wypromować własny biznes?"/></a>
+										</div>
+									
+									<div class="entry-content">
+										<header>
+											<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-wypromowac-wlasny-biznes.htm" title="W jaki sposób wypromować własny biznes?">W jaki sposób wypromować własny biznes?</a></h4>
+
+																							<p class="entry-date">
+																																									<span>11 grudnia 2019</span>
+													
+							
+afb8
+																				&nbsp;-&nbsp;														<span>0 Comment</span>																									</p>
+																					</header>
+
+										<p>W jaki sposób wypromować własny biznes? Obecnie Polska to miejsce, w którym jest kapitalizm</p>
+
+																					<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-wypromowac-wlasny-biznes.htm" class="more-link" title="W jaki sposób wypromować własny biznes?">Read more<span class="fa fa-angle-double-right "></span></a>
+																				</div>
+								</article>
+							</li>   
+						    
+					</ul>
+				</div>
+				</div><div id="kopa-gallery-list-3" class="widget kopa-gallery-list clearfix"><h3 class="widget-title">Losowe artykuły:</h3>			<div class="gallery-masonry-wrap">
+				<ul class="row clearfix">
+					
+						<li class="gl-item col-sm-4 post-268 post type-post status-publish format-standard has-post-thumbnail hentry category-banki category-biznes category-finanse category-kredyty category-lokaty">
+							<article class="entry-item clearfix">
+																										<div class="entry-thumb">
+										<a href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm" title="Szukamy perfekcyjnego biura rachunkowego"><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-411-oi13m83mu6c1nvyz5s488zfpsyzk4owfqpnrt3hq3s.jpg" alt="Szukamy perfekcyjnego biura rachunkowego"></a>
+
+										<div class="thumb-hover">
+											<div class="thumb-icon">
+												<span class="icon-top"></span>
+												<a href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm" title="Szukamy perfekcyjnego biura rachunkowego" class="magnific-gallery-trigger fa fa-picture-o"></a>
+											</div>
+										</div>
+										<div class="hidden magnific-gallery">
+																					</div>
+									</div>
+								
+								<div class="entry-content">
+																			<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/szukamy-perfekcyjnego-biura-rachunkowego.htm" title="Szukamy perfekcyjnego biura rachunkowego">Szukamy perfekcyjnego biura rachunkowego</a></h4>
+									
+																			<p class="entry-date">
+																																			<span>11 grudnia 2019</span>
+											
+																							&nbsp;-&nbsp;												<span>0 Comment</span>																					</p>
+																	</div>
+
+							</article>
+						</li>
+
+						
+						<li class="gl-item col-sm-4 post-280 post type-post status-publish format-standard has-post-thumbnail hentry category-banki">
+							<article class="entry-item clearfix">
+																										<div class="entry-thumb">
+										<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-wypromowac-wlasny-biznes.htm" title="W jaki sposób wypromować własny biznes?"><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-320-oi13lljia5h5x8vqtid6l54njq2qzyevnm04agf694.jpg" alt="W jaki sposób wypromować własny biznes?"></a>
+
+										<div class="thumb-hover">
+											<div class="thumb-icon">
+												<span class="icon-top"></span>
+												<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-wypromowac-wlasny-biznes.htm" title="W jaki sposób wypromować własny biznes?" class="magnific-gallery-trigger fa fa-picture-o"></a>
+											</div>
+										</div>
+										<div class="hidden magnific-gallery">
+																					</div>
+									</div>
+								
+								<div class="entry-content">
+																			<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-wypromowac-wlasny-biznes.htm" title="W jaki sposób wypromować własny biznes?">W jaki sposób wypromować własny biznes?</a></h4>
+									
+																			<p class="entry-date">
+																																			<span>11 grudnia 2019</span>
+											
+																							&nbsp;-&nbsp;												<span>0 Comment</span>																					</p>
+																	</div>
+
+							</article>
+						</li>
+
+						
+						<li class="gl-item col-sm-4 post-278 post type-post status-publish format-standard has-post-thumbnail hentry category-biznes">
+							<article class="entry-item clearfix">
+																										<div class="entry-thumb">
+										<a href="http://www.apartament-kolobrzeg.info.pl/co-robic-aby-miec-sporo-bardziej-dochodowa-pizzerie.htm" title="Co robić, aby mieć sporo bardziej dochodową pizzerię?"><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/uploads/bfi_thumb/biznes-338-oi13lq8p8bnljaox22ebflxyinfl2fxjc99jou87e0.jpg" alt="Co robić, aby mieć sporo bardziej dochodową pizzerię?"></a>
+
+										<div class="thumb-hover">
+											<div class="thumb-icon">
+												<span class="icon-top"></span>
+												<a href="http://www.apartament-kolobrzeg.info.pl/co-robic-aby-miec-sporo-bardziej-dochodowa-pizzerie.htm" title="Co robić, aby mieć sporo bardziej dochodową pizzerię?" class="magnific-gallery-trigger fa fa-picture-o"></a>
+											</div>
+										</div>
+										<div class="hidden magnific-gallery">
+																					</div>
+									</div>
+								
+								<div class="entry-content">
+																			<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/co-robic-aby-miec-sporo-bardziej-dochodowa-pizzerie.htm" title="Co robić, aby mieć sporo bardziej dochodową pizzerię?">Co robić, aby mieć sporo bardziej dochodową pizzerię?</a></h4>
+									
+																			<p class="entry-date">
+																																			<span>11 grudnia 2019</span>
+											
+																							&nbsp;-&nbsp;												<span>0 Comment</span>																					</p>
+																	</div>
+
+							</article>
+						</li>
+
+										</ul>
+			</div>    
+			</div></section>                 
+        </div>
+
+        <aside class="sidebar widget-area-5"><div id="polls-widget-2" class="widget widget_polls-widget clearfix"><h3 class="widget-title">Nasza ankieta:</h3><div id="polls-1" class="wp-polls">
+	<form id="polls_form_1" class="wp-polls-form" action="/index.php" method="post">
+		<p style="display: none;"><input type="hidden" id="poll_1_nonce" name="wp-polls-nonce" value="246530fbf0" /></p>
+		<p style="display: none;"><input type="hidden" name="poll_id" value="1" /></p>
+		<p style="text-align: center;"><strong>Czy zainteresowały Cię jakieś artykuły lub zdjęcia znajdująca się na naszej stronie?</strong></p><div id="polls-1-ans" class="wp-polls-ans"><ul class="wp-polls-ul">
+		<li><input type="radio" id="poll-answer-1" name="poll_1" value="1" /> <label for="poll-answer-1">Tak</label></li>
+		<li><input type="radio" id="poll-answer-2" name="poll_1" value="2" /> <label for="poll-answer-2">Nie</label></li>
+		<li><input type="radio" id="poll-answer-3" name="poll_1" value="3" /> <label for="poll-answer-3">Jeszcze nie</label></li>
+		<li><input type="radio" id="poll-answer-4" name="poll_1" value="4" /> <label for="poll-answer-4">Nie mam zdania</label></li>
+		<li><input type="radio" id="poll-answer-5" name="poll_1" value="5" /> <label for="poll-answer-5">Nie interesuje mnie to</label></li>
+		</ul><p style="text-align: center;"><input type="button" name="vote" value="   Vote   " class="Buttons" onclick="poll_vote(1);" /></p><p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(1); return false;" title="View Results Of This Poll">View Results</a></p></div>
+	</form>
+</div>
+<div id="polls-1-loading" class="wp-polls-loading"><img src="http://www.apartament-kolobrzeg.info.pl/wp-content/plugins/wp-polls/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image" />&nbsp;Loading ...</div>
+</div><div id="archives-4" class="widget widget_archive clearfix"><h3 class="widget-title">Archiwa</h3>		<ul>
+				<li><a href='http://www.apartament-kolobrzeg.info.pl/2020/01'>Styczeń 2020</a></li>
+	<li><a href='http://www.apartament-kolobrzeg.info.pl/2019/12'>Grudzień 2019</a></li>
+		</ul>
+			</div><div id="kopa-article-list-widget-3" class="widget kopa-article-list-widget article-icon clearfix"><h3 class="widget-title">Pozostałe wpisy:</h3>			<ul class="clearfix">
+				
+					<li class="item other-item post-270 post type-post status-publish format-standard has-post-thumbnail hentry category-banki category-biznes category-finanse category-kredyty category-lokaty">
+						<article class="entry-item clearfix">  
+							
+																							<span class="entry-icon fa fa-link"></span>                            
+							
+							<div class="entry-content">
+								<header>
+									
+																			<p class="entry-date">
+																																			<span>11 grudnia 2019</span>
+											
+																							&nbsp;-&nbsp;												<span>0 Comment</span>																					</p>
+									
+																			<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-natrafic-na-doskonala-sale-weselna.htm" title="W jaki sposób natrafić na doskonałą salę weselną?">W jaki sposób natrafić na doskonałą salę weselną?</a></h4>
+									
+								</header>
+
+								<p>W jaki sposób natrafić na doskonałą salę weselną? Często to jest tak, że polskie wesela</p>
+
+																	<a href="http://www.apartament-kolobrzeg.info.pl/w-jaki-sposob-natrafic-na-doskonala-sale-weselna.htm" class="more-link" title="W jaki sposób natrafić na doskonałą salę weselną?">Read more<span class="fa fa-angle-double-right "></span></a>
+																</div>
+						</article>
+					</li>
+					
+					<li class="item other-item post-272 post type-post status-publish format-standard has-post-thumbnail hentry category-lokaty">
+						<article class="entry-item clearfix">  
+							
+																							<span class="entry-icon fa fa-link"></span>                            
+							
+							<div class="entry-content">
+								<header>
+									
+																			<p class="entry-date">
+																																			<span>11 grudnia 2019</span>
+											
+																							&nbsp;-&nbsp;												<span>0 Comment</span>																					</p>
+									
+																			<h4 class="entry-title"><a href="http://www.apartament-kolobrzeg.info.pl/co-mozemy-robic-aby-rozreklamowac-wlasna-restauracje.htm" title="Co możemy robić, aby rozreklamować własną restaurację?">Co możemy robić, aby rozreklamować własną restaurację?</a></h4>
+									
+								</header>
+
+								<p>Co możemy robić, aby rozreklamować własną restaurację? Ciężko jednoznacznie</p>
+
+																	<a href="http://www.apartament-kolobrzeg.info.pl/co-mozemy-robic-aby-rozreklamowac-wlasna-restauracje.htm" class="more-link" title="Co możemy robić, aby rozreklamować własną restaurację?">Read more<span class="fa fa-angle-double-right "></span></a>
+																</div>
+						</article>
+					</li>
+					
+					<li class="item other-item post-276 post type-post status-publis

@@ -1,9 +1,9 @@
 HTTP/1.1 301 Moved Permanently
-Date: Thu, 05 Dec 2019 14:30:08 GMT
+Date: Tue, 14 Jan 2020 01:59:36 GMT
 Server: Apache
-Location: https://www.iana.org/
-Cache-Control: max-age=345600
-Expires: Mon, 09 Dec 2019 14:30:08 GMT
+Location: http://august-car.pl/
+Cache-Control: max-age=1209600
+Expires: Tue, 28 Jan 2020 01:59:36 GMT
 Content-Length: 229
 Content-Type: text/html; charset=iso-8859-1
 
@@ -12,5 +12,5 @@ Content-Type: text/html; charset=iso-8859-1
 <title>301 Moved Permanently</title>
 </head><body>
 <h1>Moved Permanently</h1>
-<p>The document has moved <a href="https://www.iana.org/">here</a>.</p>
+<p>The document has moved <a href="http://august-car.pl/">here</a>.</p>
 </body></html>

@@ -1,0 +1,171 @@
+HTTP/1.1 200 OK
+Date: Tue, 14 Jan 2020 01:59:35 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.6
+Set-Cookie: PHPSESSID=u83kjc7bupjj8bg1obn0r44to6; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: komunikat=1578967175; expires=Wed, 13-Jan-2021 07:48:21 GMT; path=/; domain=.skracaj.com
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=iso-8859-2
+
+6c47
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Skracanie linków i adresów stron - Skracaj.com</title>
+<meta name="description" content="Twój link jest za d³ugi lub nieczytelny? Skróæ adres za pomoc± Skracaj.com - z nami droga do informacji staje siê krótsza.">
+<meta name="keywords" content="skracanie linków, skracanie adresów, krótki adres, skracacz adresów, skróæ link, skracarka linków, tinyurl, skracacz linków">
+<meta name="robots" content="index,follow">
+<meta http-equiv="content-language" content="pl">
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-2">
+<link rel="shortcut icon" href="/images/domain/skracaj.com/favicon.ico">
+<link rel="stylesheet" href="/style.css?v=1" type="text/css">
+<script src="https://apis.google.com/js/platform.js" async defer>{lang: 'pl'}</script>
+<script type="text/javascript" src="/images/functions.js"></script>
+
+</head>
+<body>
+<div id="bg">
+<div id="top">
+<div align="center">
+<table cellspacing="0" cellpadding="0" width="950"><tr><td height="45" width="100%" align="right"><table cellspacing="0" cellpadding="0"><tr><td width="100%" align="right" class="auth"><a rel="nofollow" href="/moje_strony" title="Zaloguj siê">Zaloguj siê</a> lub <a rel="nofollow" href="/wersja_mobilna">w³±cz</a> wersjê mobiln±</td><td><img src="/images/pixel.gif" alt="" width="5" height="1"></td><td><g:plusone annotation="none"></g:plusone></td></tr></table></td></tr><form method="get" action="/szukaj"><tr><td width="100%" valign="top"><table cellspacing="0" cellpadding="0" width="100%"><tr><td><a href="http://www.skracaj.com" title="Skracaj.com"><img src="/images/pixel.gif" alt="" width="550" height="88"></a></td><td valign="top"><table cellspacing="0" cellpadding="0" width="100%"><tr><td valign="middle"><input type="text" name="search" class="search" maxlength="50" value=""></td><td align=right><input type="submit" value="" style="background-image: url(/images/domain/skracaj.com/search.jpg); border: solid 0px #000000; width: 55px; height: 44px;"></td></tr></table></td></tr></table></td></tr></form><tr><td width="950" valign="top"><table cellspacing="0" cellpadding="0" width="950"><tr><td style="background-image: url(/images/domain/skracaj.com/menu.jpg);" width="950" height="68" valign="middle" align="center">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="header"><a href="http://www.skracaj.com" title="Start">Start</a></td>
+<td><img src="/images/pixel.gif" alt="" width="8" height="1"></td><td><img src="/images/domain/skracaj.com/separator_header.jpg" alt=""></td><td><img src="/images/pixel.gif" alt="" width="8" height="1"></td>
+<td class="header"><a rel="nofollow" href="/skroc_url" title="Skróæ URL">Skróæ URL</a></td>
+<td><img src="/images/pixel.gif" alt="" width="8" height="1"></td><td><img src="/images/domain/skracaj.com/separator_header.jpg" alt=""></td><td><img src="/images/pixel.gif" alt="" width="8" height="1"></td>
+<td class="header"><a rel="nofollow" href="/kup_multikod" title="Kup multikod">Kup multikod</a></td>
+<td><img src="/images/pixel.gif" alt="" width="8" height="1"></td><td><img src="/images/domain/skracaj.com/separator_header.jpg" alt=""></td><td><img src="/images/pixel.gif" alt="" width="8" height="1"></td>
+<td class="header"><a rel="nofollow" href="/dodaj_strone" title="Dodaj stronê">Dodaj stronê</a></td>
+<td><img src="/images/pixel.gif" alt="" width="8" height="1"></td><td><img src="/images/domain/skracaj.com/separator_header.jpg" alt=""></td><td><img src="/images/pixel.gif" alt="" width="8" height="1"></td>
+<td class="header"><a rel="nofollow" href="/moje_strony" title="Moje strony">Moje strony</a></td>
+<td><img src="/images/pixel.gif" alt="" width="8" height="1"></td><td><img src="/images/domain/skracaj.com/separator_header.jpg" alt=""></td><td><img src="/images/pixel.gif" alt="" width="8" height="1"></td>
+<td class="header"><a rel="nofollow" href="/moje_konto" title="Moje konto">Moje konto</a></td>
+<td><img src="/images/pixel.gif" alt="" width="8" height="1"></td><td><img src="/images/domain/skracaj.com/separator_header.jpg" alt=""></td><td><img src="/images/pixel.gif" alt="" width="8" height="1"></td>
+<td class="header"><a rel="nofollow" href="/szukaj" title="Szukaj">Szukaj</a></td>
+<td><img src="/images/pixel.gif" alt="" width="8" height="1"></td><td><img src="/images/domain/skracaj.com/separator_header.jpg" alt=""></td><td><img src="/images/pixel.gif" alt="" width="8" height="1"></td>
+<td class="header"><a rel="nofollow" href="/pomoc" title="Pomoc">Pomoc</a></td>
+<td><img src="/images/pixel.gif" alt="" width="8" height="1"></td><td><img src="/images/domain/skracaj.com/separator_header.jpg" alt=""></td><td><img src="/images/pixel.gif" alt="" width="8" height="1"></td>
+<td class="header"><a rel="nofollow" href="/kontakt" title="Kontakt">Kontakt</a></td>
+</tr>
+</table></td></tr></table></td></tr><tr><td width="100%" valign="top" class="body"><table cellspacing="0" cellpadding="0" width="100%"><tr><td><img src="/images/pixel.gif" alt="" width="10" height="1"></td><td><img src="/images/pixel.gif" alt="" width="192" height="1"></td><td><img src="/images/pixel.gif" alt="" width="10" height="1"></td><td><img src="/images/pixel.gif" alt="" width="728" height="1"></td><td><img src="/images/pixel.gif" alt="" width="10" height="1"></td></tr><tr><td></td><td valign="top"><table cellspacing="0" cellpadding="0" width="100%"><tr><td width="100%" height="42" valign="middle" align="center" class="head"><h3>Reklama</h3></td></tr><tr><td class="menu"><ul class="lists">
+<li><a href="/studio_projektowe_kamil_pilawka_1783.html" title="Studio Projektowe Kamil Pilawka">Studio Projektowe Kamil Pilawka</a><img src="/images/pixel.gif" alt="" width="1" height="2"><br>Nasza firma powsta³a, by ka¿dy z klientów móg³...</li>
+<li><a href="/oplaty_srodowiskowe_i_sprawozdawczosc_921.html" title="Op³aty ¶rodowiskowe i sprawozdawczo¶æ">Op³aty ¶rodowiskowe i sprawozdawczo¶æ</a><img src="/images/pixel.gif" alt="" width="1" height="2"><br>Niniejszy portal internetowy dedykowany jest...</li>
+<li><a href="/dentysta_torun_cennik_6956.html" title="Dentysta Toruñ Cennik">Dentysta Toruñ Cennik</a><img src="/images/pixel.gif" alt="" width="1" height="2"><br>Witamy w klinice Esthetic Dental Clinic doktora...</li>
+<li><a href="/auto_form_ambulanse_sanitarne_2174.html" title="Auto-Form Ambulanse sanitarne">Auto-Form Ambulanse sanitarne</a><img src="/images/pixel.gif" alt="" width="1" height="2"><br>Auto-Form to firma, która od 1974 roku zajmuje siê...</li>
+<li class="last"><a href="/logopeda_ursynow_warszawa_2655.html" title="Logopeda Ursynów Warszawa">Logopeda Ursynów Warszawa</a><img src="/images/pixel.gif" alt="" width="1" height="2"><br>W stolicy Polski ma siedzibê Centrum Promyk, które...</li></ul></td></tr><tr><td><img src="/images/pixel.gif" alt="" width="1" height="10"></td></tr><tr><td align="center">	    <script type="text/javascript"><!--
+	    google_ad_client = "pub-9089653124018814";
+	    google_alternate_ad_url = "http://www.skracaj.com/images/google_adsense_script.html";
+	    google_ad_width = 160;
+	    google_ad_height = 600;
+	    google_ad_format = "160x600_as";
+	    google_ad_type = "text_image";
+	    google_ad_channel ="";
+	    google_color_border = "ffffff";
+	    google_color_bg = "ffffff";
+	    google_color_link = "403E3E";
+	    google_color_text = "7b7b7b";
+	    google_color_url = "7b7b7b";
+	    //--></script>
+	    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+	    </td></tr><tr><td><img src="/images/pixel.gif" alt="" width="1" height="10"></td></tr><tr><td><a rel="nofollow" href="/kliknij/strona" target="_blank"><img src="/images/kliknij/mojastrona.jpg" border="0" alt=""></a></td></tr></table></td><td></td><td valign="top"><table cellspacing="0" cellpadding="0" width="100%"><tr><td>	    <script type="text/javascript"><!--
+	    google_ad_client = "pub-9089653124018814";
+	    google_alternate_ad_url = "http://www.skracaj.com/images/google_adsense_script.html";
+	    google_ad_width = 728;
+	    google_ad_height = 15;
+	    google_ad_format = "728x15_0ads_al";
+	    google_ad_channel = "";
+	    google_color_border = "FFFFFF";
+	    google_color_bg = "FFFFFF";
+	    google_color_link = "3d6387";
+	    google_color_text = "7b7b7b";
+	    google_color_url = "7b7b7b";
+	    //--></script>
+	    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+	    </td></tr><tr><td><img src="/images/pixel.gif" alt="" width="1" height="10"></td></tr><tr><td>	    <script type="text/javascript"><!--
+	    google_ad_client = "pub-9089653124018814";
+	    google_alternate_ad_url = "http://www.skracaj.com/images/google_adsense_script.html";
+	    google_ad_width = 728;
+	    google_ad_height = 90;
+	    google_ad_format = "728x90_as";
+	    google_ad_type = "text_image";
+	    google_ad_channel = "";
+	    google_color_border = "FFFFFF";
+	    google_color_bg = "FFFFFF";
+	    google_color_link = "3d6387";
+	    google_color_text = "7b7b7b";
+	    google_color_url = "7b7b7b";
+	    //--></script>
+	    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+	    </td></tr><tr><td><img src="/images/pixel.gif" alt="" width="1" height="10"></td></tr><tr><td valign="top" width="100%"><table cellspacing="0" cellpadding="0" width="100%"><tr><td valign="top" class="navigation" width="100%"><a href="http://www.skracaj.com" title="Start" class="no">Start</a></td></tr></table></td></tr><tr><td><img src="/images/pixel.gif" alt="" width="1" height="10"></td></tr><tr><td width="100%" valign="top"><table cellspacing="0" cellpadding="0" width="100%"><tr><td>Serwis Skracaj.com oferujê dwie us³ugi - skracanie d³ugich adresów stron oraz moderowany katalog stron internetowych. Dziêki po³±czeniu tych dwóch us³ug jeste¶my bardziej konkurencyjni ni¿ strony oferuj±ce tylko jedn± z tych us³ug. Skracaj.com umo¿liwia zmianê d³ugich, trudnych do zapamiêtania adresów internetowych w krótkie i wpadaj±ce w oko linki. Bez problemu podzielisz siê nimi ze znajomymi, poka¿esz w prezentacji, a nawet u¿yjesz w publikacjach! Serwis Skracaj.com jest pomocny w naprawdê wielu sytuacjach. Je¶li chcesz komu¶ wys³aæ adres internetowy SMS-em, podzieliæ siê nim na Twitterze albo wpisaæ jako opis statusu na GG, to skracanie jest doskona³ym rozwi±zaniem. Skracaj.com pomo¿e Ci tak¿e przygotowaæ profesjonalne szkolenie lub prezentacjê: zamiast niewygodnego adresu do zasobów, podaj s³uchaczom skrócony link, którego zapamiêtanie bêdzie ³atwiejsze od przepisania. Nasza strona jest tak prosta, ¿e obs³u¿ysz j± w kilka sekund. Wystarczy podaæ d³ugi adres, a system poda krótki link. <div id="click" style="display:inline;"><a href="#" onclick="show(); return false;" title="Wiêcej &raquo;" class="small">Wiêcej &raquo;</a></div><div id="more" style="display:none;"><br><br>Nasz serwis nie wy¶wietla natrêtnych reklam, nie wymaga rejestracji i w ¿aden sposób nie zbiera informacji o swoich u¿ytkownikach - po prostu dajemy Ci do dyspozycji wygodne narzêdzie do skracania linków. Nie u¿ywamy tego serwisu (w przeciwieñstwie do paru konkurencyjnych stron), po to, aby zbieraæ maile u¿ytkowników albo budowaæ bazy danych dotycz±ce ich zachowañ. Nasza strona s³u¿y do skracania linków internetowych i do niczego wiêcej. Zapewniamy bezpieczeñstwo naszym u¿ytkownikom, a skróconym adresom pe³n± funkcjonalno¶æ. Dziêki temu Skracaj.com staje siê pierwszym w Polsce ca³kowicie niemal wolnym od jakichkolwiek zagro¿eñ serwisem tego rodzaju. Nie spamujemy, szanujemy prywatno¶æ naszych u¿ytkowników i pozwalamy na zdecydowanie wygodniejsze przegl±danie sieci ni¿ kiedykolwiek o tym marzy³e¶.</div></td></tr><tr><td><img src="/images/pixel.gif" alt="" width="1" height="10"></td></tr><tr><td>
+<ul class="list1"><li><a href="/budownictwo" title="Budownictwo">Budownictwo</a><s>164</s></li></ul>
+<ul class="list1"><li><a href="/finanse" title="Finanse">Finanse</a><s>167</s></li></ul>
+<ul class="list1"><li><a href="/firmy" title="Firmy">Firmy</a><s>1191</s></li></ul>
+<ul class="list1"><li><a href="/internet_i_komputery" title="Internet i komputery">Internet i komputery</a><s>248</s></li></ul>
+<ul class="list1"><li><a href="/motoryzacja" title="Motoryzacja">Motoryzacja</a><s>200</s></li></ul>
+<ul class="list1"><li><a href="/nieruchomosci" title="Nieruchomo¶ci">Nieruchomo¶ci</a><s>89</s></li></ul>
+<ul class="list1"><li><a href="/ogrod_i_dom" title="Ogród i dom">Ogród i dom</a><s>491</s></li></ul>
+<ul class="list1"><li><a href="/przemysl_i_produkcja" title="Przemys³ i produkcja">Przemys³ i produkcja</a><s>70</s></li></ul>
+<ul class="list1"><li><a href="/reklama_i_marketing" title="Reklama i marketing">Reklama i marketing</a><s>30</s></li></ul>
+<ul class="list1"><li><a href="/rekreacja_i_sport" title="Rekreacja i sport">Rekreacja i sport</a><s>60</s></li></ul>
+<ul class="list1"><li><a href="/rozrywka" title="Rozrywka">Rozrywka</a><s>80</s></li></ul>
+<ul class="list1"><li><a href="/sklepy_i_hurtownie" title="Sklepy i hurtownie">Sklepy i hurtownie</a><s>354</s></li></ul>
+<ul class="list1"><li><a href="/sztuka_i_kultura" title="Sztuka i kultura">Sztuka i kultura</a><s>59</s></li></ul>
+<ul class="list1"><li><a href="/tekstylia_i_odziez" title="Tekstylia i odzie¿">Tekstylia i odzie¿</a><s>55</s></li></ul>
+<ul class="list1"><li><a href="/transport_i_spedycja" title="Transport i spedycja">Transport i spedycja</a><s>59</s></li></ul>
+<ul class="list1"><li><a href="/turystyka" title="Turystyka">Turystyka</a><s>118</s></li></ul>
+<ul class="list1"><li><a href="/uroda_i_zdrowie" title="Uroda i zdrowie">Uroda i zdrowie</a><s>275</s></li></ul>
+<ul class="list1"><li><a href="/uslugi" title="Us³ugi">Us³ugi</a><s>520</s></li></ul>
+<ul class="list1"><li><a href="/zwierzeta" title="Zwierzêta">Zwierzêta</a><s>11</s></li></ul>
+<ul class="list1"><li><a href="/pozostale" title="Pozosta³e">Pozosta³e</a><s>31</s></li></ul></td></tr><tr><td><table width="100%" cellpadding="0" cellspacing="0">
+<tr><td class="line" onmouseout="this.className='line'" onmouseover="this.className='on'" onclick="window.location.href='/dobre_restauracje_inowroclaw_6894.html'"><table width="100%" cellpadding="0" cellspacing="0"><tr><td><img src="/photo/skracaj.com/6/6894/photo.jpg" alt="Dobre restauracje Inowroc³aw" class="img" width="72" height="54"></td><td><img src="/images/pixel.gif" alt="" width="10" height="1"></td><td width="100%" class="listing"><a href="/dobre_restauracje_inowroclaw_6894.html" title="Dobre restauracje Inowroc³aw">Dobre restauracje Inowroc³aw</a><br>Karczma Kujawska Inowroc³aw zachêca do odwiedzenia. Je¶li jeste¶cie w trasie oraz...<br><img src="/images/pixel.gif" alt="" width="2" height="2"><br><small>http://karczmakujawska.pl</small></td></tr></table></td></tr>
+<tr><td class="line" onmouseout="this.className='line'" onmouseover="this.className='on'" onclick="window.location.href='/sklep_z_olejami_do_silnikow_olejedosilnikow_pl_1945.html'"><table width="100%" cellpadding="0" cellspacing="0"><tr><td><img src="/photo/skracaj.com/1/1945/photo.jpg" alt="Sklep z olejami do silników - OlejeDoSilnikow.pl" class="img" width="72" height="54"></td><td><img src="/images/pixel.gif" alt="" width="10" height="1"></td><td width="100%" class="listing"><a href="/sklep_z_olejami_do_silnikow_olejedosilnikow_pl_1945.html" title="Sklep z olejami do silników - OlejeDoSilnikow.pl">Sklep z olejami do silników - OlejeDoSilnikow.pl</a><br>Jeste¶my partnerem handlowym oficjalnego dystrybutora wyrobów olejowych. Wszystkie oleje...<br><img src="/images/pixel.gif" alt="" width="2" height="2"><br><small>http://www.olejedosilnikow.pl</small></td></tr></table></td></tr>
+<tr><td class="featured" onmouseout="this.className='featured'" onmouseover="this.className='on'" onclick="window.location.href='/biuro_nieruchomosci_hiszpania_6628.html'"><table width="100%" cellpadding="0" cellspacing="0"><tr><td><img src="/photo/skracaj.com/6/6628/photo.jpg" alt="Biuro nieruchomo¶ci Hiszpania" class="img" width="72" height="54"></td><td><img src="/images/pixel.gif" alt="" width="10" height="1"></td><td width="100%" class="listing"><a href="/biuro_nieruchomosci_hiszpania_6628.html" title="Biuro nieruchomo¶ci Hiszpania">Biuro nieruchomo¶ci Hiszpania</a><br>Przegl±daj±c oferty domów w Hiszpanii sam zamarzy³e¶ sobie zostaæ posiadaczem takiej...<br><img src="/images/pixel.gif" alt="" width="2" height="2"><br><small>http://www.costainvest.com</small></td></tr></table></td></tr>
+<tr><td class="line" onmouseout="this.className='line'" onmouseover="this.className='on'" onclick="window.location.href='/reklama_poznan_acs_media_projektowanie_stron_www_705.html'"><table width="100%" cellpadding="0" cellspacing="0"><tr><td><img src="/photo/skracaj.com/0/705/photo.jpg" alt="Reklama Poznañ - ACS Media - projektowanie stron www" class="img" width="72" height="54"></td><td><img src="/images/pixel.gif" alt="" width="10" height="1"></td><td width="100%" class="listing"><a href="/reklama_poznan_acs_media_projektowanie_stron_www_705.html" title="Reklama Poznañ - ACS Media - projektowanie stron www">Reklama Poznañ - ACS Media - projektowanie stron www</a><br>Projektowanie stron WWW najlepiej zostawiæ fachowcom. Nasza pracownia pomo¿e stworzyæ...<br><img src="/images/pixel.gif" alt="" width="2" height="2"><br><small>http://www.acsmedia.pl</small></td></tr></table></td></tr><tr><td class="line" colspan="6">	    <script type="text/javascript"><!--
+	    google_ad_client = "pub-9089653124018814";
+	    google_alternate_ad_url = "http://www.skracaj.com/images/google_adsense_script.html";
+	    google_ad_width = 728;
+	    google_ad_height = 15;
+	    google_ad_format = "728x15_0ads_al";
+	    google_ad_channel = "";
+	    google_color_border = "FFFFFF";
+	    google_color_bg = "FFFFFF";
+	    google_color_link = "3d6387";
+	    google_color_text = "7b7b7b";
+	    google_color_url = "7b7b7b";
+	    //--></script>
+	    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+	    </td></tr>
+<tr><td class="line" onmouseout="this.className='line'" onmouseover="this.className='on'" onclick="window.location.href='/utylizacja_www_hak_net_pl_313.html'"><table width="100%" cellpadding="0" cellspacing="0"><tr><td><img src="/photo/skracaj.com/0/313/photo.jpg" alt="Utylizacja - www.hak.net.pl" class="img" width="72" height="54"></td><td><img src="/images/pixel.gif" alt="" width="10" height="1"></td><td width="100%" class="listing"><a href="/utylizacja_www_hak_net_pl_313.html" title="Utylizacja - www.hak.net.pl">Utylizacja - www.hak.net.pl</a><br>Nasza firma przygotowa³a dla Pañstwa bardzo obfit± oraz niezmiernie rozleg³± ofertê, z...<br><img src="/images/pixel.gif" alt="" width="2" height="2"><br><small>http://www.hak.net.pl</small></td></tr></table></td></tr>
+<tr><td class="line" onmouseout="this.className='line'" onmouseover="this.className='on'" onclick="window.location.href='/eko_soft_program_do_ewidencji_odpadow_1489.html'"><table width="100%" cellpadding="0" cellspacing="0"><tr><td><img src="/photo/skracaj.com/1/1489/photo.jpg" alt="Eko-soft program do ewidencji odpadów" class="img" width="72" height="54"></td><td><img src="/images/pixel.gif" alt="" width="10" height="1"></td><td width="100%" class="listing"><a href="/eko_soft_program_do_ewidencji_odpadow_1489.html" title="Eko-soft program do ewidencji odpadów">Eko-soft program do ewidencji odpadów</a><br>Eko-soft jest twórc± software u³atwiaj±cego prowadzenie ewidencji odpadów dla firm...<br><img src="/images/pixel.gif" alt="" width="2" height="2"><br><small>http://www.eko-soft.pl</small></td></tr></table></td></tr>
+<tr><td class="line" onmouseout="this.className='line'" onmouseover="this.className='on'" onclick="window.location.href='/polkaty_sp_z_o_o_1568.html'"><table width="100%" cellpadding="0" cellspacing="0"><tr><td><img src="/photo/skracaj.com/1/1568/photo.jpg" alt="Polk±ty Sp. z o.o" class="img" width="72" height="54"></td><td><img src="/images/pixel.gif" alt="" width="10" height="1"></td><td width="100%" class="listing"><a href="/polkaty_sp_z_o_o_1568.html" title="Polk±ty Sp. z o.o">Polk±ty Sp. z o.o</a><br>W bran¿y transportowej funkcjonujemy od 1996 roku. Nasza Agencja...<br><img src="/images/pixel.gif" alt="" width="2" height="2"><br><small>http://autokary.polkaty.pl</small></td></tr></table></td></tr><tr><td class="line" colspan="6">	    <script type="text/javascript"><!--
+	    google_ad_client = "pub-9089653124018814";
+	    google_alternate_ad_url = "http://www.skracaj.com/images/google_adsense_script.html";
+	    google_ad_width = 728;
+	    google_ad_height = 90;
+	    google_ad_format = "728x90_as";
+	    google_ad_type = "text_image";
+	    google_ad_channel = "";
+	    google_color_border = "FFFFFF";
+	    google_color_bg = "FFFFFF";
+	    google_color_link = "3d6387";
+	    google_color_text = "7b7b7b";
+	    google_color_url = "7b7b7b";
+	    //--></script>
+	    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+	    </td></tr>
+<tr><td class="featured" onmouseout="this.className='featured'" onmouseover="this.className='on'" onclick="window.location.href='/crystal_house_1602.html'"><table width="100%" cellpadding="0" cellspacing="0"><tr><td><img src="/photo/skracaj.com/1/1602/photo.jpg" alt="Crystal House" class="img" width="72" height="54"></td><td><img src="/images/pixel.gif" alt="" width="10" height="1"></td><td width="100%" class="listing"><a href="/crystal_house_1602.html" title="Crystal House">Crystal House</a><br>Przedsiêbiorstwo dzia³aj±ce pod nazw± Crystal House to warszawski sklep oferuj±cy...<br><img src="/images/pixel.gif" alt="" width="2" height="2"><br><small>http://www.crystal-house.pl</small></td></tr></table></td></tr>
+<tr><td class="line" onmouseout="this.className='line'" onmouseover="this.className='on'" onclick="window.location.href='/inforadzymin_pl_1717.html'"><table width="100%" cellpadding="0" cellspacing="0"><tr><td><img src="/photo/skracaj.com/1/1717/photo.jpg" alt="Inforadzymin.pl" class="img" width="72" height="54"></td><td><img src="/images/pixel.gif" alt="" width="10" height="1"></td><td width="100%" class="listing"><a href="/inforadzymin_pl_1717.html" title="Inforadzymin.pl">Inforadzymin.pl</a><br>Chcesz dowiedzieæ siê co dzieje siê w Twoim mie¶cie? A mo¿e chcesz co¶ sprzedaæ b±d¼...<br><img src="/images/pixel.gif" alt="" width="2" height="2"><br><small>http://inforadzymin.pl</small></td></tr></table></td></tr>
+<tr><td class="line" onmouseout="this.className='line'" onmouseover="this.className='on'" onclick="window.location.href='/rafael_decoration_397.html'"><table width="100%" cellpadding="0" cellspacing="0"><tr><td><img src="/photo/skracaj.com/0/397/photo.jpg" alt="Rafael Decoration" class="img" width="72" height="54"></td><td><img src="/images/pixel.gif" alt="" width="10" height="1"></td><td width="100%" class="listing"><a href="/rafael_decoration_397.html" title="Rafael Decoration">Rafael Decoration</a><br>Jeste¶my wiod±cym producentem i wykonawc± gzymsów i sztukaterii gipsowych w kraju. Od...<br><img src="/images/pixel.gif" alt="" width="2" height="2"><br><small>http://www.sztukateria.biz</small></td></tr></table></td></tr>
+<tr><td class="line" onmouseout="this.className='line'" onmouseover="this.className='on'" onclick="window.location.href='/impla_dental_clinic_2859.html'"><table width="100%" cellpadding="0" cellspacing="0"><tr><td><img src="/photo/skracaj.com/2/2859/photo.jpg" alt="Impla Dental Clinic" class="img" width="72" height="54"></td><td><img src="/images/pixel.gif" alt="" width="10" height="1"></td><td width="100%" class="listing"><a href="/impla_dental_clinic_2859.html" title="Impla Dental Clinic">Impla Dental Clinic</a><br>Stomatologia z impla. com. pl to najnowsze materia³y utwardzalne, które dobrze...<br><img src="/images/pixel.gif" alt="" width="2" height="2"><br><small>http://impla.com.pl</small></td></tr></table></td></tr></table></td></tr></table></td></tr><tr><td><img src="/images/pixel.gif" alt="" width="1" height="10"></td></tr><tr><td><a href="/logan_katowice_s_c_lakomy_anna_sajnog_marek_224.html"><img src="/photo/skracaj.com/0/224/photo.jpg" width="72" height="54" class="img" alt="http://www.meble-logan.pl" style="margin-right:10px"></a><a href="/konferencje_1490.html"><img src="/photo/skracaj.com/1/1490/photo.jpg" width="72" height="54" class="img" alt="http://www.salekonferencyjne.pl" style="margin-right:10px"></a><a href="/identyfikacja_wizualna_714.html"><img src="/photo/skracaj.com/0/714/photo.jpg" width="72" height="54" class="img" alt="http://www.kkstudio.pl" style="margin-right:10px"></a><a href="/sprzet_rtv_agd_komputery_2207.html"><img src="/photo/skracaj.com/2/2207/photo.jpg" width="72" height="54" class="img" alt="http://luxtronic.pl" style="margin-right:10px"></a><a href="/rex_company_s_a_ogolnopolskie_centrum_genetyki_2767.html"><img src="/photo/skracaj.com/2/2767/photo.jpg" width="72" height="54" class="img" alt="http://www.rex.pl" style="margin-right:10px"></a><a href="/sylwester_kielce_2520.html"><img src="/photo/skracaj.com/2/2520/photo.jpg" width="72" height="54" class="img" alt="http://www.cateringkaan.pl" style="margin-right:10px"></a><a href="/elementy_do_balustrad_6630.html"><img src="/photo/skracaj.com/6/6630/photo.jpg" width="72" height="54" class="img" alt="http://sklep.metalpro.pl" style="margin-right:10px"></a><a href="/apartament_kolobrzeg_2485.html"><img src="/photo/skracaj.com/2/2485/photo.jpg" width="72" height="54" class="img" alt="http://www.apartament-kolobrzeg.info.pl" style="margin-right:10px"></a><a href="/przesylki_krakow_wieden_1558.html"><img src="/photo/skracaj.com/1/1558/photo.jpg" width="72" height="54" class="img" alt="http://www.augustynki.pl"></a></td></tr><tr><td><img src="/images/pixel.gif" alt="" width="1" height="10"></td></tr><tr><td><div id="message"><div class="wrap1"><div class="wrap2"><table cellspacing="0" cellpadding="0" width="100%"><tr><td><a href="/pomoc?zamknij=1" class="button" rel="nofollow">&nbsp;Zamknij&nbsp;</a></td><td><img src="/images/pixel.gif" alt="" width="5" height="1"></td><td width="100%">Ta strona korzysta z plików cookies w celu realizacji us³ug i zgodnie z polityk± cookies. Mo¿esz okre¶liæ warunki przechowywania lub dostêpu do plików cookies w Twojej przegl±darce, kliknij <a href="/polityka_cookies">tutaj</a> aby dowiedzieæ siê wiêcej.</td></tr></table></div></div></div></td></tr></table></td><td></td></tr></table></td></tr><tr><td width="100%" valign="top"><table cellspacing="0" cellpadding="0" width="100%"><tr><td><img src="/images/domain/skracaj.com/bottom_left.jpg" alt=""></td><td width="100%" style="background-image: url(/images/domain/skracaj.com/bottom_middle.jpg);" align="center"><table cellspacing="0" cellpadding="0" width="100%"><tr><td align="center"><ul class="footer"><li class="first"><a href="/regulamin" title="Regulamin" rel="nofollow">Regulamin</a></li><li><a href="/polityka_prywatnosci" title="Polityka prywatno¶ci" rel="nofollow">Polityka prywatno¶ci</a></li><li><a href="/rodo" title="RODO" rel="nofollow">RODO</a></li><li><a href="/najnowsze_strony" title="Najnowsze strony">Najnowsze strony</a></li><li><a href="/wyroznione_strony" title="Wyró¿nione strony">Wyró¿nione strony</a></li></ul></td></tr><tr><td><img src="/images/pixel.gif" alt="" width="1" height="5"></td></tr><tr><td class="footer" align="center">Copyright &copy; 2020 Skracaj.com</td></tr></table></td><td><img src="/images/domain/skracaj.com/bottom_right.jpg" alt=""></td></tr></table></td></tr><tr><td><img src="/images/pixel.gif" alt="" width="1" height="10"></td></tr></table>
+</div>
+</div>
+</div>
+<!--cdf2150944464255c4a928016eec3f35-->
+</body>
+</html>
+0
+

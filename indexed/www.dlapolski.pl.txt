@@ -1,0 +1,1434 @@
+HTTP/1.1 200 OK
+Date: Tue, 14 Jan 2020 01:59:11 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=d0c7adee02486d5de0f213b0e269be1e01578967150; expires=Thu, 13-Feb-20 01:59:10 GMT; path=/; domain=.dlapolski.pl; HttpOnly; SameSite=Lax
+Link: <https://www.dlapolski.pl/wp-json/>; rel="https://api.w.org/"
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+CF-Cache-Status: DYNAMIC
+Alt-Svc: h2=":443"; ma=60
+Server: cloudflare
+CF-RAY: 554c02556cc1c83f-AMS
+
+7daf
+<!DOCTYPE html><html lang="pl-PL">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="">
+<title>DlaPolski.PL | właściwa strona internetu | film | muzyka | memy</title>
+
+<meta name="description" content="DlaPolski.PL - codziennie ciekawe wideo" />
+<meta name="keywords" content="komentarz,rok,wojciech sumliński,izrael,pan nikt,podsumowanie,rosja,wojna,społeczeństwo,stanisław krajski,uklad,pytania,roszczenia,stanisław michalkiewicz,zydzi,piotr korczarowski,historia,klamstwa,putin,grzegorz braun,pieniądze,podatki,felieton,mieczysław ryba,wiara,chrzescijanie,jacek ożóg,raport,budzet,dobromir sośnierz,konfederacja,lewica,katecheza,spowiedz,film dokumentalny,gospodarka,komunizm,zapowiedz" />
+<link rel="next" href="https://www.dlapolski.pl/page/2" />
+<link rel="canonical" href="https://www.dlapolski.pl/" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="DlaPolski.PL | właściwa strona internetu | film | muzyka | memy" />
+<meta property="og:description" content="DlaPolski.PL - codziennie ciekawe wideo" />
+<meta property="og:url" content="https://www.dlapolski.pl/" />
+<meta property="og:site_name" content="DlaPolski.PL" />
+<meta property="og:image" content="http://www.dlapolski.pl/wp-content/uploads/2017/10/logo-dlapolski.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@dlapolski" />
+<meta name="twitter:domain" content="https://twitter.com/dlapolski" />
+<meta name="twitter:title" content="DlaPolski.PL | właściwa strona internetu | film | muzyka | memy" />
+<meta name="twitter:description" content="DlaPolski.PL - codziennie ciekawe wideo" />
+<meta name="twitter:image" content="http://www.dlapolski.pl/wp-content/uploads/2017/10/logo-dlapolski.png" />
+
+<link rel='dns-prefetch' href='//www.dlapolski.pl' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="DlaPolski.PL &raquo; Kanał z wpisami" href="https://www.dlapolski.pl/feed" />
+<link rel="alternate" type="application/rss+xml" title="DlaPolski.PL &raquo; Kanał z komentarzami" href="https://www.dlapolski.pl/comments/feed" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.dlapolski.pl\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css' href='http://www.dlapolski.pl/wp-includes/css/dashicons.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='menu-icons-extra-css' href='http://www.dlapolski.pl/wp-content/plugins/menu-icons/css/extra.min.css?ver=0.12.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='http://www.dlapolski.pl/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css' href='http://www.dlapolski.pl/wp-includes/css/dist/block-library/theme.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='better-recent-comments-css' href='http://www.dlapolski.pl/wp-content/plugins/better-recent-comments/assets/css/better-recent-comments.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-consent-style-css' href='http://www.dlapolski.pl/wp-content/plugins/uk-cookie-consent/assets/css/style.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-bxslider-css' href='http://www.dlapolski.pl/wp-content/themes/supermag/assets/library/bxslider/css/jquery.bxslider.min.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='supermag-googleapis-css' href='//fonts.googleapis.com/css?family=Open+Sans%3A600%2C400%7CRoboto%3A300italic%2C400%2C500%2C700&#038;ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='http://www.dlapolski.pl/wp-content/plugins/menu-icons/vendor/codeinwp/icon-picker/css/types/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='supermag-style-css' href='http://www.dlapolski.pl/wp-content/themes/dupermag/style.css?ver=1.4.9' type='text/css' media='all' />
+<style id='supermag-style-inline-css' type='text/css'>
+
+            mark,
+            .comment-form .form-submit input,
+            .read-more,
+            .bn-title,
+            .home-icon.front_page_on,
+            .header-wrapper .menu li:hover > a,
+            .header-wrapper .menu > li.current-menu-item a,
+            .header-wrapper .menu > li.current-menu-parent a,
+            .header-wrapper .menu > li.current_page_parent a,
+            .header-wrapper .menu > li.current_page_ancestor a,
+            .header-wrapper .menu > li.current-menu-item > a:before,
+            .header-wrapper .menu > li.current-menu-parent > a:before,
+            .header-wrapper .menu > li.current_page_parent > a:before,
+            .header-wrapper .menu > li.current_page_ancestor > a:before,
+            .header-wrapper .main-navigation ul ul.sub-menu li:hover > a,
+            .header-wrapper .main-navigation ul ul.children li:hover > a,
+            .slider-section .cat-links a,
+            .featured-desc .below-entry-meta .cat-links a,
+            #calendar_wrap #wp-calendar #today,
+            #calendar_wrap #wp-calendar #today a,
+            .wpcf7-form input.wpcf7-submit:hover,
+            .breadcrumb{
+                background: #1e73be;
+            }
+        
+            a:hover,
+            .screen-reader-text:focus,
+            .bn-content a:hover,
+            .socials a:hover,
+            .site-title a,
+            .search-block input#menu-search,
+            .widget_search input#s,
+            .search-block #searchsubmit,
+            .widget_search #searchsubmit,
+            .footer-sidebar .featured-desc .above-entry-meta a:hover,
+            .slider-section .slide-title:hover,
+            .besides-slider .post-title a:hover,
+            .slider-feature-wrap a:hover,
+            .slider-section .bx-controls-direction a,
+            .besides-slider .beside-post:hover .beside-caption,
+            .besides-slider .beside-post:hover .beside-caption a:hover,
+            .featured-desc .above-entry-meta span:hover,
+            .posted-on a:hover,
+            .cat-links a:hover,
+            .comments-link a:hover,
+            .edit-link a:hover,
+            .tags-links a:hover,
+            .byline a:hover,
+            .nav-links a:hover,
+            #supermag-breadcrumbs a:hover,
+            .wpcf7-form input.wpcf7-submit,
+             .woocommerce nav.woocommerce-pagination ul li a:focus, 
+             .woocommerce nav.woocommerce-pagination ul li a:hover, 
+             .woocommerce nav.woocommerce-pagination ul li span.current{
+                color: #1e73be;
+            }
+            .search-block input#menu-search,
+            .widget_search input#s,
+            .tagcloud a{
+                border: 1px solid #1e73be;
+            }
+            .footer-wrapper .border,
+            .nav-links .nav-previous a:hover,
+            .nav-links .nav-next a:hover{
+                border-top: 1px solid #1e73be;
+            }
+             .besides-slider .beside-post{
+                border-bottom: 3px solid #1e73be;
+            }
+            .widget-title,
+            .footer-wrapper,
+            .page-header .page-title,
+            .single .entry-header .entry-title,
+            .page .entry-header .entry-title{
+                border-bottom: 1px solid #1e73be;
+            }
+            .widget-title:before,
+            .page-header .page-title:before,
+            .single .entry-header .entry-title:before,
+            .page .entry-header .entry-title:before {
+                border-bottom: 7px solid #1e73be;
+            }
+           .wpcf7-form input.wpcf7-submit,
+            article.post.sticky{
+                border: 2px solid #1e73be;
+            }
+           .breadcrumb::after {
+                border-left: 5px solid #1e73be;
+            }
+           .rtl .breadcrumb::after {
+                border-right: 5px solid #1e73be;
+                border-left:medium none;
+            }
+           .header-wrapper #site-navigation{
+                border-bottom: 5px solid #1e73be;
+            }
+           @media screen and (max-width:992px){
+                .slicknav_btn.slicknav_open{
+                    border: 1px solid #1e73be;
+                }
+                 .header-wrapper .main-navigation ul ul.sub-menu li:hover > a,
+                 .header-wrapper .main-navigation ul ul.children li:hover > a
+                 {
+                         background: #2d2d2d;
+                 }
+                .slicknav_btn.slicknav_open:before{
+                    background: { #1e73be };
+                    box-shadow: 0 6px 0 0 #1e73be, 0 12px 0 0 #1e73be;
+                }
+                .slicknav_nav li:hover > a,
+                .slicknav_nav li.current-menu-ancestor a,
+                .slicknav_nav li.current-menu-item  > a,
+                .slicknav_nav li.current_page_item a,
+                .slicknav_nav li.current_page_item .slicknav_item span,
+                .slicknav_nav li .slicknav_item:hover a{
+                    color: #1e73be;
+                }
+            }
+                    .cat-links .at-cat-item-3{
+                    background: #ff8c8c!important;
+                    color : #fff!important;
+                    }
+                    
+                    .at-cat-color-wrap-3 .widget-title::before,
+                    body.category-3 .page-header .page-title::before
+                    {
+                     border-bottom: 7px solid #ff8c8c;
+                    }
+                    
+                    .at-cat-color-wrap-3 .widget-title,
+                     body.category-3 .page-header .page-title
+                    {
+                     border-bottom: 1px solid #ff8c8c;
+                    }
+                    .cat-links .at-cat-item-3:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-8{
+                    background: #000000!important;
+                    color : #fff!important;
+                    }
+                    
+                    .at-cat-color-wrap-8 .widget-title::before,
+                    body.category-8 .page-header .page-title::before
+                    {
+                     border-bottom: 7px solid #000000;
+                    }
+                    
+                    .at-cat-color-wrap-8 .widget-title,
+                     body.category-8 .page-header .page-title
+                    {
+                     border-bottom: 1px solid #000000;
+                    }
+                    .cat-links .at-cat-item-8:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-35{
+                    background: #3d7000!important;
+                    color : #fff!important;
+                    }
+                    
+                    .at-cat-color-wrap-35 .widget-title::before,
+                    body.category-35 .page-header .page-title::before
+                    {
+                     border-bottom: 7px solid #3d7000;
+                    }
+                    
+                    .at-cat-color-wrap-35 .widget-title,
+                     body.category-35 .page-header .page-title
+                    {
+                     border-bottom: 1px solid #3d7000;
+                    }
+                    .cat-links .at-cat-item-35:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-48{
+                    background: #dd9933!important;
+                    color : #fff!important;
+                    }
+                    
+                    .at-cat-color-wrap-48 .widget-title::before,
+                    body.category-48 .page-header .page-title::before
+                    {
+                     border-bottom: 7px solid #dd9933;
+                    }
+                    
+                    .at-cat-color-wrap-48 .widget-title,
+                     body.category-48 .page-header .page-title
+                    {
+                     border-bottom: 1px solid #dd9933;
+                    }
+                    .cat-links .at-cat-item-48:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-51{
+                    background: #dd3333!important;
+                    color : #fff!important;
+                    }
+                    
+                    .at-cat-color-wrap-51 .widget-title::before,
+                    body.category-51 .page-header .page-title::before
+                    {
+                     border-bottom: 7px solid #dd3333;
+                    }
+                    
+                    .at-cat-color-wrap-51 .widget-title,
+                     body.category-51 .page-header .page-title
+                    {
+                     border-bottom: 1px solid #dd3333;
+                    }
+                    .cat-links .at-cat-item-51:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-53{
+                    background: #236cdb!important;
+                    color : #fff!important;
+                    }
+                    
+                    .at-cat-color-wrap-53 .widget-title::before,
+                    body.category-53 .page-header .page-title::before
+                    {
+                     border-bottom: 7px solid #236cdb;
+                    }
+                    
+                    .at-cat-color-wrap-53 .widget-title,
+                     body.category-53 .page-header .page-title
+                    {
+                     border-bottom: 1px solid #236cdb;
+                    }
+                    .cat-links .at-cat-item-53:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-56{
+                    background: #9a23b2!important;
+                    color : #fff!important;
+                    }
+                    
+                    .at-cat-color-wrap-56 .widget-title::before,
+                    body.category-56 .page-header .page-title::before
+                    {
+                     border-bottom: 7px solid #9a23b2;
+                    }
+                    
+                    .at-cat-color-wrap-56 .widget-title,
+                     body.category-56 .page-header .page-title
+                    {
+                     border-bottom: 1px solid #9a23b2;
+                    }
+                    .cat-links .at-cat-item-56:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-63{
+                    background: #eeee22!important;
+                    color : #fff!important;
+                    }
+                    
+                    .at-cat-color-wrap-63 .widget-title::before,
+                    body.category-63 .page-header .page-title::before
+                    {
+                     border-bottom: 7px solid #eeee22;
+                    }
+                    
+                    .at-cat-color-wrap-63 .widget-title,
+                     body.category-63 .page-header .page-title
+                    {
+                     border-bottom: 1px solid #eeee22;
+                    }
+                    .cat-links .at-cat-item-63:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-68{
+                    background: #0bb761!important;
+                    color : #fff!important;
+                    }
+                    
+                    .at-cat-color-wrap-68 .widget-title::before,
+                    body.category-68 .page-header .page-title::before
+                    {
+                     border-bottom: 7px solid #0bb761;
+                    }
+                    
+                    .at-cat-color-wrap-68 .widget-title,
+                     body.category-68 .page-header .page-title
+                    {
+                     border-bottom: 1px solid #0bb761;
+                    }
+                    .cat-links .at-cat-item-68:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-71{
+                    background: #2f7cbf!important;
+                    color : #fff!important;
+                    }
+                    
+                    .at-cat-color-wrap-71 .widget-title::before,
+                    body.category-71 .page-header .page-title::before
+                    {
+                     border-bottom: 7px solid #2f7cbf;
+                    }
+                    
+                    .at-cat-color-wrap-71 .widget-title,
+                     body.category-71 .page-header .page-title
+                    {
+                     border-bottom: 1px solid #2f7cbf;
+                    }
+                    .cat-links .at-cat-item-71:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-82{
+                    background: #cc2854!important;
+                    color : #fff!important;
+                    }
+                    
+                    .at-cat-color-wrap-82 .widget-title::before,
+                    body.category-82 .page-header .page-title::before
+                    {
+                     border-bottom: 7px solid #cc2854;
+                    }
+                    
+                    .at-cat-color-wrap-82 .widget-title,
+                     body.category-82 .page-header .page-title
+                    {
+                     border-bottom: 1px solid #cc2854;
+                    }
+                    .cat-links .at-cat-item-82:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-96{
+                    background: #000000!important;
+                    color : #fff!important;
+                    }
+                    
+                    .at-cat-color-wrap-96 .widget-title::before,
+                    body.category-96 .page-header .page-title::before
+                    {
+                     border-bottom: 7px solid #000000;
+                    }
+                    
+                    .at-cat-color-wrap-96 .widget-title,
+                     body.category-96 .page-header .page-title
+                    {
+                     border-bottom: 1px solid #000000;
+                    }
+                    .cat-links .at-cat-item-96:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-1041{
+                    background: #2247cc!important;
+                    color : #fff!important;
+                    }
+                    
+                    .at-cat-color-wrap-1041 .widget-title::before,
+                    body.category-1041 .page-header .page-title::before
+                    {
+                     border-bottom: 7px solid #2247cc;
+                    }
+                    
+                    .at-cat-color-wrap-1041 .widget-title,
+                     body.category-1041 .page-header .page-title
+                    {
+                     border-bottom: 1px solid #2247cc;
+                    }
+                    .cat-links .at-cat-item-1041:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-1344{
+                    background: #1a99cc!important;
+                    color : #fff!important;
+                    }
+                    
+                    .at-cat-color-wrap-1344 .widget-title::before,
+                    body.category-1344 .page-header .page-title::before
+                    {
+                     border-bottom: 7px solid #1a99cc;
+                    }
+                    
+                    .at-cat-color-wrap-1344 .widget-title,
+                     body.category-1344 .page-header .page-title
+                    {
+                     border-bottom: 1px solid #1a99cc;
+                    }
+                    .cat-links .at-cat-item-1344:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-1712{
+                    background: #47a6cc!important;
+                    color : #fff!important;
+                    }
+                    
+                    .at-cat-color-wrap-1712 .widget-title::before,
+                    body.category-1712 .page-header .page-title::before
+                    {
+                     border-bottom: 7px solid #47a6cc;
+                    }
+                    
+                    .at-cat-color-wrap-1712 .widget-title,
+                     body.category-1712 .page-header .page-title
+                    {
+                     border-bottom: 1px solid #47a6cc;
+                    }
+                    .cat-links .at-cat-item-1712:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+
+           .widget-title span,
+           .widget-title span:after,
+           
+           .page-header .page-title>span,
+           .page-header .page-title>span:after,
+           
+           .single .entry-header .entry-title > span,
+           .single .entry-header .entry-title > span:after,
+           
+           .page .entry-header .entry-title > span,
+           .page .entry-header .entry-title > span:after
+           {
+                background: #1e73be;
+                color : #fff;
+            }
+        
+                    .at-cat-color-wrap-3 .widget-title span,
+                    .at-cat-color-wrap-3 .widget-title span:after,
+                    
+                     body.category-3 .page-header .page-title>span,
+                     body.category-3 .page-header .page-title>span::after
+                    {
+                      background: #ff8c8c;
+                      color:#fff;
+                    }
+                    .at-cat-color-wrap-8 .widget-title span,
+                    .at-cat-color-wrap-8 .widget-title span:after,
+                    
+                     body.category-8 .page-header .page-title>span,
+                     body.category-8 .page-header .page-title>span::after
+                    {
+                      background: #000000;
+                      color:#fff;
+                    }
+                    .at-cat-color-wrap-35 .widget-title span,
+                    .at-cat-color-wrap-35 .widget-title span:after,
+                    
+                     body.category-35 .page-header .page-title>span,
+                     body.category-35 .page-header .page-title>span::after
+                    {
+                      background: #3d7000;
+                      color:#fff;
+                    }
+                    .at-cat-color-wrap-48 .widget-title span,
+                    .at-cat-color-wrap-48 .widget-title span:after,
+                    
+                     body.category-48 .page-header .page-title>span,
+                     body.category-48 .page-header .page-title>span::after
+                    {
+                      background: #dd9933;
+                      color:#fff;
+                    }
+                    .at-cat-color-wrap-51 .widget-title span,
+                    .at-cat-color-wrap-51 .widget-title span:after,
+                    
+                     body.category-51 .page-header .page-title>span,
+                     body.category-51 .page-header .page-title>span::after
+                    {
+                      background: #dd3333;
+                      color:#fff;
+                    }
+                    .at-cat-color-wrap-53 .widget-title span,
+                    .at-cat-color-wrap-53 .widget-title span:after,
+                    
+                     body.category-53 .page-header .page-title>span,
+                     body.category-53 .page-header .page-title>span::after
+                    {
+                      background: #236cdb;
+                      color:#fff;
+                    }
+                    .at-cat-color-wrap-56 .widget-title span,
+                    .at-cat-color-wrap-56 .widget-title span:after,
+                    
+                     body.category-56 .page-header .page-title>span,
+                     body.category-56 .page-header .page-title>span::after
+                    {
+                      background: #9a23b2;
+                      color:#fff;
+                    }
+                    .at-cat-color-wrap-63 .widget-title span,
+                    .at-cat-color-wrap-63 .widget-title span:after,
+                    
+                     body.category-63 .page-header .page-title>span,
+                     body.category-63 .page-header .page-title>span::after
+                    {
+                      background: #eeee22;
+                      color:#fff;
+                    }
+                    .at-cat-color-wrap-68 .widget-title span,
+                    .at-cat-color-wrap-68 .widget-title span:after,
+                    
+                     body.category-68 .page-header .page-title>span,
+                     body.category-68 .page-header .page-title>span::after
+                    {
+                      background: #0bb761;
+                      color:#fff;
+                    }
+                    .at-cat-color-wrap-71 .widget-title span,
+                    .at-cat-color-wrap-71 .widget-title span:after,
+                    
+                     body.category-71 .page-header .page-title>span,
+                     body.category-71 .page-header .page-title>span::after
+                    {
+                      background: #2f7cbf;
+                      color:#fff;
+                    }
+                    .at-cat-color-wrap-82 .widget-title span,
+                    .at-cat-color-wrap-82 .widget-title span:after,
+                    
+                     body.category-82 .page-header .page-title>span,
+                     body.category-82 .page-header .page-title>span::after
+                    {
+                      background: #cc2854;
+                      color:#fff;
+                    }
+                    .at-cat-color-wrap-96 .widget-title span,
+                    .at-cat-color-wrap-96 .widget-title span:after,
+                    
+                     body.category-96 .page-header .page-title>span,
+                     body.category-96 .page-header .page-title>span::after
+                    {
+                      background: #000000;
+                      color:#fff;
+                    }
+                    .at-cat-color-wrap-1041 .widget-title span,
+                    .at-cat-color-wrap-1041 .widget-title span:after,
+                    
+                     body.category-1041 .page-header .page-title>span,
+                     body.category-1041 .page-header .page-title>span::after
+                    {
+                      background: #2247cc;
+                      color:#fff;
+                    }
+                    .at-cat-color-wrap-1344 .widget-title span,
+                    .at-cat-color-wrap-1344 .widget-title span:after,
+                    
+                     body.category-1344 .page-header .page-title>span,
+                     body.category-1344 .page-header .page-title>span::after
+                    {
+                      background: #1a99cc;
+                      color:#fff;
+                    }
+                    .at-cat-color-wrap-1712 .widget-title span,
+                    .at-cat-color-wrap-1712 .widget-title span:after,
+                    
+                     body.category-1712 .page-header .page-title>span,
+                     body.category-1712 .page-header .page-title>span::after
+                    {
+                      background: #47a6cc;
+                      color:#fff;
+                    }
+</style>
+<link rel='stylesheet' id='supermag-block-front-styles-css' href='http://www.dlapolski.pl/wp-content/themes/supermag/acmethemes/gutenberg/gutenberg-front.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='duperma
+7ff0
+g-parent-style-css' href='http://www.dlapolski.pl/wp-content/themes/supermag/style.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dupermag-style-css' href='http://www.dlapolski.pl/wp-content/themes/dupermag/style.css?ver=5.3.2' type='text/css' media='all' />
+<style id='rocket-lazyload-inline-css' type='text/css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;background:#000;margin:5px}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(http://www.dlapolski.pl/wp-content/plugins/rocket-lazy-load/assets/img/play.png) no-repeat;cursor:pointer}
+</style>
+<script type='text/javascript' src='http://www.dlapolski.pl/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://www.dlapolski.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.dlapolski.pl/wp-content/themes/supermag/assets/library/html5shiv/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.dlapolski.pl/wp-content/themes/supermag/assets/library/respond/respond.min.js?ver=1.1.2'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='https://www.dlapolski.pl/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.dlapolski.pl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.dlapolski.pl/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.3.2" />
+<style>
+	#category-posts-4-internal ul {padding: 0;}
+#category-posts-4-internal .cat-post-item img {max-width: initial; max-height: initial; margin: initial;}
+#category-posts-4-internal .cat-post-author {margin-bottom: 0;}
+#category-posts-4-internal .cat-post-thumbnail {margin: 5px 10px 5px 0;}
+#category-posts-4-internal .cat-post-item:before {content: ""; clear: both;}
+#category-posts-4-internal .cat-post-title {font-size: 15px;}
+#category-posts-4-internal .cat-post-current .cat-post-title {font-weight: bold; text-transform: uppercase;}
+#category-posts-4-internal .cat-post-date {font-size: 14px; line-height: 18px; font-style: italic; margin-bottom: 5px;}
+#category-posts-4-internal .cat-post-comment-num {font-size: 14px; line-height: 18px;}
+#category-posts-4-internal .cat-post-item {border-bottom: 1px solid #ccc;	list-style: none; list-style-type: none; margin: 3px 0;	padding: 3px 0;}
+#category-posts-4-internal .cat-post-item:last-child {border-bottom: none;}
+#category-posts-4-internal .cat-post-item a:after {content: ""; display: table;	clear: both;}
+#category-posts-4-internal p {margin:5px 0 0 0}
+#category-posts-4-internal li > div {margin:5px 0 0 0; clear:both;}
+#category-posts-4-internal .dashicons {vertical-align:middle;}
+#category-posts-4-internal .cat-post-thumbnail .cat-post-crop img {width: 120px;}
+#category-posts-4-internal .cat-post-thumbnail .cat-post-crop img {height: 60px;}
+#category-posts-4-internal .cat-post-thumbnail .cat-post-crop img {object-fit: cover;max-width:100%;}
+#category-posts-4-internal .cat-post-thumbnail .cat-post-crop-not-supported img {width:100%;}
+#category-posts-4-internal .cat-post-thumbnail {max-width:100%;}
+#category-posts-4-internal .cat-post-item img {margin: initial;}
+#category-posts-4-internal .cat-post-thumbnail {float:left;}
+</style>
+<style id="ctcc-css" type="text/css" media="screen">
+				#catapult-cookie-bar {
+					box-sizing: border-box;
+					max-height: 0;
+					opacity: 0;
+					z-index: 99999;
+					overflow: hidden;
+					color: #000000;
+					position: fixed;
+					left: 0;
+					bottom: 0;
+					width: 100%;
+					background-color: #f2f2f2;
+				}
+				#catapult-cookie-bar a {
+					color: #000000;
+				}
+				#catapult-cookie-bar .x_close span {
+					background-color: #000000;
+				}
+				button#catapultCookie {
+					background:#ffffff;
+					color: #000000;
+					border: 0; padding: 6px 9px; border-radius: 3px;
+				}
+				#catapult-cookie-bar h3 {
+					color: #000000;
+				}
+				.has-cookie-bar #catapult-cookie-bar {
+					opacity: 1;
+					max-height: 999px;
+					min-height: 30px;
+				}</style><meta property="fb:app_id" content="176664085805016"><meta property="fb:admins" content="100003062186886"> <div id="fb-root"></div>
+<script>(function (d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id))
+                    return;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "//connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v2.0";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+<meta name="onesignal" content="wordpress-plugin" />
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script> <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("http://www.dlapolski.pl");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = 'fc5d476c-23af-4a7e-a287-0f1927e38915';
+oneSignal_options['autoRegister'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "DlaPolski.pl";
+oneSignal_options['welcomeNotification']['message'] = "Witamy!";
+oneSignal_options['welcomeNotification']['url'] = "http://www.dlapolski.pl";
+oneSignal_options['path'] = "https://www.dlapolski.pl/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.00e855ed-5f66-45b8-ad03-54b1e142944e";
+oneSignal_options['persistNotification'] = true;
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['actionMessage'] = 'Możesz otrzymywać bieżące powiadomienia';
+oneSignal_options['promptOptions']['exampleNotificationTitleDesktop'] = 'Serwis DlaPolski.pl';
+oneSignal_options['promptOptions']['exampleNotificationMessageDesktop'] = 'Powiadamianie na pulpicie';
+oneSignal_options['promptOptions']['exampleNotificationTitleMobile'] = 'Serwis DlaPolski.pl';
+oneSignal_options['promptOptions']['exampleNotificationMessageMobile'] = 'Powiadamianie w urządzeniu';
+oneSignal_options['promptOptions']['exampleNotificationCaption'] = 'W każdej chwili możesz wstrzymać powiadamianie';
+oneSignal_options['promptOptions']['acceptButtonText'] = 'Zatwierdź';
+oneSignal_options['promptOptions']['cancelButtonText'] = 'Innym razem';
+oneSignal_options['promptOptions']['siteName'] = 'http://www.dlapolski.pl';
+oneSignal_options['promptOptions']['autoAcceptTitle'] = 'Zatwierdź';
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['prenotify'] = true;
+oneSignal_options['notifyButton']['displayPredicate'] = function() {
+              return OneSignal.isPushNotificationsEnabled()
+                      .then(function(isPushEnabled) {
+                          return !isPushEnabled;
+                      });
+            };
+oneSignal_options['notifyButton']['showCredit'] = false;
+oneSignal_options['notifyButton']['text'] = {};
+oneSignal_options['notifyButton']['text']['message.prenotify'] = 'Otrzymuj od nas powiadomienia';
+oneSignal_options['notifyButton']['text']['tip.state.unsubscribed'] = 'Wstrzymujesz powiadomienia. Kliknij aby wznowić';
+oneSignal_options['notifyButton']['text']['tip.state.subscribed'] = 'Otrzymujesz bieżące powiadomienia';
+oneSignal_options['notifyButton']['text']['tip.state.blocked'] = 'Wstrzymujesz powiadomienia. Kliknij aby wznowić';
+oneSignal_options['notifyButton']['text']['message.action.subscribed'] = 'Dziękujemy za subskrypcję';
+oneSignal_options['notifyButton']['text']['message.action.resubscribed'] = 'Witamy ponownie. Powiadomienia aktywne';
+oneSignal_options['notifyButton']['text']['message.action.unsubscribed'] = 'Powiadomienia ze strony zostały wyłączone :(';
+oneSignal_options['notifyButton']['text']['dialog.main.title'] = 'Ustaw powiadomienia';
+oneSignal_options['notifyButton']['text']['dialog.main.button.subscribe'] = 'Powiadamiaj o nowościach. Kliknij tutaj';
+oneSignal_options['notifyButton']['text']['dialog.main.button.unsubscribe'] = 'Wstrzymaj powiadamianie';
+oneSignal_options['notifyButton']['text']['dialog.blocked.title'] = 'Wznów powiadamianie';
+oneSignal_options['notifyButton']['text']['dialog.blocked.message'] = 'Postępuj zgodnie ze wskazówkami';
+oneSignal_options['notifyButton']['colors'] = {};
+oneSignal_options['notifyButton']['colors']['circle.background'] = '#cd0000';
+              oneSignal_options['autoRegister'] = false;
+              OneSignal.showHttpPrompt();
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f9f9f9; }
+</style>
+<link rel="icon" href="https://www.dlapolski.pl/wp-content/uploads/2017/02/favicon.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.dlapolski.pl/wp-content/uploads/2017/02/favicon.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.dlapolski.pl/wp-content/uploads/2017/02/favicon.jpg" />
+<meta name="msapplication-TileImage" content="https://www.dlapolski.pl/wp-content/uploads/2017/02/favicon.jpg" />
+<style type="text/css" id="wp-custom-css">
+			a {color:#1e73be;
+font-weight: bold;}
+
+
+ .widget-image::after {
+  display: block;
+  position: relative;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0, #000000 200%);
+  margin-top: -150px;
+  height: 150px;
+  width: 100%;
+  content: '';
+}
+
+
+.title {
+	position: relative;
+    bottom: 4px;
+    left: 6px;
+	
+}
+.site-info {
+display: none;
+}
+
+
+
+
+
+
+		</style>
+<meta property="fb:admins" content="100003062186886" />
+<meta property="fb:app_id" content="176664085805016" />
+<meta property="fb:pages" content="263236627047237" />
+<script async custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script>
+</head>
+<body class="home blog custom-background wp-custom-logo ctcc-exclude-AF ctcc-exclude-AN ctcc-exclude-AS ctcc-exclude-NA ctcc-exclude-OC ctcc-exclude-SA boxed-layout left-logo-right-ads right-sidebar">
+<amp-auto-ads type="adsense" data-ad-client="ca-pub-6953811560252598"></amp-auto-ads>
+<div id="page" class="hfeed site">
+<a class="skip-link screen-reader-text" href="#home-content" title="link">Skip to content</a>
+<header id="masthead" class="site-header" role="banner">
+<div class="top-header-section clearfix">
+<div class="wrapper">
+<div class="right-header float-right">
+</div>
+</div>
+</div>
+<div class="header-wrapper clearfix">
+<div class="header-container">
+<div class="wrapper">
+<div class="site-branding clearfix">
+<div class="site-logo float-left">
+<a href="https://www.dlapolski.pl/" class="custom-logo-link" rel="home"><img width="290" height="94" src="https://www.dlapolski.pl/wp-content/uploads/2018/10/dlapolski-logo.png" class="custom-logo" alt="DlaPolski.PL" /></a> </div>
+<div class="header-ainfo float-right">
+<aside id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display: inline-block; width: 100%; height: 90px;" data-full-width-responsive="true" data-ad-client="ca-pub-6953811560252598" data-ad-slot="2429829245">
+</ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></aside> </div>
+<div class="clearfix"></div>
+</div>
+</div>
+<nav id="site-navigation" class="main-navigation supermag-enable-sticky-menu clearfix" role="navigation">
+<div class="header-main-menu wrapper clearfix">
+<div class="acmethemes-nav"><ul id="menu-menu" class="menu"><li id="menu-item-49406" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-49406"><a href="https://www.dlapolski.pl" aria-current="page"><i class="_mi dashicons dashicons-admin-home" aria-hidden="true" style="font-size:1.8em;"></i><span class="visuallyhidden"><span>Start</span></span></a></li>
+<li id="menu-item-69881" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69881"><a href="http://telewizjatrwam.dlapolski.pl/"><i class="_mi _before dashicons dashicons-desktop" aria-hidden="true" style="font-size:1.5em;"></i><span><span>TV Trwam</span></span></a></li>
+<li id="menu-item-69882" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69882"><a href="http://radiomaryja.dlapolski.pl/"><i class="_mi _before dashicons dashicons-controls-volumeon" aria-hidden="true" style="font-size:1.5em;"></i><span><span>Radio Maryja</span></span></a></li>
+<li id="menu-item-69883" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69883"><a href="http://telewizjarepublika.dlapolski.pl/"><i class="_mi _before dashicons dashicons-desktop" aria-hidden="true" style="font-size:1.5em;"></i><span><span>TV Republika</span></span></a></li>
+<li id="menu-item-69884" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69884"><a href="https://tvp-info.dlapolski.pl/"><i class="_mi _before dashicons dashicons-desktop" aria-hidden="true" style="font-size:1.5em;"></i><span><span>TVP Info</span></span></a></li>
+<li id="menu-item-93968" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93968"><a href="https://polskieradio24.dlapolski.pl/"><i class="_mi _before dashicons dashicons-controls-volumeon" aria-hidden="true" style="font-size:1.5em;"></i><span><span>PR24</span></span></a></li>
+<li id="menu-item-57623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57623"><a href="https://www.dlapolski.pl/radio-wnet"><i class="_mi _before dashicons dashicons-controls-volumeon" aria-hidden="true" style="font-size:1.5em;"></i><span><span>WNET</span></span></a></li>
+<li id="menu-item-85101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-85101"><a href="https://rozmowy.eu/wpolsce-pl/"><i class="_mi _before dashicons dashicons-format-video" aria-hidden="true"></i><span><span>wPolsce</span></span></a>
+<ul class="sub-menu">
+<li id="menu-item-85520" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-85520"><a href="https://rozmowy.eu/poland-in/"><span>Poland In (EN)</span></a></li>
+</ul>
+</li>
+<li id="menu-item-84987" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84987"><a href="https://www.dlapolski.pl/patronat-medialny"><span>Patronat</span></a></li>
+<li id="menu-item-62060" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-62060"><a href="http://feeds.feedburner.com/klipy"><i class="_mi dashicons dashicons-rss" aria-hidden="true" style="font-size:1.8em;"></i><span class="visuallyhidden"><span>RSS</span></span></a>
+<ul class="sub-menu">
+<li id="menu-item-62056" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62056"><a href="https://www.facebook.com/Strona.DlaPolski/"><i class="_mi _before dashicons dashicons-facebook" aria-hidden="true" style="font-size:1.8em;"></i><span><span>8K</span></span></a></li>
+<li id="menu-item-62057" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62057"><a href="https://twitter.com/dlapolski"><i class="_mi _before dashicons dashicons-twitter" aria-hidden="true" style="font-size:1.8em;"></i><span><span>1.2K</span></span></a></li>
+</ul>
+</li>
+<li id="menu-item-68018" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-68018"><a href="#"><span>>></span></a>
+<ul class="sub-menu">
+<li id="menu-item-57645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57645"><a href="https://www.dlapolski.pl/sim-radio-steam"><i class="_mi _before dashicons dashicons-controls-volumeon" aria-hidden="true" style="font-size:1.5em;"></i><span><span>SIM</span></span></a></li>
+<li id="menu-item-49409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49409"><a href="https://www.dlapolski.pl/opoka-tv"><i class="_mi _before dashicons dashicons-format-video" aria-hidden="true" style="font-size:1.5em;"></i><span><span>Opoka</span></span></a></li>
+<li id="menu-item-49412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49412"><a href="https://www.dlapolski.pl/pobierz"><i class="_mi dashicons dashicons-download" aria-hidden="true" style="font-size:1.6em;"></i><span class="visuallyhidden"><span>Pliki</span></span></a></li>
+<li id="menu-item-49413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49413"><a href="http://forum.dlapolski.pl"><i class="_mi dashicons dashicons-format-chat" aria-hidden="true" style="font-size:1.6em;"></i><span class="visuallyhidden"><span>Forum</span></span></a></li>
+<li id="menu-item-99034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99034"><a href="https://www.dlapolski.pl/tvp-informacyjna/tv-polonia"><span><span>TV Polonia</span></span></a></li>
+</ul>
+</li>
+</ul></div> </div>
+<div class="responsive-slick-menu wrapper clearfix"></div>
+</nav>
+
+</div>
+
+</div>
+
+</header>
+
+<div class="wrapper content-wrapper clearfix">
+<div class="slider-feature-wrap clearfix"> <div class="slider-section">
+<ul class="home-bxslider">
+<li>
+<a href="https://www.dlapolski.pl/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy">
+<img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy-jY_MAWkdrDo-649x365.jpg" />
+</a>
+<div class="slider-desc">
+<div class="above-slider-details">
+<a href="https://www.dlapolski.pl/2020/01/14">
+<i class="fa fa-calendar"></i>
+14 stycznia 2020 </a>
+<a href="https://www.dlapolski.pl/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy#respond"><i class="fa fa-comment"></i> 0</a> </div>
+<div class="slider-details">
+<a href="https://www.dlapolski.pl/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy">
+<div class="slide-title">
+<span>Trudny rok za nami, kolejny&#8230; jeszcze trudniejszy</span> </div>
+<div class="slide-caption">Nigdy się nie poddawaj &#8211; Wojciech Sumliński</div> </a>
+</div>
+</div>
+</li>
+<li>
+<a href="https://www.dlapolski.pl/uklad-nie-chce-madrosci-i-doswiadczenia-ktore-maja-ludzi-starsi">
+<img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/uk-ad-nie-chce-m-dro-ci-i-do-wiadczenia-kt-re-maj-ludzi-starsi-A_DZ0AaHlhM-649x365.jpg" />
+</a>
+<div class="slider-desc">
+<div class="above-slider-details">
+<a href="https://www.dlapolski.pl/2020/01/13">
+<i class="fa fa-calendar"></i>
+13 stycznia 2020 </a>
+<a href="https://www.dlapolski.pl/uklad-nie-chce-madrosci-i-doswiadczenia-ktore-maja-ludzi-starsi#comments"><i class="fa fa-comment"></i> 1</a> </div>
+<div class="slider-details">
+<a href="https://www.dlapolski.pl/uklad-nie-chce-madrosci-i-doswiadczenia-ktore-maja-ludzi-starsi">
+<div class="slide-title">
+<span>Układ nie chce mądrości i doświadczenia, które mają ludzi starsi</span> </div>
+<div class="slide-caption">Dr Stanisław Krajski opowiada o tym, że współczesny świat &#8211; realizując tajemnicze...</div> </a>
+</div>
+</div>
+</li>
+<li>
+<a href="https://www.dlapolski.pl/polscy-zydzi-sa-rozsadni">
+<img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/polscy-ydzi-s-rozs-dni-KlDlGXxgfLs-649x365.jpg" />
+</a>
+<div class="slider-desc">
+<div class="above-slider-details">
+<a href="https://www.dlapolski.pl/2020/01/13">
+<i class="fa fa-calendar"></i>
+13 stycznia 2020 </a>
+<a href="https://www.dlapolski.pl/polscy-zydzi-sa-rozsadni#comments"><i class="fa fa-comment"></i> 1</a> </div>
+<div class="slider-details">
+<a href="https://www.dlapolski.pl/polscy-zydzi-sa-rozsadni">
+<div class="slide-title">
+<span>Polscy Żydzi są rozsądni!</span> </div>
+<div class="slide-caption">Stanisław Michalkiewicz o stanowisku Forum Żydów Polskich w sprawie ustawy 447 JUST,...</div> </a>
+</div>
+</div>
+</li>
+<li>
+<a href="https://www.dlapolski.pl/czas-apokalipsy">
+<img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-czas-apokalipsy-8221-RT99O8lY0UI-649x365.jpg" />
+</a>
+<div class="slider-desc">
+<div class="above-slider-details">
+<a href="https://www.dlapolski.pl/2020/01/13">
+<i class="fa fa-calendar"></i>
+13 stycznia 2020 </a>
+<a href="https://www.dlapolski.pl/czas-apokalipsy#respond"><i class="fa fa-comment"></i> 0</a> </div>
+<div class="slider-details">
+<a href="https://www.dlapolski.pl/czas-apokalipsy">
+<div class="slide-title">
+<span>&#8222;Czas apokalipsy&#8221;</span> </div>
+<div class="slide-caption">Płonie kontynent australijski, Bliski Wschód szykuje się do wojny. Tymczasem w Polsce...</div> </a>
+</div>
+</div>
+</li>
+<li>
+<a href="https://www.dlapolski.pl/brudne-klamstwa-putina">
+<img src="https://www.dlapolski.pl/wp-content/uploads/2019/10/wojciech-sumli-ski-ocenia-rz-dy-pis-0t7sxThpzSg-649x365.jpg" />
+</a>
+<div class="slider-desc">
+<div class="above-slider-details">
+<a href="https://www.dlapolski.pl/2020/01/13">
+<i class="fa fa-calendar"></i>
+13 stycznia 2020 </a>
+<a href="https://www.dlapolski.pl/brudne-klamstwa-putina#comments"><i class="fa fa-comment"></i> 1</a> </div>
+<div class="slider-details">
+<a href="https://www.dlapolski.pl/brudne-klamstwa-putina">
+<div class="slide-title">
+<span>Brudne kłamstwa Putina</span> </div>
+<div class="slide-caption">Nigdy się nie poddawaj &#8211; Wojciech Sumliński</div> </a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="besides-slider"><div class="besides-slider-left"> <div class="beside-post clearfix">
+<a href="https://www.dlapolski.pl/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy">
+<figure class="beside-thumb clearfix">
+<img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy-jY_MAWkdrDo-240x172.jpg" alt="Trudny rok za nami, kolejny&#8230; jeszcze trudniejszy" title="Trudny rok za nami, kolejny&#8230; jeszcze trudniejszy" />
+<div class="overlay"></div>
+</figure>
+</a>
+<div class="beside-caption clearfix">
+<h3 class="post-title">
+<a href="https://www.dlapolski.pl/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy">
+Trudny rok za nami, kolejny&#8230; jeszcze... </a>
+</h3>
+<div class="post-date">
+<a href="https://www.dlapolski.pl/2020/01/14">
+<i class="fa fa-calendar"></i>
+14 stycznia 2020 </a>
+<a href="https://www.dlapolski.pl/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy#respond"><i class="fa fa-comment"></i> 0</a> </div>
+</div>
+</div>
+ <div class="beside-post clearfix">
+<a href="https://www.dlapolski.pl/pokojowy-przeglad-tygodnia-i-nie-tylko">
+<figure class="beside-thumb clearfix">
+<img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/pokojowy-przegl-d-tygodnia-8230-i-nie-tylko-RkxZdm18uaA-240x172.jpg" alt="Pokojowy przegląd tygodnia&#8230; i nie tylko" title="Pokojowy przegląd tygodnia&#8230; i nie tylko" />
+<div class="overlay"></div>
+</figure>
+</a>
+<div class="beside-caption clearfix">
+<h3 class="post-title">
+<a href="https://www.dlapolski.pl/pokojowy-przeglad-tygodnia-i-nie-tylko">
+Pokojowy przegląd tygodnia&#8230; i nie tylko </a>
+</h3>
+<div class="post-date">
+<a href="https://www.dlapolski.pl/2020/01/14">
+<i class="fa fa-calendar"></i>
+14 stycznia 2020 </a>
+<a href="https://www.dlapolski.pl/pokojowy-przeglad-tygodnia-i-nie-tylko#respond"><i class="fa fa-comment"></i> 0</a> </div>
+</div>
+</div>
+</div><div class="besides-slider-right"> <div class="beside-post clearfix">
+<a href="https://www.dlapolski.pl/uklad-nie-chce-madrosci-i-doswiadczenia-ktore-maja-ludzi-starsi">
+<figure class="beside-thumb clearfix">
+<img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/uk-ad-nie-chce-m-dro-ci-i-do-wiadczenia-kt-re-maj-ludzi-starsi-A_DZ0AaHlhM-240x172.jpg" alt="Układ nie chce mądrości i doświadczenia, które mają ludzi starsi" title="Układ nie chce mądrości i doświadczenia, które mają ludzi starsi" />
+<div class="overlay"></div>
+</figure>
+</a>
+<div class="beside-caption clearfix">
+<h3 class="post-title">
+<a href="https://www.dlapolski.pl/uklad-nie-chce-madrosci-i-doswiadczenia-ktore-maja-ludzi-starsi">
+Układ nie chce mądrości i doświadczenia,... </a>
+</h3>
+<div class="post-date">
+<a href="https://www.dlapolski.pl/2020/01/13">
+<i class="fa fa-calendar"></i>
+13 stycznia 2020 </a>
+<a href="https://www.dlapolski.pl/uklad-nie-chce-madrosci-i-doswiadczenia-ktore-maja-ludzi-starsi#comments"><i class="fa fa-comment"></i> 1</a> </div>
+</div>
+</div>
+<div class="beside-post clearfix">
+<a href="https://www.dlapolski.pl/polscy-zydzi-sa-rozsadni">
+<figure class="beside-thumb clearfix">
+<img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/polscy-ydzi-s-rozs-dni-KlDlGXxgfLs-240x172.jpg" alt="Polscy Żydzi są rozsądni!" title="Polscy Żydzi są rozsądni!" />
+<div class="overlay"></div>
+</figure>
+</a>
+<div class="beside-caption clearfix">
+<h3 class="post-title">
+<a href="https://www.dlapolski.pl/polscy-zydzi-sa-rozsadni">
+Polscy Żydzi są rozsądni! </a>
+</h3>
+<div class="post-date">
+<a href="https://www.dlapolski.pl/2020/01/13">
+<i class="fa fa-calendar"></i>
+13 stycznia 2020 </a>
+<a href="https://www.dlapolski.pl/polscy-zydzi-sa-rozsadni#comments"><i class="fa fa-comment"></i> 1</a> </div>
+</div>
+</div>
+</div></div></div> <div id="home-content" class="site-content">
+<div id="primary" class="content-area">
+<main id="main" class="site-main" role="main">
+<aside id="custom_html-9" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:100%;height:450px" data-full-width-responsive="true" data-ad-client="ca-pub-6953811560252598" data-ad-slot="5808416023"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></aside><aside id="text-3" class="widget widget_text"><h2 class="widget-title"><span>Patronat Medialny</span></h2> <div class="textwidget"><h2 style="text-align: center;"><a href="https://www.dlapolski.pl/patronat-medialny">Ostatni gasi światło &#8211; Radosław Patlewicz</a></h2>
+<p>Powieść political fiction, w której Autor analizuje współczesne tendencje liberalne i w oparciu o znane z historii mechanizmy rozwoju dziejów, kreuje scenariusz możliwych wydarzeń.</p>
+<h2 style="text-align: center;"><a href="https://www.dlapolski.pl/patronat-medialny">Życie wśród pisarzy, agentów i intryg – Stanisław Srokowski</a></h2>
+<p>Ta książka w diametralny sposób zmienia postrzeganie rzeczywistości. Wyrywa nas z letargu, przebudza i otrzeźwia. To nie będzie łatwa lektura, ale warto. Zapewniam.</p>
+<h2 style="text-align: center;"><a href="https://www.dlapolski.pl/patronat-medialny">250 pytań do Stanisława Michalkiewicza</a></h2>
+<p>Każdy z nas ma jakieś rozterki, dotyczące polityki, geopolityki, gospodarki, prawa, wydarzeń bieżących. Dlaczego nie zapytać o to wszystko redaktora Michalkiewicza, a odpowiedzi nie przeczytać w jego najnowszej książce?</p>
+</div>
+</aside><aside id="supermag_posts_col-19" class="widget widget_supermag_posts_col"><div class='at-cat-color-wrap-71'><h2 class="widget-title"><span>Opinie i komentarze</span></h2></div> <ul class="sm-col-post-type-2 featured-entries-col featured-entries  featured-col-posts supermag-home">
+<li class="acme-col-3 featured-post-main">
+<figure class="widget-image">
+<a href="https://www.dlapolski.pl/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy">
+<img width="500" height="280" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy-jY_MAWkdrDo-500x280.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://www.dlapolski.pl/wp-content/uploads/2020/01/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy-jY_MAWkdrDo-500x280.jpg 500w, https://www.dlapolski.pl/wp-content/uploads/2020/01/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy-jY_MAWkdrDo-649x365.jpg 649w, https://www.dlapolski.pl/wp-content/uploads/2020/01/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy-jY_MAWkdrDo.jpg 1280w" sizes="(max-width: 500px) 100vw, 500px" /> </a>
+</figure>
+<div class="featured-desc">
+<a href="https://www.dlapolski.pl/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy">
+<h4 class="title">
+<span>Trudny rok za nami, kolejny&#8230; jeszcze trudniejszy</span> </h4>
+</a>
+<div class="above-entry-meta">
+<span>
+<a href="https://www.dlapolski.pl/2020/01/14">
+<i class="fa fa-calendar"></i>
+14 stycznia 2020 </a>
+</span>
+<span>
+<a href="https://www.dlapolski.pl/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy#respond"><i class="fa fa-comment"></i>0</a> </span>
+</div>
+<div class="details">Nigdy się nie poddawaj &#8211; Wojciech Sumliński</div> <div class="below-entry-meta">
+<span class="cat-links"><a class="at-cat-item-71" href="https://www.dlapolski.pl/kategoria/komentarz" rel="category tag">Opinie i komentarze</a>&nbsp;</span> </div>
+</div>
+</li>
+<div class="sm-col-post-type-2-beside"><div class="clearfix visible-lg"></div><div class="clearfix visible-sm"></div> <li class="acme-col-3">
+<figure class="widget-image">
+<a href="https://www.dlapolski.pl/uklad-nie-chce-madrosci-i-doswiadczenia-ktore-maja-ludzi-starsi">
+<img width="240" height="172" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/uk-ad-nie-chce-m-dro-ci-i-do-wiadczenia-kt-re-maj-ludzi-starsi-A_DZ0AaHlhM-240x172.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /> </a>
+</figure>
+<div class="featured-desc">
+<a href="https://www.dlapolski.pl/uklad-nie-chce-madrosci-i-doswiadczenia-ktore-maja-ludzi-starsi">
+<h4 class="title">
+<span>Układ nie chce mądrości i doświadczenia, które mają ludzi starsi</span> </h4>
+</a>
+<div class="above-entry-meta">
+<span>
+<a href="https://www.dlapolski.pl/2020/01/13">
+<i class="fa fa-calendar"></i>
+13 stycznia 2020 </a>
+</span>
+<span>
+<a href="https://www.dlapolski.pl/uklad-nie-chce-madrosci-i-doswiadczenia-ktore-maja-ludzi-starsi#comments"><i class="fa fa-comment"></i>1</a> </span>
+</div>
+<div class="details">Dr Stanisław Krajski opowiada o tym, że współczesny...</div> <div class="below-entry-meta">
+<span class="cat-links"><a class="at-cat-item-71" href="https://www.dlapolski.pl/kategoria/komentarz" rel="category tag">Opinie i komentarze</a>&nbsp;</span> </div>
+</div>
+</li>
+<li class="acme-col-3">
+ <figure class="widget-image">
+<a href="https://www.dlapolski.pl/polscy-zydzi-sa-rozsadni">
+<img width="240" height="172" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/polscy-ydzi-s-rozs-dni-KlDlGXxgfLs-240x172.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /> </a>
+</figure>
+<div class="featured-desc">
+<a href="https://www.dlapolski.pl/polscy-zydzi-sa-rozsadni">
+<h4 class="title">
+<span>Polscy Żydzi są rozsądni!</span> </h4>
+</a>
+<div class="above-entry-meta">
+<span>
+<a href="https://www.dlapolski.pl/2020/01/13">
+<i class="fa fa-calendar"></i>
+13 stycznia 2020 </a>
+</span>
+<span>
+<a href="https://www.dlapolski.pl/polscy-zydzi-sa-rozsadni#com
+70e
+ments"><i class="fa fa-comment"></i>1</a> </span>
+</div>
+<div class="details">Stanisław Michalkiewicz o stanowisku Forum Żydów Polskich w...</div> <div class="below-entry-meta">
+<span class="cat-links"><a class="at-cat-item-71" href="https://www.dlapolski.pl/kategoria/komentarz" rel="category tag">Opinie i komentarze</a>&nbsp;</span> </div>
+</div>
+</li>
+<div class="clearfix visible-sm"></div> <li class="acme-col-3">
+<figure class="widget-image">
+<a href="https://www.dlapolski.pl/czas-apokalipsy">
+<img width="240" height="172" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-czas-apokalipsy-8221-RT99O8lY0UI-240x172.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /> </a>
+</figure>
+<div class="featured-desc">
+<a href="https://www.dlapolski.pl/czas-apokalipsy">
+<h4 class="title">
+<span>&#8222;Czas apokalipsy&#8221;</span> </h4>
+</a>
+<div class="above-entry-meta">
+<span>
+<a href="https://www.dlapolski.pl/2020/01/13">
+<i class="fa fa-calendar"></i>
+13 stycznia 2020 </a>
+</span>
+<span>
+<a href="https://www.dlapolski.pl/czas-apokalipsy#respond"><i class="fa fa-comment"></i>0</a> </span>
+</div>
+<div class="details">Płonie kontynent australijski, Bliski Wschód szykuje się do...</div> <div class="below-entry-meta">
+<span class="cat-links"><a class="at-cat-item-71" href="https://www.dlapolski.pl/kategoria/komentarz" rel="category tag">Opinie i komentarze</a>&nbsp;</span>  </div>
+</div>
+</li>
+<div class="clearfix visible-lg"></div></div> </ul>
+</aside><div class='clearfix'></div><aside id="custom_html-7" class="widget_text widget widget_custom_html"><h2 class="widget-title"><span>Rekomendowane</span></h2><div class="textwidget custom-html-widget"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+2441
+<ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-6953811560252598" data-ad-slot="8693878482"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br /></div></aside><aside id="supermag_posts_col-20" class="widget widget_supermag_posts_col"><div class='at-cat-color-wrap-68'><h2 class="widget-title"><span>Felietony</span></h2></div> <ul class="sm-col-post-type-2 featured-entries-col featured-entries  featured-col-posts supermag-home">
+<li class="acme-col-3 featured-post-main">
+<figure class="widget-image">
+<a href="https://www.dlapolski.pl/jaki-jest-nasz-stan-ducha">
+<img width="480" height="280" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/P0qFYQChL0-480x280.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /> </a>
+</figure>
+<div class="featured-desc">
+<a href="https://www.dlapolski.pl/jaki-jest-nasz-stan-ducha">
+<h4 class="title">
+<span>Jaki jest nasz stan ducha?</span> </h4>
+</a>
+<div class="above-entry-meta">
+<span>
+<a href="https://www.dlapolski.pl/2020/01/13">
+<i class="fa fa-calendar"></i>
+13 stycznia 2020 </a>
+</span>
+<span>
+<a href="https://www.dlapolski.pl/jaki-jest-nasz-stan-ducha#respond"><i class="fa fa-comment"></i>0</a> </span>
+</div>
+<div class="details">Myśląc Ojczyzna &#8211; prof. dr hab. Mieczysław Ryba</div> <div class="below-entry-meta">
+<span class="cat-links"><a class="at-cat-item-68" href="https://www.dlapolski.pl/kategoria/felieton" rel="category tag">Felietony</a>&nbsp;</span> </div>
+</div>
+</li>
+<div class="sm-col-post-type-2-beside"><div class="clearfix visible-lg"></div><div class="clearfix visible-sm"></div> <li class="acme-col-3">
+<figure class="widget-image">
+<a href="https://www.dlapolski.pl/wobec-stulecia">
+<img width="240" height="172" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/wobec-stulecia-sio5Y-JGSFo-240x172.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /> </a>
+</figure>
+<div class="featured-desc">
+<a href="https://www.dlapolski.pl/wobec-stulecia">
+<h4 class="title">
+<span>Wobec stulecia</span> </h4>
+</a>
+<div class="above-entry-meta">
+<span>
+<a href="https://www.dlapolski.pl/2020/01/12">
+<i class="fa fa-calendar"></i>
+12 stycznia 2020 </a>
+</span>
+<span>
+<a href="https://www.dlapolski.pl/wobec-stulecia#respond"><i class="fa fa-comment"></i>0</a> </span>
+</div>
+<div class="details">Myśląc Ojczyzna &#8211; ks. prof. Paweł Bortkiewicz</div> <div class="below-entry-meta">
+<span class="cat-links"><a class="at-cat-item-68" href="https://www.dlapolski.pl/kategoria/felieton" rel="category tag">Felietony</a>&nbsp;</span> </div>
+</div>
+</li>
+<li class="acme-col-3">
+<figure class="widget-image">
+<a href="https://www.dlapolski.pl/czy-polska-utonie-w-oceanie-alkoholu">
+<img width="240" height="172" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/czy-polska-utonie-w-oceanie-alkoholu-5oXmoQ4mXt0-240x172.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /> </a>
+</figure>
+<div class="featured-desc">
+<a href="https://www.dlapolski.pl/czy-polska-utonie-w-oceanie-alkoholu">
+<h4 class="title">
+<span>Czy Polska utonie w oceanie alkoholu?</span> </h4>
+</a>
+<div class="above-entry-meta">
+<span>
+<a href="https://www.dlapolski.pl/2020/01/12">
+<i class="fa fa-calendar"></i>
+12 stycznia 2020 </a>
+</span>
+<span>
+<a href="https://www.dlapolski.pl/czy-polska-utonie-w-oceanie-alkoholu#respond"><i class="fa fa-comment"></i>0</a> </span>
+</div>
+<div class="details">Myśląc Ojczyzna &#8211; ks. bp Tadeusz Bronakowski</div> <div class="below-entry-meta">
+<span class="cat-links"><a class="at-cat-item-68" href="https://www.dlapolski.pl/kategoria/felieton" rel="category tag">Felietony</a>&nbsp;</span> </div>
+</div>
+</li>
+<div class="clearfix visible-sm"></div> <li class="acme-col-3">
+<figure class="widget-image">
+<a href="https://www.dlapolski.pl/na-trumpa-wylaly-sie-slowa-krytyki">
+<img width="240" height="172" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/na-trumpa-wyla-y-si-s-owa-kr-Ahweo3zuE2Y-240x172.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /> </a>
+</figure>
+<div class="featured-desc">
+<a href="https://www.dlapolski.pl/na-trumpa-wylaly-sie-slowa-krytyki">
+<h4 class="title">
+<span>Na Trumpa wylały się słowa krytyki</span> </h4>
+</a>
+<div class="above-entry-meta">
+<span>
+<a href="https://www.dlapolski.pl/2020/01/11">
+<i class="fa fa-calendar"></i>
+11 stycznia 2020 </a>
+</span>
+<span>
+<a href="https://www.dlapolski.pl/na-trumpa-wylaly-sie-slowa-krytyki#comments"><i class="fa fa-comment"></i>1</a> </span>
+</div>
+<div class="details">Głos Polski &#8211; pos. Antoni Macierewicz</div> <div class="below-entry-meta">
+<span class="cat-links"><a class="at-cat-item-68" href="https://www.dlapolski.pl/kategoria/felieton" rel="category tag">Felietony</a>&nbsp;</span> </div>
+</div>
+</li>
+<div class="clearfix visible-lg"></div></div> </ul>
+</aside><div class='clearfix'></div><aside id="supermag_posts_col-21" class="widget widget_supermag_posts_col"><div class='at-cat-color-wrap-1344'><h2 class="widget-title"><span>Spotkania</span></h2></div> <ul class="sm-col-post-type-2 featured-entries-col featured-entries  featured-col-posts supermag-home">
+<li class="acme-col-3 featured-post-main">
+<figure class="widget-image">
+<a href="https://www.dlapolski.pl/z-czego-jutro-jak-wyrwac-sie-z-pulapki-sredniego-rozwoju">
+<img width="500" height="280" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/z-czego-jutro-jak-wyrwa-si-z-pu-apki-redniego-rozwoju-SxUrZLnVc1I-500x280.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://www.dlapolski.pl/wp-content/uploads/2020/01/z-czego-jutro-jak-wyrwa-si-z-pu-apki-redniego-rozwoju-SxUrZLnVc1I-500x280.jpg 500w, https://www.dlapolski.pl/wp-content/uploads/2020/01/z-czego-jutro-jak-wyrwa-si-z-pu-apki-redniego-rozwoju-SxUrZLnVc1I-649x365.jpg 649w, https://www.dlapolski.pl/wp-content/uploads/2020/01/z-czego-jutro-jak-wyrwa-si-z-pu-apki-redniego-rozwoju-SxUrZLnVc1I.jpg 1280w" sizes="(max-width: 500px) 100vw, 500px" /> </a>
+</figure>
+<div class="featured-desc">
+<a href="https://www.dlapolski.pl/z-czego-jutro-jak-wyrwac-sie-z-pulapki-sredniego-rozwoju">
+<h4 class="title">
+<span>Z czego jutro? Jak wyrwać się z pułapki średniego rozwoju?</span> </h4>
+</a>
+<div class="above-entry-meta">
+<span>
+<a href="https://www.dlapolski.pl/2020/01/11">
+<i class="fa fa-calendar"></i>
+11 stycznia 2020 </a>
+</span>
+<span>
+<a href="https://www.dlapolski.pl/z-czego-jutro-jak-wyrwac-sie-z-pulapki-sredniego-rozwoju#comments"><i class="fa fa-comment"></i>4</a> </span>
+</div>
+<div class="details">Konferencja z udziałem Andrzeja Sadowskiego, prezydenta Centrum imienia Adama Smitha, członka Narodowej Rady Rozwoju przy Prezydencie RP, oraz Stanisława Michalkiewicza, publicysty</div> <div class="below-entry-meta">
+<span class="cat-links"><a class="at-cat-item-1344" href="https://www.dlapolski.pl/kategoria/spotkanie" rel="category tag">Spotkania</a>&nbsp;</span> </div>
+</div>
+</li>
+<div class="sm-col-post-type-2-beside"><div class="clearfix visible-lg"></div><div class="clearfix visible-sm"></div> <li class="acme-col-3">
+<figure class="widget-image">
+<a href="https://www.dlapolski.pl/debata-prawyborcza-bosak-vs-dziambor">
+<img width="240" height="172" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/debata-prawyborcza-bosak-vs-dziambor-s9qtZCP_WyQ-240x172.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /> </a>
+</figure>
+<div class="featured-desc">
+<a href="https://www.dlapolski.pl/debata-prawyborcza-bosak-vs-dziambor">
+<h4 class="title">
+<span>Debata prawyborcza: Bosak vs Dziambor</span> </h4>
+</a>
+<div class="above-entry-meta">
+<span>
+<a href="https://www.dlapolski.pl/2020/01/09">
+<i class="fa fa-calendar"></i>
+9 stycznia 2020 </a>
+</span>
+<span>
+<a href="https://www.dlapolski.pl/debata-prawyborcza-bosak-vs-dziambor#respond"><i class="fa fa-comment"></i>0</a> </span>
+</div>
+<div class="details">Wyścig prawyborczy w Konfederacji wszedł w ostatnią fazę,...</div> <div class="below-entry-meta">
+<span class="cat-links"><a class="at-cat-item-1344" href="https://www.dlapolski.pl/kategoria/spotkanie" rel="category tag">Spotkania</a>&nbsp;</span> </div>
+</div>
+</li>
+<li class="acme-col-3">
+<figure class="widget-image">
+<a href="https://www.dlapolski.pl/rodzina-wyzwania-i-szanse-wspolczesnej-rodziny">
+<img width="240" height="172" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/rodzina-wyzwania-i-szanse-wsp-czesnej-rodziny-R5uodbmBdzs-240x172.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /> </a>
+</figure>
+<div class="featured-desc">
+<a href="https://www.dlapolski.pl/rodzina-wyzwania-i-szanse-wspolczesnej-rodziny">
+<h4 class="title">
+<span>„Rodzina. Wyzwania i szanse współczesnej rodziny”</span> </h4>
+</a>
+<div class="above-entry-meta">
+<span>
+<a href="https://www.dlapolski.pl/2020/01/08">
+<i class="fa fa-calendar"></i>
+8 stycznia 2020 </a>
+</span>
+<span>
+<a href="https://www.dlapolski.pl/rodzina-wyzwania-i-szanse-wspolczesnej-rodziny#respond"><i class="fa fa-comment"></i>0</a> </span>
+</div>
+<div class="details">Myśląc z Wyszyńskim &#8211; 
+1c4d
+debata</div> <div class="below-entry-meta">
+<span class="cat-links"><a class="at-cat-item-1344" href="https://www.dlapolski.pl/kategoria/spotkanie" rel="category tag">Spotkania</a>&nbsp;</span> </div>
+</div>
+</li>
+<div class="clearfix visible-sm"></div> <li class="acme-col-3">
+<figure class="widget-image">
+<a href="https://www.dlapolski.pl/czym-byla-nowa-lewica">
+<img width="240" height="172" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/czym-by-a-nowa-lewica-gzXCPjtiJx0-240x172.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /> </a>
+</figure>
+<div class="featured-desc">
+<a href="https://www.dlapolski.pl/czym-byla-nowa-lewica">
+<h4 class="title">
+<span>Czym była Nowa Lewica?</span> </h4>
+</a>
+<div class="above-entry-meta">
+<span>
+<a href="https://www.dlapolski.pl/2020/01/03">
+<i class="fa fa-calendar"></i>
+3 stycznia 2020 </a>
+</span>
+<span>
+<a href="https://www.dlapolski.pl/czym-byla-nowa-lewica#respond"><i class="fa fa-comment"></i>0</a> </span>
+</div>
+<div class="details">Jakub Zgierski o zmianie strategii marksistów</div> <div class="below-entry-meta">
+<span class="cat-links"><a class="at-cat-item-1344" href="https://www.dlapolski.pl/kategoria/spotkanie" rel="category tag">Spotkania</a>&nbsp;</span> </div>
+</div>
+</li>
+<div class="clearfix visible-lg"></div></div> </ul>
+</aside><div class='clearfix'></div><aside id="rss-2" class="widget widget_rss"><h2 class="widget-title"><span><a class="rsswidget" href="https://rozmowy.eu/feed/"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://www.dlapolski.pl/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget" href="https://rozmowy.eu/">rozmowy.eu i&#8230; nic więcej</a></span></h2><ul><li><a class='rsswidget' href='https://rozmowy.eu/skad-sie-wzial-ozjasz-goldberg'>Skąd się wziął Ozjasz Goldberg?</a><div class="rssSummary">Janusz Korwin-Mikke jak zwykle szokuje, zaskakuje, budzi kontrowersje, ale nikt nie może odmówić liderowi wolnościowców logiki myślenia Czy on sam czuje się spełnionym politykiem i legendą polskiego parlamentaryzmu?</div></li><li><a class='rsswidget' href='https://rozmowy.eu/kto-prowadzil-konta-politykow'>Kto prowadził konta polityków?</a><div class="rssSummary">Wyciekły dane</div></li><li><a class='rsswidget' href='https://rozmowy.eu/co-kilka-minut-na-swiecie-zabijany-jest-chrzescijanin'>Co kilka minut na świecie zabijany jest chrześcijanin</a><div class="rssSummary">Ks. dr Waldemar Cisło</div></li></ul></aside><div class='clearfix'></div> </main>
+
+</div>
+<div id="secondary-right" class="widget-area sidebar secondary-sidebar float-right" role="complementary">
+<div id="sidebar-section-top" class="widget-area sidebar clearfix">
+<aside id="category-posts-4" class="widget cat-post-widget"><ul id="category-posts-4-internal" class="category-posts-internal">
+<li class='cat-post-item'><a class="cat-post-everything-is-link" href="https://www.dlapolski.pl/czas-apokalipsy" title=""><div><span class="cat-post-thumbnail cat-post-none"><span class="cat-post-crop"><img width="107" height="60" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-czas-apokalipsy-8221-RT99O8lY0UI-500x280.jpg" class="attachment-120x60 size-120x60 wp-post-image" alt="" srcset="https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-czas-apokalipsy-8221-RT99O8lY0UI-500x280.jpg 500w, https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-czas-apokalipsy-8221-RT99O8lY0UI-649x365.jpg 649w, https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-czas-apokalipsy-8221-RT99O8lY0UI-840x473.jpg 840w, https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-czas-apokalipsy-8221-RT99O8lY0UI.jpg 1280w" sizes="(max-width: 107px) 100vw, 107px" /></span></span> </div><div>
+<span class="cat-post-title"><span>&#8222;Czas apokalipsy&#8221;</span></span></div></a></li><li class='cat-post-item'><a class="cat-post-everything-is-link" href="https://www.dlapolski.pl/brudne-klamstwa-putina" title=""><div><span class="cat-post-thumbnail cat-post-none"><span class="cat-post-crop"><img width="107" height="60" src="https://www.dlapolski.pl/wp-content/uploads/2019/10/wojciech-sumli-ski-ocenia-rz-dy-pis-0t7sxThpzSg-500x280.jpg" class="attachment-120x60 size-120x60 wp-post-image" alt="" srcset="https://www.dlapolski.pl/wp-content/uploads/2019/10/wojciech-sumli-ski-ocenia-rz-dy-pis-0t7sxThpzSg-500x280.jpg 500w, https://www.dlapolski.pl/wp-content/uploads/2019/10/wojciech-sumli-ski-ocenia-rz-dy-pis-0t7sxThpzSg-649x365.jpg 649w, https://www.dlapolski.pl/wp-content/uploads/2019/10/wojciech-sumli-ski-ocenia-rz-dy-pis-0t7sxThpzSg-840x473.jpg 840w, https://www.dlapolski.pl/wp-content/uploads/2019/10/wojciech-sumli-ski-ocenia-rz-dy-pis-0t7sxThpzSg.jpg 1280w" sizes="(max-width: 107px) 100vw, 107px" /></span></span> </div><div>
+<span class="cat-post-title"><span>Brudne kłamstwa Putina</span></span></div></a></li><li class='cat-post-item'><a class="cat-post-everything-is-link" href="https://www.dlapolski.pl/system-ukrytych-podatkow" title=""><div><span class="cat-post-thumbnail cat-post-none"><span class="cat-post-crop"><img width="107" height="60" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/system-ukrytych-podatk-w-YxXEbEtMFjQ-500x280.jpg" class="attachment-120x60 size-120x60 wp-post-image" alt="" srcset="https://www.dlapolski.pl/wp-content/uploads/2020/01/system-ukrytych-podatk-w-YxXEbEtMFjQ-500x280.jpg 500w, https://www.dlapolski.pl/wp-content/uploads/2020/01/system-ukrytych-podatk-w-YxXEbEtMFjQ-649x365.jpg 649w, https://www.dlapolski.pl/wp-content/uploads/2020/01/system-ukrytych-podatk-w-YxXEbEtMFjQ-840x473.jpg 840w, https://www.dlapolski.pl/wp-content/uploads/2020/01/system-ukrytych-podatk-w-YxXEbEtMFjQ.jpg 1280w" sizes="(max-width: 107px) 100vw, 107px" /></span></span> </div><div>
+<span class="cat-post-title"><span>System ukrytych podatków</span></span></div></a></li><li class='cat-post-item'><a class="cat-post-everything-is-link" href="https://www.dlapolski.pl/jaki-jest-nasz-stan-ducha" title=""><div><span class="cat-post-thumbnail cat-post-none"><span class="cat-post-crop"><img width="103" height="60" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/P0qFYQChL0-480x280.jpg" class="attachment-120x60 size-120x60 wp-post-image" alt="" /></span></span> </div><div>
+<span class="cat-post-title"><span>Jaki jest nasz stan ducha?</span></span></div></a></li><li class='cat-post-item'><a class="cat-post-everything-is-link" href="https://www.dlapolski.pl/przesladowanie-chrzescijan-zdominuje-rok-2020" title=""><div><span class="cat-post-thumbnail cat-post-none"><span class="cat-post-crop"><img width="103" height="60" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/prze-ladowanie-chrze-cijan-z

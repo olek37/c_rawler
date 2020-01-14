@@ -1,0 +1,23 @@
+HTTP/1.1 302 Moved Temporarily
+Date: Tue, 14 Jan 2020 01:59:38 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=d176f85ef1f763d03ae6d862cc6d432821578967178; expires=Thu, 13-Feb-20 01:59:38 GMT; path=/; domain=.prezydent.pl; HttpOnly; SameSite=Lax
+Location: https://www.prezydent.pl/
+CF-Cache-Status: DYNAMIC
+Alt-Svc: h2=":443"; ma=60
+Server: cloudflare
+CF-RAY: 554c03043c68f298-WAW
+
+9a
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+0
+

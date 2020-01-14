@@ -13,14 +13,17 @@
 #define MAX_REQUEST_LEN 1024
 #define BUF_SIZE 1024
 #define MAX_HOSTNAME_LEN 256
-#define MAX_DEPTH 5
-#define MAX_BREADTH 5
+#define MAX_DEPTH 10
+#define MAX_BREADTH 20
+
+char links[10000];
 
 bool isEndOfHtml(char* buffer, int size) {
     char* tag = "</html>";
+    char* moved = "cation:";
 
     for(int i = 0; i < size - 7; i++) {
-        if( strncmp(buffer+i, tag, 7) == 0) {
+        if( strncmp(buffer+i, tag, 7) == 0 || strncmp(buffer+i, moved, 7) == 0) {
             return true;
         }
     }
@@ -30,7 +33,7 @@ bool isEndOfHtml(char* buffer, int size) {
 
 char* getFilenameFromHostname(char* hostname) {
     char* filename = (char*)malloc(sizeof(char) * MAX_HOSTNAME_LEN);
-    char* dir = "raw/";
+    char* dir = "indexed/";
     char* ext = ".txt";
     strcat(filename, dir);
     strcat(filename, hostname);
@@ -41,7 +44,7 @@ char* getFilenameFromHostname(char* hostname) {
 
 char* getLinksFilenameFromHostname(char* hostname) {
     char* filename = (char*)malloc(sizeof(char) * MAX_HOSTNAME_LEN);
-    char* dir = "raw/";
+    char* dir = "indexed/";
     char* ext = "-links.txt";
     strcat(filename, dir);
     strcat(filename, hostname);
@@ -62,8 +65,8 @@ void lineLinksToFile(char* line, int len, FILE * fp_write) {
                 *(temp+j-i-4) = *(line + j);
                 j++;
             }
+            write(fileno(fp_write), tag, 4);
             write(fileno(fp_write), temp, j-i-4);
-            write(fileno(fp_write), ".", 1);
             write(fileno(fp_write), "\n", 1);
 
             i = j;
@@ -80,7 +83,7 @@ void linksToFile(char* hostname) {
     char * line_links = (char*)malloc(sizeof(char) * MAX_HOSTNAME_LEN);
     size_t len = 0;
     int read;
-    
+
     while (true) {
         read = getline(&line, &len, fp_read);
         if(read == -1) {
@@ -95,14 +98,14 @@ void linksToFile(char* hostname) {
     return;
 }
 
-void httpGetToFile(char* hostname) {
-    printf("%s", hostname);
+int httpGetToFile(char* hostname) {
+    printf("%s\n", hostname);
     char* filename = getFilenameFromHostname(hostname);
     FILE * fp = fopen(filename, "w+");
 
     char * buffer = (char*)malloc(sizeof(char) * BUF_SIZE);
     char request[MAX_REQUEST_LEN];
-    char request_template[] = "GET / HTTP/1.1\r\nHost: %s\r\n\r\n";
+    char request_template[] = "GET / HTTP/1.1\r\nHost: %s\r\nUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0\r\n\r\n";
     struct protoent *protoent;
     
     in_addr_t in_addr;
@@ -122,12 +125,19 @@ void httpGetToFile(char* hostname) {
     
     struct hostent *he;
     he = gethostbyname(hostname);
+    if(he == NULL) {
+        return 0;
+    }
 
     memcpy(&sockaddr_in.sin_addr, he->h_addr_list[0], he->h_length);
     sockaddr_in.sin_family = AF_INET;
     sockaddr_in.sin_port = htons(server_port);
 
-    connect(socket_file_descriptor, (struct sockaddr*)&sockaddr_in, sizeof(sockaddr_in));
+    int connection_succeeded = connect(socket_file_descriptor, (struct sockaddr*)&sockaddr_in, sizeof(sockaddr_in));
+    printf("%d\n", connection_succeeded);
+    if(connection_succeeded == -1) {
+        return 0;
+    }
 
     nbytes_total = 0;
     while (nbytes_total < request_len) {
@@ -137,9 +147,12 @@ void httpGetToFile(char* hostname) {
 
     html_end = false;
 
-    while (!html_end) {
+    int i = 0;
+    while (!html_end && i++ < 100) {
         nbytes_total = read(socket_file_descriptor, buffer, BUF_SIZE);
-
+        if(nbytes_total <= 0) {
+            break;
+        }
         write(fileno(fp), buffer, nbytes_total);
 
         html_end = isEndOfHtml(buffer, BUF_SIZE);
@@ -151,7 +164,7 @@ void httpGetToFile(char* hostname) {
     if (filename)
         free(filename);
     fclose(fp);
-    return;
+    return i;
 }
 
 void recursiveCrawl(char * hostname, int current_depth) {
@@ -160,9 +173,12 @@ void recursiveCrawl(char * hostname, int current_depth) {
         return;
     }
 
-    httpGetToFile(hostname);
+    int i = httpGetToFile(hostname);
+    printf("%d\n", i);
+    if(i < 5) {
+        return;
+    }
     linksToFile(hostname);
-
 
     FILE * fp_read = fopen(getLinksFilenameFromHostname(hostname), "r");
     char* line = NULL;
@@ -170,18 +186,28 @@ void recursiveCrawl(char * hostname, int current_depth) {
     int read;
     
     int link_count = 0;
-    while (link_count < MAX_BREADTH) {
-        read = getline(&line, &len, fp_read);
-        if(read == -1 ) {
-            break;
+    while (link_count++ < MAX_BREADTH) {
+        for(int i = MAX_DEPTH; i >= current_depth; i--) {
+            read = getline(&line, &len, fp_read);
+            if ((line)[read - 1] == '\n') {
+                (line)[read - 1] = '\0';
+            }
+            if(read == -1 ) {
+                break;
+            }
+            if (strstr(links, line) == NULL) {
+                strcat(links, line);
+                recursiveCrawl(line, i);
+            } else {
+                break;
+            }
         }
-        recursiveCrawl(line, current_depth+1);
     }
 
     fclose(fp_read);
 }
 
 int main() {
-    char* root = "iana.org.";
+    char* root = "patriotyczna.listastron.pl";
     recursiveCrawl(root, 0);
 }

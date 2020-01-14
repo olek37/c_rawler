@@ -1,0 +1,21 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 14 Jan 2020 01:59:15 GMT
+Content-Type: text/html; charset=iso-8859-1
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=50
+Location: https://www.tworzymystronywww.cba.pl/
+X-Host-Ip: 187
+
+f5
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.tworzymystronywww.cba.pl/">here</a>.</p>
+</body></html>
+
+0
+
