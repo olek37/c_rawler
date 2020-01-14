@@ -1,7 +1,6 @@
-#define _XOPEN_SOURCE 700
 #include <arpa/inet.h>
 #include <assert.h>
-#include <netdb.h> /* getprotobyname */
+#include <netdb.h>
 #include <netinet/in.h>
 #include <stdbool.h>
 #include <stdio.h>
