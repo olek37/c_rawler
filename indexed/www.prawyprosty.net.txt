@@ -1,5 +1,5 @@
 HTTP/1.1 200 OK
-Date: Tue, 14 Jan 2020 01:59:12 GMT
+Date: Tue, 14 Jan 2020 13:30:42 GMT
 Content-Type: text/html; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -7,12 +7,12 @@ Vary: Accept-Encoding
 Cache-Control: no-cache
 Pragma: no-cache
 Expires: -1
-X-CST: EXPIRED
+X-CST: MISS
 Server: namecheap-nginx
-X-CST: EXPIRED
+X-CST: HIT
 Allow: GET, HEAD
 
-db4
+13dc
 <!DOCTYPE html>
 <html>
 <head id="ctl00_ctl00_Head1"><title>
@@ -26,7 +26,7 @@ db4
 <body>
     <form name="aspnetForm" method="post" action="./registered.aspx" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWRk4Wge1AtOBhG+rRXiGg7eO/WWumUg+Gus17ETA4qfuQM=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWRkvf9EFUvpjFGRD/RyosQmld735ZijtR2sKpocad1EMEM=" />
 </div>
 
 <div>
@@ -70,9 +70,7 @@ db4
 					<div id="logo">
 						<p>This domain is registered at<span id="regName"> Namecheap</span><br />
 						<a href="javascript:void(0);" data-href="https://www.namecheap.com/" onclick="window.open(this.getAttribute('data-href'));return false;" rel="noindex,nofollow"><img src="http://i.cdnpark.com/themes/registrar/images/logo_namecheap.png"></a><br />
-                        <span id="ctl00_ctl00_base_content_re
-628
-gisteredOrExpiredText_One">This domain was recently registered at Namecheap. Please check back later!</span></p>
+                        <span id="ctl00_ctl00_base_content_registeredOrExpiredText_One">This domain was recently registered at Namecheap. Please check back later!</span></p>
 					</div>
 					<h1 id="domaintitle"><a href="#">prawyprosty.net</a></h1>
 				</div>

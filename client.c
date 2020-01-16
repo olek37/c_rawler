@@ -1,63 +1,90 @@
-#include <sys/socket.h>
-#include <sys/types.h>
-#include <netinet/in.h>
-#include <netdb.h>
 #include <stdio.h>
-#include <string.h>
+#include <errno.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include <errno.h>
-#include <arpa/inet.h> 
+#include <sys/types.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <netdb.h>
 
-int main(int argc, char *argv[])
+#define PORT            5556
+#define MESSAGE         "jest"
+#define SERVERHOST      "127.0.0.1"
+#define MAXMSG          1024
+
+void
+write_to_server (int filedes)
 {
-    int sockfd = 0, n = 0;
-    char recvBuff[1024];
-    struct sockaddr_in serv_addr; 
+  int nbytes;
 
-    if(argc != 2)
+  nbytes = write (filedes, MESSAGE, strlen (MESSAGE) + 1);
+  if (nbytes < 0)
     {
-        printf("\n Usage: %s <ip of server> \n",argv[0]);
-        return 1;
-    } 
+      perror ("write");
+      exit (EXIT_FAILURE);
+    }
+}
 
-    memset(recvBuff, '0',sizeof(recvBuff));
-    if((sockfd = socket(AF_INET, SOCK_STREAM, 0)) < 0)
-    {
-        printf("\n Error : Could not create socket \n");
-        return 1;
-    } 
 
-    memset(&serv_addr, '0', sizeof(serv_addr)); 
-
-    serv_addr.sin_family = AF_INET;
-    serv_addr.sin_port = htons(5000); 
-
-    if(inet_pton(AF_INET, argv[1], &serv_addr.sin_addr)<=0)
-    {
-        printf("\n inet_pton error occured\n");
-        return 1;
-    } 
-
-    if( connect(sockfd, (struct sockaddr *)&serv_addr, sizeof(serv_addr)) < 0)
-    {
-       printf("\n Error : Connect Failed \n");
-       return 1;
-    } 
-
-    while ( (n = read(sockfd, recvBuff, sizeof(recvBuff)-1)) > 0)
-    {
-        recvBuff[n] = 0;
-        if(fputs(recvBuff, stdout) == EOF)
-        {
-            printf("\n Error : Fputs error\n");
-        }
-    } 
-
-    if(n < 0)
-    {
-        printf("\n Read error \n");
-    } 
-
+int read_from_server (int filedes)
+{
+  char buffer[MAXMSG];
+  int nbytes;
+  nbytes = read(filedes, buffer, MAXMSG);
+  if(nbytes == 0) {
+    return -1;
+  } else {
+    fprintf(stderr, "Server response:\n%s\n", buffer);
     return 0;
+  }
+}
+
+void
+init_sockaddr (struct sockaddr_in *name,
+               const char *hostname,
+               uint16_t port)
+{
+  struct hostent *hostinfo;
+
+  name->sin_family = AF_INET;
+  name->sin_port = htons (port);
+  hostinfo = gethostbyname (hostname);
+  if (hostinfo == NULL)
+    {
+      fprintf (stderr, "Unknown host %s.\n", hostname);
+      exit (EXIT_FAILURE);
+    }
+  name->sin_addr = *(struct in_addr *) hostinfo->h_addr;
+}
+
+int
+main (void)
+{
+ 
+  int sock;
+  struct sockaddr_in servername;
+
+  /* Create the socket. */
+  sock = socket (PF_INET, SOCK_STREAM, 0);
+  if (sock < 0)
+    {
+      perror ("socket (client)");
+      exit (EXIT_FAILURE);
+    }
+
+  /* Connect to the server. */
+  init_sockaddr (&servername, SERVERHOST, PORT);
+  if (0 > connect (sock,
+                   (struct sockaddr *) &servername,
+                   sizeof (servername)))
+    {
+      perror ("connect (client)");
+      exit (EXIT_FAILURE);
+    }
+
+  /* Send data to the server. */
+  write_to_server (sock);
+  read_from_server (sock);
+  close (sock);
+  exit (EXIT_SUCCESS);
 }

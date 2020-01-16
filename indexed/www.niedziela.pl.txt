@@ -1,5 +1,5 @@
 HTTP/1.1 301 Moved Permanently
-Date: Tue, 14 Jan 2020 01:59:36 GMT
+Date: Tue, 14 Jan 2020 13:30:46 GMT
 Server: Apache/2.4.29 (Ubuntu)
 Location: https://www.niedziela.pl/
 Content-Length: 315

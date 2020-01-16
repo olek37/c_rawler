@@ -1,5 +1,5 @@
 HTTP/1.1 200 OK
-Date: Tue, 14 Jan 2020 01:59:08 GMT
+Date: Tue, 14 Jan 2020 13:30:37 GMT
 Server: Apache/2
 X-Powered-By: PHP/5.6.40
 P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
@@ -1714,4 +1714,113 @@ kazała usunięcie krzyża z pomnika Jana Pawła II      </a><br />
       Polegli i bestialsko pomordowani w walkach z bandami UPA w Birczy      </a><br />
             
 
-      <a href="http://www.bibula.com/?p=107117" 
+      <a href="http://www.bibula.com/?p=107117" rel="bookmark" class="title_sm">
+      &#176;      
+      Prof. Osadczy dla Kresy.pl: amnezja kresowa to część upadłości III RP rządzonej przez POPiS, trzeba się temu przeciwstawić      </a><br />
+            
+
+      <a href="http://www.bibula.com/?p=107126" rel="bookmark" class="title_sm">
+      &#176;      
+      Bartosz Bekier: Jesteśmy zdeterminowani bronić polskiego dziedzictwa na Kresach      </a><br />
+            
+
+      <a href="http://www.bibula.com/?p=106892" rel="bookmark" class="title_sm">
+      &#176;      
+      Wspomnienia z Lubieszowa na Polesiu. Jak UPA wymordowała 200 Polaków      </a><br />
+            
+
+      <a href="http://www.bibula.com/?p=106838" rel="bookmark" class="title_sm">
+      &#176;      
+      Wjatrowycz przygotowuje ustawę groźną dla polskiego dziedzictwa na Kresach      </a><br />
+          </div>
+
+<div class="podpis_sz">
+<A HREF="http://www.bibula.com/?cat=215">Wi&#281;cej w Dziale: KRESY</A></div>
+
+      </div>
+
+  <!--END HOMELEFTCOL-->
+
+
+  <!--END HOMELEFTCOL-->
+  <div id="homemidcol">
+        <div class="clearfloat-wynton">
+            <div class="cat-head">
+      <h3-wynton><a href="http://www.bibula.com/?cat=4">
+          KOŚCIÓŁ W USA        </a></h3>
+      </div>
+        
+      
+
+      <a href="http://www.bibula.com/?p=111246" rel="bookmark" class="title_sm">
+      &#176;      Kardynał Raymond Burke: milczenie biskupów i księży wobec bluźnierstw to skandal      </a><br />
+        
+      
+
+      <a href="http://www.bibula.com/?p=111003" rel="bookmark" class="title_sm">
+      &#176;      Homoseksualizm w świecie zwierząt to norma? Zdumiewający argument o. Jamesa Martina SJ      </a><br />
+        
+      
+
+      <a href="http://www.bibula.com/?p=110849" rel="bookmark" class="title_sm">
+      &#176;      O. James Martin SJ posłużył się bluźnierczą ilustracją. Nie wiedział co robi?      </a><br />
+        
+      
+
+      <a href="http://www.bibula.com/?p=110715" rel="bookmark" class="title_sm">
+      &#176;      Skandal w USA. O. Martin SJ w miesiącu kultu Serca Jezusa zwołuje homokonferencję      </a><br />
+        
+      
+
+      <a href="http://www.bibula.com/?p=110566" rel="bookmark" class="title_sm">
+      &#176;      USA: powszechna negacja nauczania Kościoła w sprawie wspólnego życia par bez ślubu      </a><br />
+        
+      
+
+      <a href="http://www.bibula.com/?p=110525" rel="bookmark" class="title_sm">
+      &#176;      USA: znaczący rozwój parafii, w których sprawuje się Mszę św. „trydencką”      </a><br />
+        
+      
+
+      <a href="http://www.bibula.com/?p=110483" rel="bookmark" class="title_sm">
+      &#176;      Odmowa Komunii promotorom aborcji niewłaściwa? Ojciec James Martin SJ ma swoje zdanie      </a><br />
+        
+      
+
+      <a href="http://www.bibula.com/?p=110406" rel="bookmark" class="title_sm">
+      &#176;      USA: ksiądz odmawia Komunii kandydatowi na prezydenta. Powodem proaborcyjne zapowiedzi      </a><br />
+        
+      
+
+      <a href="http://www.bibula.com/?p=109898" rel="bookmark" class="title_sm">
+      &#176;      Abp Chaput: prohomoseksualny o. James Martin SJ nie mówi z pozycji autorytetu Kościoła      </a><br />
+        
+      
+
+      <a href="http://www.bibula.com/?p=109655" rel="bookmark" class="title_sm">
+      &#176;      Theodore McCarrick przerywa milczenie. Były kardynał przekonuje, że „nie jest taki zły, jak go malują”      </a><br />
+          </div>
+
+<div class="podpis_sz">
+<A HREF="http://www.bibula.com/?cat=4">Wi&#281;cej w Dziale: KOŚCIÓŁ W USA</A></div>
+
+        <div class="clearfloat-wynton">
+            <div class="cat-head">
+      <h3-wynton><a href="http://www.bibula.com/?cat=7">
+          WYDARZENIA W USA        </a></h3>
+      </div>
+        
+      
+
+      <a href="http://www.bibula.com/?p=111561" rel="bookmark" class="title_sm">
+      &#176;      Eruv: Jak Żydzi robią swego boga w konia      </a><br />
+        
+      
+
+      <a href="http://www.bibula.com/?p=111333" rel="bookmark" class="title_sm">
+      &#176;      Zambia: ambasador USA skrytykował penalizację praktyk homoseksualnych. Został odwołany      </a><br />
+        
+      
+
+      <a href="http://www.bibula.com/?p=111262" rel="bookmark" class="title_sm">
+      &#176;      Prawnik z Departamentu Sprawiedliwości USA groził Muzeum 

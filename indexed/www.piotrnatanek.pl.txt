@@ -1,6 +1,6 @@
 HTTP/1.1 200 OK
 Server: nginx
-Date: Tue, 14 Jan 2020 01:59:12 GMT
+Date: Tue, 14 Jan 2020 13:30:41 GMT
 Content-Type: text/html; charset=UTF-8
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -1100,20 +1100,20 @@ var td_screen_width = window.innerWidth;
 </div>        
             <div class="td-main-content-wrap td-main-page-wrap td-container-wrap">
                 <div class="td-container tdc-content-wrap">
-                    <div class="vc_row wpb_row td-pb-row"><div class="wpb_column vc_column_container td-pb-span12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="td_block_wrap td_block_trending_now td_uid_2_5e1d207005f39_rand td-pb-border-top td_block_template_1"  data-td-block-uid="td_uid_2_5e1d207005f39" ><script>var block_td_uid_2_5e1d207005f39 = new tdBlock();
-block_td_uid_2_5e1d207005f39.id = "td_uid_2_5e1d207005f39";
-block_td_uid_2_5e1d207005f39.atts = '{"limit":5,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"Wszystko","color_preset":"","border_top":"","class":"td_uid_2_5e1d207005f39_rand","el_class":"","offset":"","css":"","tdc_css":"","tdc_css_class":"td_uid_2_5e1d207005f39_rand","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":"","block_template_id":""}';
-block_td_uid_2_5e1d207005f39.td_column_number = "3";
-block_td_uid_2_5e1d207005f39.block_type = "td_block_trending_now";
-block_td_uid_2_5e1d207005f39.post_count = "5";
-block_td_uid_2_5e1d207005f39.found_posts = "844";
-block_td_uid_2_5e1d207005f39.header_color = "";
-block_td_uid_2_5e1d207005f39.ajax_pagination_infinite_stop = "";
-block_td_uid_2_5e1d207005f39.max_num_pages = "169";
-tdBlocksArray.push(block_td_uid_2_5e1d207005f39);
-</script><div id=td_uid_2_5e1d207005f39 class="td_block_inner">
+                    <div class="vc_row wpb_row td-pb-row"><div class="wpb_column vc_column_container td-pb-span12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="td_block_wrap td_block_trending_now td_uid_2_5e1dc281284fd_rand td-pb-border-top td_block_template_1"  data-td-block-uid="td_uid_2_5e1dc281284fd" ><script>var block_td_uid_2_5e1dc281284fd = new tdBlock();
+block_td_uid_2_5e1dc281284fd.id = "td_uid_2_5e1dc281284fd";
+block_td_uid_2_5e1dc281284fd.atts = '{"limit":5,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"Wszystko","color_preset":"","border_top":"","class":"td_uid_2_5e1dc281284fd_rand","el_class":"","offset":"","css":"","tdc_css":"","tdc_css_class":"td_uid_2_5e1dc281284fd_rand","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":"","block_template_id":""}';
+block_td_uid_2_5e1dc281284fd.td_column_number = "3";
+block_td_uid_2_5e1dc281284fd.block_type = "td_block_trending_now";
+block_td_uid_2_5e1dc281284fd.post_count = "5";
+block_td_uid_2_5e1dc281284fd.found_posts = "844";
+block_td_uid_2_5e1dc281284fd.header_color = "";
+block_td_uid_2_5e1dc281284fd.ajax_pagination_infinite_stop = "";
+block_td_uid_2_5e1dc281284fd.max_num_pages = "169";
+tdBlocksArray.push(block_td_uid_2_5e1dc281284fd);
+</script><div id=td_uid_2_5e1dc281284fd class="td_block_inner">
 
-	<div class="td-block-row"><div class="td-trending-now-wrapper" id="td_uid_2_5e1d207005f39" data-start=""><div class="td-trending-now-title">Na Topie</div><div class="td-trending-now-display-area">
+	<div class="td-block-row"><div class="td-trending-now-wrapper" id="td_uid_2_5e1dc281284fd" data-start=""><div class="td-trending-now-title">Na Topie</div><div class="td-trending-now-display-area">
         <div class="td_module_trending_now td-trending-now-post-0 td-trending-now-post">
 
             <h3 class="entry-title td-module-title"><a href="http://www.piotrnatanek.pl/witaminy-i-suplementy-dla-koni-ktorym-warto-sie-przyjrzec/" rel="bookmark" title="Witaminy i suplementy dla koni – którym warto się przyjrzeć?">Witaminy i suplementy dla koni – którym warto się przyjrzeć?</a></h3>
@@ -1145,13 +1145,13 @@ tdBlocksArray.push(block_td_uid_2_5e1d207005f39);
 
         </div><div class="td-next-prev-wrap"><a href="#"
                                   class="td_ajax-prev-pagex td-trending-now-nav-left"
-                                  data-block-id="td_uid_2_5e1d207005f39"
+                                  data-block-id="td_uid_2_5e1dc281284fd"
                                   data-moving="left"
                                   data-control-start=""><i class="td-icon-menu-left"></i></a><a href="#"
                                   class="td_ajax-next-pagex td-trending-now-nav-right"
-                                  data-block-id="td_uid_2_5e1d207005f39"
+                                  data-block-id="td_uid_2_5e1dc281284fd"
                                   data-moving="right"
-                                  data-control-start=""><i class="td-icon-menu-right"></i></a></div></div></div><!--./row-fluid--></div></div> <!-- ./block --><div class="td_block_wrap td_block_big_grid_8 td_uid_3_5e1d2070071ba_rand td-grid-style-4 td-hover-1 td-big-grids td-pb-border-top td_block_template_1"  data-td-block-uid="td_uid_3_5e1d2070071ba" ><div id=td_uid_3_5e1d2070071ba class="td_block_inner"><div class="td-big-grid-wrapper"><div class="td-grid-columns td-grid-group-1">
+                                  data-control-start=""><i class="td-icon-menu-right"></i></a></div></div></div><!--./row-fluid--></div></div> <!-- ./block --><div class="td_block_wrap td_block_big_grid_8 td_uid_3_5e1dc28129c8c_rand td-grid-style-4 td-hover-1 td-big-grids td-pb-border-top td_block_template_1"  data-td-block-uid="td_uid_3_5e1dc28129c8c" ><div id=td_uid_3_5e1dc28129c8c class="td_block_inner"><div class="td-big-grid-wrapper"><div class="td-grid-columns td-grid-group-1">
         <div class="td_module_mx14 td-animation-stack td-big-grid-post-0 td-big-grid-post td-big-thumb">
             <div class="td-module-thumb"><a href="http://www.piotrnatanek.pl/witaminy-i-suplementy-dla-koni-ktorym-warto-sie-przyjrzec/" rel="bookmark" title="Witaminy i suplementy dla koni – którym warto się przyjrzeć?"><img width="356" height="364" class="entry-thumb" src="http://www.piotrnatanek.pl/wp-content/uploads/2020/01/Witaminy-i-suplementy-dla-koni-–-którym-warto-się-przyjrzeć-foto-356x364.jpg" alt="Witaminy i suplementy dla koni" title="Witaminy i suplementy dla koni – którym warto się przyjrzeć?"/></a></div>            <div class="td-meta-info-container">
                 <div class="td-meta-align">
@@ -1244,18 +1244,18 @@ tdBlocksArray.push(block_td_uid_2_5e1d207005f39);
 
         </div></div></div><div class="clearfix"></div></div></div> <!-- ./block --></div></div></div></div><div class="vc_row wpb_row td-pb-row"><div class="wpb_column vc_column_container td-pb-span8"><div class="vc_column-inner "
 fff8
-><div class="wpb_wrapper"><div class="td_block_wrap td_block_2 td_uid_4_5e1d20700a7a4_rand td_with_ajax_pagination td-pb-border-top td_block_template_1 td-column-2 td_block_padding"  data-td-block-uid="td_uid_4_5e1d20700a7a4" ><script>var block_td_uid_4_5e1d20700a7a4 = new tdBlock();
-block_td_uid_4_5e1d20700a7a4.id = "td_uid_4_5e1d20700a7a4";
-block_td_uid_4_5e1d20700a7a4.atts = '{"limit":"6","sort":"random_posts","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"9","category_ids":"","custom_title":"ZDROWIE","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":2,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Wszystko","color_preset":"","border_top":"","class":"td_uid_4_5e1d20700a7a4_rand","el_class":"","offset":"","css":"","tdc_css":"","tdc_css_class":"td_uid_4_5e1d20700a7a4_rand","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":"","block_template_id":""}';
-block_td_uid_4_5e1d20700a7a4.td_column_number = "2";
-block_td_uid_4_5e1d20700a7a4.block_type = "td_block_2";
-block_td_uid_4_5e1d20700a7a4.post_count = "6";
-block_td_uid_4_5e1d20700a7a4.found_posts = "113";
-block_td_uid_4_5e1d20700a7a4.header_color = "";
-block_td_uid_4_5e1d20700a7a4.ajax_pagination_infinite_stop = "";
-block_td_uid_4_5e1d20700a7a4.max_num_pages = "19";
-tdBlocksArray.push(block_td_uid_4_5e1d20700a7a4);
-</script><div class="td-block-title-wrap"><h4 class="block-title"><span class="td-pulldown-size">ZDROWIE</span></h4><div class="td-pulldown-syle-default td-subcat-filter" id="td_pulldown_td_uid_4_5e1d20700a7a4"><ul class="td-subcat-list" id="td_pulldown_td_uid_4_5e1d20700a7a4_list"><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_5_5e1d20700b3c7" data-td_filter_value="" data-td_block_id="td_uid_4_5e1d20700a7a4" href="#">Wszystko</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_6_5e1d20700b3cd" data-td_filter_value="3" data-td_block_id="td_uid_4_5e1d20700a7a4" href="#">Lifestyle</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_7_5e1d20700b3d1" data-td_filter_value="4" data-td_block_id="td_uid_4_5e1d20700a7a4" href="#">Moda</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_8_5e1d20700b3d6" data-td_filter_value="12" data-td_block_id="td_uid_4_5e1d20700a7a4" href="#">Moto</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_9_5e1d20700b3da" data-td_filter_value="5" data-td_block_id="td_uid_4_5e1d20700a7a4" href="#">Podróże</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_10_5e1d20700b3de" data-td_filter_value="6" data-td_block_id="td_uid_4_5e1d20700a7a4" href="#">Praca</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_11_5e1d20700b3e2" data-td_filter_value="7" data-td_block_id="td_uid_4_5e1d20700a7a4" href="#">Uroda</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_12_5e1d20700b3e6" data-td_filter_value="8" data-td_block_id="td_uid_4_5e1d20700a7a4" href="#">Zakupy</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_13_5e1d20700b3ea" data-td_filter_value="9" data-td_block_id="td_uid_4_5e1d20700a7a4" href="#">Zdrowie</a></li></ul><div class="td-subcat-dropdown"><div class="td-subcat-more" aria-haspopup="true"><span>Więcej</span><i class="td-icon-read-down"></i></div><ul class="td-pulldown-filter-list"></ul></div></div></div><div id=td_uid_4_5e1d20700a7a4 class="td_block_inner">
+><div class="wpb_wrapper"><div class="td_block_wrap td_block_2 td_uid_4_5e1dc2812d85b_rand td_with_ajax_pagination td-pb-border-top td_block_template_1 td-column-2 td_block_padding"  data-td-block-uid="td_uid_4_5e1dc2812d85b" ><script>var block_td_uid_4_5e1dc2812d85b = new tdBlock();
+block_td_uid_4_5e1dc2812d85b.id = "td_uid_4_5e1dc2812d85b";
+block_td_uid_4_5e1dc2812d85b.atts = '{"limit":"6","sort":"random_posts","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"9","category_ids":"","custom_title":"ZDROWIE","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":2,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Wszystko","color_preset":"","border_top":"","class":"td_uid_4_5e1dc2812d85b_rand","el_class":"","offset":"","css":"","tdc_css":"","tdc_css_class":"td_uid_4_5e1dc2812d85b_rand","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":"","block_template_id":""}';
+block_td_uid_4_5e1dc2812d85b.td_column_number = "2";
+block_td_uid_4_5e1dc2812d85b.block_type = "td_block_2";
+block_td_uid_4_5e1dc2812d85b.post_count = "6";
+block_td_uid_4_5e1dc2812d85b.found_posts = "113";
+block_td_uid_4_5e1dc2812d85b.header_color = "";
+block_td_uid_4_5e1dc2812d85b.ajax_pagination_infinite_stop = "";
+block_td_uid_4_5e1dc2812d85b.max_num_pages = "19";
+tdBlocksArray.push(block_td_uid_4_5e1dc2812d85b);
+</script><div class="td-block-title-wrap"><h4 class="block-title"><span class="td-pulldown-size">ZDROWIE</span></h4><div class="td-pulldown-syle-default td-subcat-filter" id="td_pulldown_td_uid_4_5e1dc2812d85b"><ul class="td-subcat-list" id="td_pulldown_td_uid_4_5e1dc2812d85b_list"><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_5_5e1dc2812e52a" data-td_filter_value="" data-td_block_id="td_uid_4_5e1dc2812d85b" href="#">Wszystko</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_6_5e1dc2812e530" data-td_filter_value="3" data-td_block_id="td_uid_4_5e1dc2812d85b" href="#">Lifestyle</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_7_5e1dc2812e534" data-td_filter_value="4" data-td_block_id="td_uid_4_5e1dc2812d85b" href="#">Moda</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_8_5e1dc2812e539" data-td_filter_value="12" data-td_block_id="td_uid_4_5e1dc2812d85b" href="#">Moto</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_9_5e1dc2812e53d" data-td_filter_value="5" data-td_block_id="td_uid_4_5e1dc2812d85b" href="#">Podróże</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_10_5e1dc2812e541" data-td_filter_value="6" data-td_block_id="td_uid_4_5e1dc2812d85b" href="#">Praca</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_11_5e1dc2812e546" data-td_filter_value="7" data-td_block_id="td_uid_4_5e1dc2812d85b" href="#">Uroda</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_12_5e1dc2812e54a" data-td_filter_value="8" data-td_block_id="td_uid_4_5e1dc2812d85b" href="#">Zakupy</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_13_5e1dc2812e54e" data-td_filter_value="9" data-td_block_id="td_uid_4_5e1dc2812d85b" href="#">Zdrowie</a></li></ul><div class="td-subcat-dropdown"><div class="td-subcat-more" aria-haspopup="true"><span>Więcej</span><i class="td-icon-read-down"></i></div><ul class="td-pulldown-filter-list"></ul></div></div></div><div id=td_uid_4_5e1dc2812d85b class="td_block_inner">
 
 	<div class="td-block-row">
 
@@ -1263,15 +1263,15 @@ tdBlocksArray.push(block_td_uid_4_5e1d20700a7a4);
 
         <div class="td_module_2 td_module_wrap td-animation-stack">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.piotrnatanek.pl/choroby-grzybicze-jak-je-leczyc-i-im-zapobiegac/" rel="bookmark" title="Choroby grzybicze &#8211; jak je leczyć i im zapobiegać"><img width="324" height="160" class="entry-thumb" src="http://www.piotrnatanek.pl/wp-content/uploads/2018/06/grzybica-ogólnoustrojowa-324x160.jpg" srcset="http://www.piotrnatanek.pl/wp-content/uploads/2018/06/grzybica-ogólnoustrojowa-324x160.jpg 324w, http://www.piotrnatanek.pl/wp-content/uploads/2018/06/grzybica-ogólnoustrojowa-533x261.jpg 533w" sizes="(max-width: 324px) 100vw, 324px" alt="grzybica ogólnoustrojowa" title="Choroby grzybicze &#8211; jak je leczyć i im zapobiegać"/></a></div>                            </div>
-            <h3 class="entry-title td-module-title"><a href="http://www.piotrnatanek.pl/choroby-grzybicze-jak-je-leczyc-i-im-zapobiegac/" rel="bookmark" title="Choroby grzybicze &#8211; jak je leczyć i im zapobiegać">Choroby grzybicze &#8211; jak je leczyć i im zapobiegać</a></h3>
+                <div class="td-module-thumb"><a href="http://www.piotrnatanek.pl/sposoby-naturalne-na-zwalczanie-tradziku/" rel="bookmark" title="Sposoby naturalne na zwalczanie trądziku!"><img width="324" height="160" class="entry-thumb" src="http://www.piotrnatanek.pl/wp-content/uploads/2018/07/kobieta19-324x160.jpg" srcset="http://www.piotrnatanek.pl/wp-content/uploads/2018/07/kobieta19-324x160.jpg 324w, http://www.piotrnatanek.pl/wp-content/uploads/2018/07/kobieta19-533x261.jpg 533w" sizes="(max-width: 324px) 100vw, 324px" alt="" title="Sposoby naturalne na zwalczanie trądziku!"/></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="http://www.piotrnatanek.pl/sposoby-naturalne-na-zwalczanie-tradziku/" rel="bookmark" title="Sposoby naturalne na zwalczanie trądziku!">Sposoby naturalne na zwalczanie trądziku!</a></h3>
 
             <div class="td-module-meta-info">
-                <span class="td-post-author-name"><a href="http://www.piotrnatanek.pl/author/redakcja/">Redakcja</a> <span>-</span> </span>                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-07-21T12:41:02+00:00" >21 lipca 2018</time></span>                <div class="td-module-comments"><a href="http://www.piotrnatanek.pl/choroby-grzybicze-jak-je-leczyc-i-im-zapobiegac/#respond">0</a></div>            </div>
+                <span class="td-post-author-name"><a href="http://www.piotrnatanek.pl/author/jeden/">Redakcja Piotrnatanek.pl</a> <span>-</span> </span>                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-07-28T17:46:58+00:00" >28 lipca 2018</time></span>                <div class="td-module-comments"><a href="http://www.piotrnatanek.pl/sposoby-naturalne-na-zwalczanie-tradziku/#respond">0</a></div>            </div>
 
 
             <div class="td-excerpt">
-                Grzybice, czyli mikozy, to część chorób wywołanych przez grzyby chorobotwórcze. Grzybica może mieć rozmaite sygnały i dotyczyć innych organów i tkanek, jednak wszystkie wywołane...            </div>
+                Trądzik to zjawisko jakie dotyka zwłaszcza młodych ludzi. W okresie dojrzewania jest go dość sporo.! Młodzież, zwłaszcza kobiety są uzależnione od kosmetyków. Jednak w...            </div>
 
             
         </div>
@@ -1283,15 +1283,15 @@ tdBlocksArray.push(block_td_uid_4_5e1d20700a7a4);
 
         <div class="td_module_2 td_module_wrap td-animation-stack">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="http://www.piotrnatanek.pl/jak-jesc-smacznie-i-niedrogo-o-ksiazce-pyszne-25-nowa-porcja-przepisow-anny-starmach-2/" rel="bookmark" title="Jak jeść smacznie i niedrogo – o książce „Pyszne 25. Nowa porcja przepisów” Anny Starmach"><img width="324" height="160" class="entry-thumb" src="http://www.piotrnatanek.pl/wp-content/uploads/2017/09/eating-796489_1280-324x160.jpg" srcset="http://www.piotrnatanek.pl/wp-content/uploads/2017/09/eating-796489_1280-324x160.jpg 324w, http://www.piotrnatanek.pl/wp-content/uploads/2017/09/eating-796489_1280-533x261.jpg 533w" sizes="(max-width: 324px) 100vw, 324px" alt="Jak jeść smacznie i niedrogo – o książce „Pyszne 25. Nowa porcja przepisów” Anny Starmach" title="Jak jeść smacznie i niedrogo – o książce „Pyszne 25. Nowa porcja przepisów” Anny Starmach"/></a></div>                            </div>
-            <h3 class="entry-title td-module-title"><a href="http://www.piotrnatanek.pl/jak-jesc-smacznie-i-niedrogo-o-ksiazce-pyszne-25-nowa-porcja-przepisow-anny-starmach-2/" rel="bookmark" title="Jak jeść smacznie i niedrogo – o książce „Pyszne 25. Nowa porcja przepisów” Anny Starmach">Jak jeść smacznie i niedrogo – o książce „Pyszne 25. Nowa...</a></h3>
+                <div class="td-module-thumb"><a href="http://www.piotrnatanek.pl/jak-dobre-jedzenie-przeklada-sie-na-prace-naszego-organizmu/" rel="bookmark" title="Jak dobre jedzenie przekłada się na pracę naszego organizmu?"><img width="324" height="160" class="entry-thumb" src="http://www.piotrnatanek.pl/wp-content/uploads/2019/06/Jak-dobre-jedzenie-przekłada-się-na-pracę-naszego-organizmu-324x160.jpg" srcset="http://www.piotrnatanek.pl/wp-content/uploads/2019/06/Jak-dobre-jedzenie-przekłada-się-na-pracę-naszego-organizmu-324x160.jpg 324w, http://www.piotrnatanek.pl/wp-content/uploads/2019/06/Jak-dobre-jedzenie-przekłada-się-na-pracę-naszego-organizmu-533x261.jpg 533w" sizes="(max-width: 324px) 100vw, 324px" alt="Jak dobre jedzenie przekłada się na pracę naszego organizmu?" title="Jak dobre jedzenie przekłada się na pracę naszego organizmu?"/></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="http://www.piotrnatanek.pl/jak-dobre-jedzenie-przeklada-sie-na-prace-naszego-organizmu/" rel="bookmark" title="Jak dobre jedzenie przekłada się na pracę naszego organizmu?">Jak dobre jedzenie przekłada się na pracę naszego organizmu?</a></h3>
 
             <div class="td-module-meta-info">
-                <span class="td-post-author-name"><a href="http://www.piotrnatanek.pl/author/mmalik/">Redakcja Piotrnatanek</a> <span>-</span> </span>                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-07-25T11:50:22+00:00" >25 lipca 2017</time></span>                <div class="td-module-comments"><a href="http://www.piotrnatanek.pl/jak-jesc-smacznie-i-niedrogo-o-ksiazce-pyszne-25-nowa-porcja-przepisow-anny-starmach-2/#respond">0</a></div>            </div>
+                <span class="td-post-author-name"><a href="http://www.piotrnatanek.pl/author/piotrnatanek/">Redakcja Piotrnatanek.pl</a> <span>-</span> </span>                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2019-06-19T14:09:06+00:00" >19 czerwca 2019</time></span>                <div class="td-module-comments"><a href="http://www.piotrnatanek.pl/jak-dobre-jedzenie-przeklada-sie-na-prace-naszego-organizmu/#respond">0</a></div>            </div>
 
 
             <div class="td-excerpt">
-                Każdy wielbiciel gotowania posiada co najmniej kilka książek poświęconych kuchennej tematyce. Ja śledzę z uwagą kulinarną literaturę na rynku, dzięki temu moja prywatna kolekcja...            </div>
+                Odżywianie to bardzo istotny proces, który wpływa na funkcjonowanie naszego organizmu. Dlatego warto zadbać o to, by dostarczać mu wszelkich niezbędnych składników odżywczych. O...            </div>
 
             
         </div>
@@ -1305,10 +1305,10 @@ tdBlocksArray.push(block_td_uid_4_5e1d20700a7a4);
 
         <div class="td_module_6 td_module_wrap td-animation-stack">
 
-        <div class="td-module-thumb"><a href="http://www.piotrnatanek.pl/dieta-jako-droga-do-sukcesu/" rel="bookmark" title="Dieta jako droga do sukcesu ."><img width="100" height="70" class="entry-thumb" src="http://www.piotrnatanek.pl/wp-content/uploads/2018/07/dieta03-100x70.jpg" srcset="http://www.piotrnatanek.pl/wp-content/uploads/2018/07/dieta03-100x70.jpg 100w, http://www.piotrnatanek.pl/wp-content/uploads/2018/07/dieta03-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="" title="Dieta jako droga do sukcesu ."/></a></div>
+        <div class="td-module-thumb"><a href="http://www.piotrnatanek.pl/problemy-z-karmieniem-piersia-jak-sobie-z-nimi-radzic/" rel="bookmark" title="Problemy z karmieniem piersią – jak sobie z nimi radzić?"><img width="100" height="70" class="entry-thumb" src="http://www.piotrnatanek.pl/wp-content/uploads/2018/06/piersi-po-karmieniu-jak-utrzymać-biust-po-ciąży-w-dobrym-stanie-100x70.jpg" srcset="http://www.piotrnatanek.pl/wp-content/uploads/2018/06/piersi-po-karmieniu-jak-utrzymać-biust-po-ciąży-w-dobrym-stanie-100x70.jpg 100w, http://www.piotrnatanek.pl/wp-content/uploads/2018/06/piersi-po-karmieniu-jak-utrzymać-biust-po-ciąży-w-dobrym-stanie-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="Karmienie piersią" title="Problemy z karmieniem piersią – jak sobie z nimi radzić?"/></a></div>
         <div class="item-details">
-            <h3 class="entry-title td-module-title"><a href="http://www.piotrnatanek.pl/dieta-jako-droga-do-sukcesu/" rel="bookmark" title="Dieta jako droga do sukcesu .">Dieta jako droga do sukcesu .</a></h3>            <div class="td-module-meta-info">
-                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-07-28T15:26:33+00:00" >28 lipca 2018</time></span>                            </div>
+            <h3 class="entry-title td-module-title"><a href="http://www.piotrnatanek.pl/problemy-z-karmieniem-piersia-jak-sobie-z-nimi-radzic/" rel="bookmark" title="Problemy z karmieniem piersią – jak sobie z nimi radzić?">Problemy z karmieniem piersią – jak sobie z nimi radzić?</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-07-21T15:15:07+00:00" >21 lipca 2018</time></span>                            </div>
         </div>
 
         </div>
@@ -1320,10 +1320,10 @@ tdBlocksArray.push(block_td_uid_4_5e1d20700a7a4);
 
         <div class="td_module_6 td_module_wrap td-animation-stack">
 
-        <div class="td-module-thumb"><a href="http://www.piotrnatanek.pl/problemy-z-poczeciem-przyczyny-i-leczenie/" rel="bookmark" title="Problemy z poczęciem – przyczyny i leczenie"><img width="100" height="70" class="entry-thumb" src="http://www.piotrnatanek.pl/wp-content/uploads/2018/11/fsh-badanie-usg-jajników-badanie-płodności-u-mężczyzn-1-100x70.jpg" srcset="http://www.piotrnatanek.pl/wp-content/uploads/2018/11/fsh-badanie-usg-jajników-badanie-płodności-u-mężczyzn-1-100x70.jpg 100w, http://www.piotrnatanek.pl/wp-content/uploads/2018/11/fsh-badanie-usg-jajników-badanie-płodności-u-mężczyzn-1-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="Problemy z poczęciem – przyczyny i leczenie" title="Problemy z poczęciem – przyczyny i leczenie"/></a></div>
+        <div class="td-module-thumb"><a href="http://www.piotrnatanek.pl/fototerapia/" rel="bookmark" title="Fototerapia"><img width="100" height="70" class="entry-thumb" src="http://www.piotrnatanek.pl/wp-content/uploads/2017/09/vintage-2312547_1280-100x70.jpg" srcset="http://www.piotrnatanek.pl/wp-content/uploads/2017/09/vintage-2312547_1280-100x70.jpg 100w, http://www.piotrnatanek.pl/wp-content/uploads/2017/09/vintage-2312547_1280-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="Fototerapia" title="Fototerapia"/></a></div>
         <div class="item-details">
-            <h3 class="entry-title td-module-title"><a href="http://www.piotrnatanek.pl/problemy-z-poczeciem-przyczyny-i-leczenie/" rel="bookmark" title="Problemy z poczęciem – przyczyny i leczenie">Problemy z poczęciem – przyczyny i leczenie</a></h3>            <div class="td-module-meta-info">
-                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-11-22T10:40:48+00:00" >22 listopada 2018</time></span>                            </div>
+            <h3 class="entry-title td-module-title"><a href="http://www.piotrnatanek.pl/fototerapia/" rel="bookmark" title="Fototerapia">Fototerapia</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-08-02T12:48:27+00:00" >2 sierpnia 2017</time></span>                            </div>
         </div>
 
         </div>
@@ -1337,10 +1337,10 @@ tdBlocksArray.push(block_td_uid_4_5e1d20700a7a4);
 
         <div class="td_module_6 td_module_wrap td-animation-stack">
 
-        <div class="td-module-thumb"><a href="http://www.piotrnatanek.pl/relaks-w-parze/" rel="bookmark" title="Relaks w parze"><img width="100" height="70" class="entry-thumb" src="http://www.piotrnatanek.pl/wp-content/uploads/2018/07/kobieta14-100x70.jpg" srcset="http://www.piotrnatanek.pl/wp-content/uploads/2018/07/kobieta14-100x70.jpg 100w, http://www.piotrnatanek.pl/wp-content/uploads/2018/07/kobieta14-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="" title="Relaks w parze"/></a></div>
+        <div class="td-module-thumb"><a href="http://www.piotrnatanek.pl/magnetoterapia/" rel="bookmark" title="Magnetoterapia"><img width="100" height="70" class="entry-thumb" src="http://www.piotrnatanek.pl/wp-content/uploads/2017/09/skin-2404167_1280-1-100x70.jpg" srcset="http://www.piotrnatanek.pl/wp-content/uploads/2017/09/skin-2404167_1280-1-100x70.jpg 100w, http://www.piotrnatanek.pl/wp-content/uploads/2017/09/skin-2404167_1280-1-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="Magnetoterapia" title="Magnetoterapia"/></a></div>
         <div class="item-details">
-            <h3 class="entry-title td-module-title"><a href="http://www.piotrnatanek.pl/relaks-w-parze/" rel="bookmark" title="Relaks w parze">Relaks w parze</a></h3>            <div class="td-module-meta-info">
-                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-07-28T16:07:07+00:00" >28 lipca 2018</time></span>                            </div>
+            <h3 class="entry-title td-module-title"><a href="http://www.piotrnatanek.pl/magnetoterapia/" rel="bookmark" title="Magnetoterapia">Magnetoterapia</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-09-05T17:08:12+00:00" >5 września 2017</time></span>                            </div>
         </div>
 
         </div>
@@ -1352,63 +1352,102 @@ tdBlocksArray.push(block_td_uid_4_5e1d20700a7a4);
 
         <div class="td_module_6 td_module_wrap td-animation-stack">
 
-        <div class="td-module-thumb"><a href="http://www.piotrnatanek.pl/herbaty-ziolowe-i-aromatyczne/" rel="bookmark" title="Herbaty ziołowe i aromatyczne"><img width="100" height="70" class="entry-thumb" src="http://www.piotrnatanek.pl/wp-content/uploads/2018/08/lekarz04-100x70.jpg" srcset="http://www.piotrnatanek.pl/wp-content/uploads/2018/08/lekarz04-100x70.jpg 100w, http://www.piotrnatanek.pl/wp-content/uploads/2018/08/lekarz04-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="" title="Herbaty ziołowe i aromatyczne"/></a></div>
+        <div class="td-module-thumb"><a href="http://www.piotrnatanek.pl/cukrzyca-u-ciezarnych/" rel="bookmark" title="Cukrzyca u ciężarnych"><img width="100" height="70" class="entry-thumb" src="http://www.piotrnatanek.pl/wp-content/uploads/2018/08/lekarz01-100x70.jpg" srcset="http://www.piotrnatanek.pl/wp-content/uploads/2018/08/lekarz01-100x70.jpg 100w, http://www.piotrnatanek.pl/wp-content/uploads/2018/08/lekarz01-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="" title="Cukrzyca u ciężarnych"/></a></div>
         <div class="item-details">
-            <h3 class="entry-title td-module-title"><a href="http://www.piotrnatanek.pl/herbaty-ziolowe-i-aromatyczne/" rel="bookmark" title="Herbaty ziołowe i aromatyczne">Herbaty ziołowe i aromatyczne</a></h3>            <div class="td-module-meta-info">
-                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-08-09T23:37:34+00:00" >9 sierpnia 2018</time></span>                            </div>
+            <h3 class="entry-title td-module-title"><a href="http://www.piotrnatanek.pl/cukrzyca-u-ciezarnych/" rel="bookmark" title="Cukrzyca u ciężarnych">Cukrzyca u ciężarnych</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-08-09T22:43:18+00:00" >9 sierpnia 2018</time></span>                            </div>
         </div>
 
         </div>
 
         
-	</div> <!-- ./td-block-span6 --></div><!--./row-fluid--></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_4_5e1d20700a7a4" data-td_block_id="td_uid_4_5e1d20700a7a4"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_4_5e1d20700a7a4" data-td_block_id="td_uid_4_5e1d20700a7a4"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block --><div class="td_block_wrap td_block_1 td_uid_14_5e1d20700e4ad_rand td_with_ajax_pagination td-pb-border-top td_block_template_1 td-column-2"  data-td-block-uid="td_uid_14_5e1d20700e4ad" >
+	</div> <!-- ./td-block-span6 --></div><!--./row-fluid--></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_4_5e1dc2812d85b" data-td_block_id="td_uid_4_5e1dc2812d85b"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_4_5e1dc2812d85b" data-td_block_id="td_uid_4_5e1dc2812d85b"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block --><div class="td_block_wrap td_block_1 td_uid_14_5e1dc2813287c_rand td_with_ajax_pagination td-pb-border-top td_block_template_1 td-column-2"  data-td-block-uid="td_uid_14_5e1dc2813287c" >
 <style>
-body .td_uid_14_5e1d20700e4ad_rand .td_module_wrap:hover .entry-title a,
-            body .td_uid_14_5e1d20700e4ad_rand .td-pulldown-filter-link:hover,
-            body .td_uid_14_5e1d20700e4ad_rand .td-subcat-item a:hover,
-            body .td_uid_14_5e1d20700e4ad_rand .td-subcat-item .td-cur-simple-item,
-            body .td_uid_14_5e1d20700e4ad_rand .td_quote_on_blocks,
-            body .td_uid_14_5e1d20700e4ad_rand .td-opacity-cat .td-post-category:hover,
-            body .td_uid_14_5e1d20700e4ad_rand .td-opacity-read .td-read-more a:hover,
-            body .td_uid_14_5e1d20700e4ad_rand .td-opacity-author .td-post-author-name a:hover,
-            body .td_uid_14_5e1d20700e4ad_rand .td-instagram-user a {
+body .td_uid_14_5e1dc2813287c_rand .td_module_wrap:hover .entry-title a,
+            body .td_uid_14_5e1dc2813287c_rand .td-pulldown-filter-link:hover,
+            body .td_uid_14_5e1dc2813287c_rand .td-subcat-item a:hover,
+            body .td_uid_14_5e1dc2813287c_rand .td-subcat-item .td-cur-simple-item,
+            body .td_uid_14_5e1dc2813287c_rand .td_quote_on_blocks,
+            body .td_uid_14_5e1dc2813287c_rand .td-opacity-cat .td-post-category:hover,
+            body .td_uid_14_5e1dc2813287c_rand .td-opacity-read .td-read-more a:hover,
+            body .td_uid_14_5e1dc2813287c_rand .td-opacity-author .td-post-author-name a:hover,
+            body .td_uid_14_5e1dc2813287c_rand .td-instagram-user a {
                 color: #ffffff;
             }
 
-            body .td_uid_14_5e1d20700e4ad_rand .td-next-prev-wrap a:hover,
-            body .td_uid_14_5e1d20700e4ad_rand .td-load-more-wrap a:hover {
+            body .td_uid_14_5e1dc2813287c_rand .td-next-prev-wrap a:hover,
+            body .td_uid_14_5e1dc2813287c_rand .td-load-more-wrap a:hover {
                 background-color: #ffffff;
                 border-color: #ffffff;
             }
 
-            body .td_uid_14_5e1d20700e4ad_rand .block-title > *,
-            body .td_uid_14_5e1d20700e4ad_rand .td-trending-now-title,
-            body .td_uid_14_5e1d20700e4ad_rand .td-read-more a,
-            body .td_uid_14_5e1d20700e4ad_rand .td-weather-information:before,
-            body .td_uid_14_5e1d20700e4ad_rand .td-weather-week:before,
-            body .td_uid_14_5e1d20700e4ad_rand .td-subcat-dropdown:hover .td-subcat-more,
-            body .td_uid_14_5e1d20700e4ad_rand .td-exchange-header:before,
-            body .td-footer-wrapper .td_uid_14_5e1d20700e4ad_rand .td-post-category,
-            body .td_uid_14_5e1d20700e4ad_rand .td-post-category:hover {
+            body .td_uid_14_5e1dc2813287c_rand .block-title > *,
+            body .td_uid_14_5e1dc2813287c_rand .td-trending-now-title,
+            body .td_uid_14_5e1dc2813287c_rand .td-read-more a,
+            body .td_uid_14_5e1dc2813287c_rand .td-weather-information:before,
+            body .td_uid_14_5e1dc2813287c_rand .td-weather-week:before,
+            body .td_uid_14_5e1dc2813287c_rand .td-subcat-dropdown:hover .td-subcat-more,
+            body .td_uid_14_5e1dc2813287c_rand .td-exchange-header:before,
+            body .td-footer-wrapper .td_uid_14_5e1dc2813287c_rand .td-post-category,
+            body .td_uid_14_5e1dc2813287c_rand .td-post-category:hover {
                 background-color: #ffffff;
             }
-            body .td-footer-wrapper .td_uid_14_5e1d20700e4ad_rand .block-title > * {
+            body .td-footer-wrapper .td_uid_14_5e1dc2813287c_rand .block-title > * {
                 padding: 6px 7px 5px;
                 line-height: 1;
             }
 
-            body .td_uid_14_5e1d20700e4ad_rand .block-title {
+            body .td_uid_14_5e1dc2813287c_rand .block-title {
                 border-color: #ffffff;
             }
-</style><script>var block_td_uid_14_5e1d20700e4ad = new tdBlock();
-block_td_uid_14_5e1d20700e4ad.id = "td_uid_14_5e1d20700e4ad";
-block_td_uid_14_5e1d20700e4ad.atts = '{"limit":5,"sort":"random_posts","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"7","category_ids":"","custom_title":"URODA","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"#ffffff","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":2,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Wszystko","color_preset":"","border_top":"","class":"td_uid_14_5e1d20700e4ad_rand","el_class":"","offset":"","css":"","tdc_css":"","tdc_css_class":"td_uid_14_5e1d20700e4ad_rand","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":"","block_template_id":""}';
-block_td_uid_14_5e1d20700e4ad.td_column_number = "2";
-block_td_uid_14_5e1d20700e4ad.block_type = "td_block_1";
-block_td_uid_14_5e1d20700e4ad.post_count = "5";
-block_td_uid_14_5e1d20700e4ad.found_posts = "22";
-block_td_uid_14_5e1d20700e4ad.header_color = "#ffffff";
-block_td_uid_14_5e1d20700e4ad.ajax_pagination_infinite_stop = "";
-block_td_uid_14_5e1d20700e4ad.max_num_pages = "5";
-tdBlocksArray.push(block_td_uid_14_5e1d20700e4ad);
-</script><div class="td-block-title-wrap"><h4 class="block-title"><span class="td-pulldown-size">URODA</span></h4><div class="td-pulldown-syle-default td-subcat-filter" id="td_pulldown_td_uid_14_5e1d20700e4ad"><ul class="td-subcat-list" id="td_pulldown_td_uid_14_5e1d20700e4ad_list"><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_15_5e1d20700ed63" data-td_filter_value="" data-td_block_id="td_uid_14_5e1d20700e4ad" href="#">Wszystko</a></li><li class
+</style><script>var block_td_uid_14_5e1dc2813287c = new tdBlock();
+block_td_uid_14_5e1dc2813287c.id = "td_uid_14_5e1dc2813287c";
+block_td_uid_14_5e1dc2813287c.atts = '{"limit":5,"sort":"random_posts","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"7","category_ids":"","custom_title":"URODA","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"#ffffff","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":2,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"Wszystko","color_preset":"","border_top":"","class":"td_uid_14_5e1dc2813287c_rand","el_class":"","offset":"","css":"","tdc_css":"","tdc_css_class":"td_uid_14_5e1dc2813287c_rand","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":"","block_template_id":""}';
+block_td_uid_14_5e1dc2813287c.td_column_number = "2";
+block_td_uid_14_5e1dc2813287c.block_type = "td_block_1";
+block_td_uid_14_5e1dc2813287c.post_count = "5";
+block_td_uid_14_5e1dc2813287c.found_posts = "22";
+block_td_uid_14_5e1dc2813287c.header_color = "#ffffff";
+block_td_uid_14_5e1dc2813287c.ajax_pagination_infinite_stop = "";
+block_td_uid_14_5e1dc2813287c.max_num_pages = "5";
+tdBlocksArray.push(block_td_uid_14_5e1dc2813287c);
+</script><div class="td-block-title-wrap"><h4 class="block-title"><span class="td-pulldown-size">URODA</span></h4><div class="td-pulldown-syle-default td-subcat-filter" id="td_pulldown_td_uid_14_5e1dc2813287c"><ul class="td-subcat-list" id="td_pulldown_td_uid_14_5e1dc2813287c_list"><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_15_5e1dc28133535" data-td_filter_value="" data-td_block_id="td_uid_14_5e1dc2813287c" href="#">Wszystko</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_16_5e1dc2813353e" data-td_filter_value="3" data-td_block_id="td_uid_14_5e1dc2813287c" href="#">Lifestyle</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_17_5e1dc28133544" data-td_filter_value="4" data-td_block_id="td_uid_14_5e1dc2813287c" href="#">Moda</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_18_5e1dc2813354a" data-td_filter_value="12" data-td_block_id="td_uid_14_5e1dc2813287c" href="#">Moto</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_19_5e1dc28133550" data-td_filter_value="5" data-td_block_id="td_uid_14_5e1dc2813287c" href="#">Podróże</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_20_5e1dc28133556" data-td_filter_value="6" data-td_block_id="td_uid_14_5e1dc2813287c" href="#">Praca</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_21_5e1dc2813355c" data-td_filter_value="7" data-td_block_id="td_uid_14_5e1dc2813287c" href="#">Uroda</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_22_5e1dc28133563" data-td_filter_value="8" data-td_block_id="td_uid_14_5e1dc2813287c" href="#">Zakupy</a></li><li class="td-subcat-item"><a class="td-subcat-link" id="td_uid_23_5e1dc28133569" data-td_filter_value="9" data-td_block_id="td_uid_14_5e1dc2813287c" href="#">Zdrowie</a></li></ul><div class="td-subcat-dropdown"><div class="td-subcat-more" aria-haspopup="true"><span>Więcej</span><i class="td-icon-read-down"></i></div><ul class="td-pulldown-filter-list"></ul></div></div></div><div id=td_uid_14_5e1dc2813287c class="td_block_inner">
+
+	<div class="td-block-row">
+
+	<div class="td-block-span6">
+
+        <div class="td_module_4 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.piotrnatanek.pl/kiedy-zrobic-test-ciazowy-po-ilu-dniach-od-stosunku-test-bedzie-wiarygodny/" rel="bookmark" title="Kiedy zrobić test ciążowy – po ilu dniach od stosunku test będzie wiarygodny?"><img width="324" height="235" class="entry-thumb" src="http://www.piotrnatanek.pl/wp-content/uploads/2017/09/baby-2197097_1280-324x235.jpg" alt="Kiedy zrobić test ciążowy – po ilu dniach od stosunku test będzie wiarygodny?" title="Kiedy zrobić test ciążowy – po ilu dniach od stosunku test będzie wiarygodny?"/></a></div>                            </div>
+
+            <h3 class="entry-title td-module-title"><a href="http://www.piotrnatanek.pl/kiedy-zrobic-test-ciazowy-po-ilu-dniach-od-stosunku-test-bedzie-wiarygodny/" rel="bookmark" title="Kiedy zrobić test ciążowy – po ilu dniach od stosunku test będzie wiarygodny?">Kiedy zrobić test ciążowy – po ilu dniach od stosunku test...</a></h3>
+            <div class="td-module-meta-info">
+                <span class="td-post-author-name"><a href="http://www.piotrnatanek.pl/author/mmalik/">Redakcja Piotrnatanek</a> <span>-</span> </span>                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-08-05T11:00:37+00:00" >5 sierpnia 2017</time></span>                <div class="td-module-comments"><a href="http://www.piotrnatanek.pl/kiedy-zrobic-test-ciazowy-po-ilu-dniach-od-stosunku-test-bedzie-wiarygodny/#respond">0</a></div>            </div>
+
+            <div class="td-excerpt">
+                Dowiedz się jak prawidłowo wykonać test ciążowy
+Ekscytacja, niepewność, strach i pełne emocji oczekiwanie na wynik – kiedy robisz test ciążowy w Twojej głowie może...            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span6 -->
+
+	<div class="td-block-span6">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="http://www.piotrnatanek.pl/pielegnacja-skory-malego-alergika/" rel="bookmark" title="Pielęgnacja skóry małego alergika"><img width="100" height="70" class="entry-thumb" src="http://www.piotrnatanek.pl/wp-content/uploads/2017/09/baby-1972782_1280-100x70.jpg" srcset="http://www.piotrnatanek.pl/wp-content/uploads/2017/09/baby-1972782_1280-100x70.jpg 100w, http://www.piotrnatanek.pl/wp-content/uploads/2017/09/baby-1972782_1280-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" alt="Pielęgnacja skóry małego alergika" title="Pielęgnacja skóry małego alergika"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="http://www.piotrnatanek.pl/pielegnacja-skory-malego-alergika/" rel="bookmark" title="Pielęgnacja skóry małego alergika">Pielęgnacja skóry małego alergika</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-08-04T11:04:45+00:00" >4 sierpnia 2017</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="http://www.piotrnatanek.pl/czy-warto-przeszczepic-wlosy/" rel="bookmark" title="Czy warto przeszczepić włosy?"><img width="100" height="70" class="entry-thumb" src="http://www.piotrnatanek.pl/wp-content/uploads/2018/11/przeszczep-włosów-lekarz-od-włosów-trycholog-katowice-1-100x70.jpg" srcset="http://www.piotrnatanek.pl/wp-content/uploads/2018/11/przeszczep-włosów-lekarz-od-włosów-trycholog-katowice-1-100x70.jpg 100w, http://www.piotrnatanek.pl/wp-c

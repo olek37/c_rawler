@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
-Date: Tue, 14 Jan 2020 02:20:52 GMT
+Date: Tue, 14 Jan 2020 13:52:22 GMT
 Server: Apache/2.4.35 (Unix) OpenSSL/1.0.1u PHP/5.6.38
 X-Powered-By: PHP/5.6.38
 Transfer-Encoding: chunked
 Content-Type: text/html; charset=UTF-8
 
-2c45
+2c8d
 
 <?xml version="1.0" encoding="iso-8859-2"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
@@ -86,11 +86,11 @@ Content-Type: text/html; charset=UTF-8
 <p><center><h3><b><i>'' Dla nas po Bogu, najwi&#281;ksz&#261; mi&#322;o&#347;&#263; to Polska! Musimy po Bogu dochowa&#263;</br>
  wierno&#347;ci przede wszystkim naszej Ojczy&#378;nie i narodowej kulturze polskiej ,,</b></i></h4></center><center><font size=-1><i>Ks. kard. Stefan Wyszy&#324;ski</i></font></center><center><h1>tajnekomplety.com</h3></center><p><font size=+1><a href="http://www.tajnekomplety.com/articles/List/List.html" target="_blank" title="List otwarty ks. St. Ma&#322;kowski do Biskup&#243;w w sprawie intronizacji Jezusa Chrystusa jako Kr&#243;la Polski">List otwarty ks. St. Ma&#322;kowski do Biskup&#243;w w sprawie intronizacji Jezusa Chrystusa jako Kr&#243;la Polski</a>
    <br><font size=-1>ks. Stanis&#322;aw Ma&#322;kowski - 2015-10-07 <a href="http://www.tajnekomplety.com/articles/List/List.html" target="_blank" title="List otwarty ks. St. Ma&#322;kowski do Biskup&#243;w w sprawie intronizacji Jezusa Chrystusa jako Kr&#243;la Polski"> link</a>
-   </font><br> Mija 90-ta rocznica og&#322;oszenia encykliki Piusa XI "Quas primas" i ustanowienia &#347;wi&#281;ta Chrystusa Kr&#243;la obchodzonego w ostatni&#261; niedziel&#281; pa&#378;dziernika do reformy liturgicznej, kt&#243;ra wprowadzi&#322;a uroczysto&#347;&#263; Chrystusa Kr&#243;la Wszech&#347;wiata w ostatni&#261; niedziel&#281; roku liturgicznego. Znaczenie obu &#347;wi&#261;t nie jest to&#380;same. Pierwsze &#347;wi&#281;to kieruje wiernych bardziej ku doczesno&#347;ci, ku kr&#243lowaniu Chrystusa w wymiarze spo&#322;ecznym i narodowym, za&#347; drugie - ku wieczno&#347;ci i eschatologii. Chrystus kr&#243;luje z woli Boga Ojca w mocy Ducha &#346;wi&#281;tego w porz&#261;dku sprawiedliwo&#347;ci, czy kto&#347; chce czy nie chce. .. <font size=-1>(<a href="http://www.tajnekomplety.com/articles/List/List.html" target="_blank" title="List otwarty ks. St. Ma&#322;kowski do Biskup&#243;w w sprawie intronizacji Jezusa Chrystusa jako Kr&#243;la Polski">czytaj dalej</a>)</font></p><p><font size=+1><a href="http://www.tajnekomplety.com/articles/kamienie.html" target="_blank" title="Po&#347;wi&#281;&#263; Rosj&#281; Niepokalanemu Sercu Maryi">Po&#347;wi&#281;&#263; Rosj&#281; Niepokalanemu Sercu Maryi</a>
-   <br><font size=-1>ks. Stanis&#322;aw Ma&#322;kowski - 2014-02-01 <a href="http://www.tajnekomplety.com/articles/kamienie.html" target="_blank" title="Po&#347;wi&#281;&#263; Rosj&#281; Niepokalanemu Sercu Maryi"> link</a>
-   </font><br>Wiek temu (97 lat) mia&#322;y miejsce Wielkie Objawienia fatimskie. Wtedy po raz pierwszy Maryja za&#380;&#261;da&#322;a po&#347;wi&#281;cenia Rosji? ... <font size=-1>(<a href="http://www.tajnekomplety.com/articles/kamienie.html" target="_blank" title="Po&#347;wi&#281;&#263; Rosj&#281; Niepokalanemu Sercu Maryi">czytaj dalej</a>)</font></p><p><font size=+1><a href="http://www.tajnekomplety.com/articles/cywilizacja.html" target="_blank" title="Czy w UE powstaje nowa cywilizacja?">Czy w UE powstaje nowa cywilizacja?</a>
-   <br><font size=-1>prof. Miros&#322;aw Dakowski - 2013-12-31 <a href="http://www.tajnekomplety.com/articles/cywilizacja.html" target="_blank" title="Czy w UE powstaje nowa cywilizacja?"> link</a>
-   </font><br>W ostatnim p&#243;&#322;wieczu obserwujemy nie tylko gwa&#322;towne i radykalne zmiany w Europie i w &#347;wiecie, ale te&#380; ich gwa&#322;towne i sterowane przyspieszenie. Jest to znacz&#261;ca cz&#281;&#347;&#263; post&#281;puj&#261;cej realizacji ideologii globalizmu... <font size=-1>(<a href="http://www.tajnekomplety.com/articles/cywilizacja.html" target="_blank" title="Czy w UE powstaje nowa cywilizacja?">czytaj dalej</a>)</font></p>   </font>
+   </font><br> Mija 90-ta rocznica og&#322;oszenia encykliki Piusa XI "Quas primas" i ustanowienia &#347;wi&#281;ta Chrystusa Kr&#243;la obchodzonego w ostatni&#261; niedziel&#281; pa&#378;dziernika do reformy liturgicznej, kt&#243;ra wprowadzi&#322;a uroczysto&#347;&#263; Chrystusa Kr&#243;la Wszech&#347;wiata w ostatni&#261; niedziel&#281; roku liturgicznego. Znaczenie obu &#347;wi&#261;t nie jest to&#380;same. Pierwsze &#347;wi&#281;to kieruje wiernych bardziej ku doczesno&#347;ci, ku kr&#243lowaniu Chrystusa w wymiarze spo&#322;ecznym i narodowym, za&#347; drugie - ku wieczno&#347;ci i eschatologii. Chrystus kr&#243;luje z woli Boga Ojca w mocy Ducha &#346;wi&#281;tego w porz&#261;dku sprawiedliwo&#347;ci, czy kto&#347; chce czy nie chce. .. <font size=-1>(<a href="http://www.tajnekomplety.com/articles/List/List.html" target="_blank" title="List otwarty ks. St. Ma&#322;kowski do Biskup&#243;w w sprawie intronizacji Jezusa Chrystusa jako Kr&#243;la Polski">czytaj dalej</a>)</font></p><p><font size=+1><a href="http://www.tajnekomplety.com/articles/Pasterzu.html" target="_blank" title="Bo&#380;e Pasterzu prowad&#378;">Bo&#380;e Pasterzu prowad&#378;</a>
+   <br><font size=-1>ks. Stanis&#322;aw Ma&#322;kowski - 2015-04-24 <a href="http://www.tajnekomplety.com/articles/Pasterzu.html" target="_blank" title="Bo&#380;e Pasterzu prowad&#378;"> link</a>
+   </font><br>Z okazji imienin b&#322;. ks. Jerzego Popie&#322;uszki 23 kwietnia, trzeba przypomnie&#263;, czego on nam &#380;yczy, co powiedzia&#322;: "Niech nie zabraknie nam odwagi do przyznawania si&#281; do Chrystusa publicznie" (26.02.1984). A przyzna&#263; si&#281; do Chrystusa to podda&#263; si&#281; Jego spo&#322;ecznemu i narodowemu panowaniu, co mo&#380;e i powinno si&#281; dokona&#263; przez intronizacj? Jezusa na Kr&#243;la Polski. .. <font size=-1>(<a href="http://www.tajnekomplety.com/articles/Pasterzu.html" target="_blank" title="Bo&#380;e Pasterzu prowad&#378;">czytaj dalej</a>)</font></p><p><font size=+1><a href="http://www.tajnekomplety.com/articles/DuchSw.html" target="_blank" title="Duch &#346;wi&#281;ty nie pozwala mi podpisa&#263; lojalki.">Duch &#346;wi&#281;ty nie pozwala mi podpisa&#263; lojalki.</a>
+   <br><font size=-1>ks. Stanis&#322;aw Ma&#322;kowski - 2013-12-13 <a href="http://dakowski.pl//index.php?option=com_content&task=view&id=11246&Itemid=46" target="_blank" title="Duch &#346;wi&#281;ty nie pozwala mi podpisa&#263; lojalki."> link</a>
+   </font><br>Duch &#346;wi&#281;ty nie pozwala mi podpisa&#263; lojalki... <font size=-1>(<a href="http://www.tajnekomplety.com/articles/DuchSw.html" target="_blank" title="Duch &#346;wi&#281;ty nie pozwala mi podpisa&#263; lojalki.">czytaj dalej</a>)</font></p>   </font>
   </td>
   <td width="2%" bgcolor="#F8F8F8"></td><td width="25%" bgcolor="#D8D8D8" valign="top">
    <font face="Times New Roman">
@@ -99,12 +99,12 @@ Content-Type: text/html; charset=UTF-8
 <p><a href="http://youtube.com/watch?v=7uygxSPVdjM" target="_blank" title="Kazanie partiotyczne">
          <img src="http:////i.ytimg.com/vi/7uygxSPVdjM/hqdefault.jpg" width=234  height=132 border=0 alt="Kazanie partiotyczne"></a>
          <br><font size=-1>ks. J&#243;zef Ni&#378;nik - Kazanie partiotyczne</font></p>
-664
-<p><a href="http://youtube.com/watch?v=DfmqxvTVW34&amp;feature=plcp" target="_blank" title="Odpust zupe&#322;ny">
-         <img src="http://i1.ytimg.com/vi/DfmqxvTVW34/mqdefault.jpg" width=234  height=132 border=0 alt="Odpust zupe&#322;ny"></a>
-         <br><font size=-1>ks. Miros&#322;aw Mikulski - Odpust zupe&#322;ny</font></p><p><a href="http://youtube.com/watch?v=_xhYhf5TCKU" target="_blank" title="Kiedy bedzie zmiana cz.2g">
+66f
+<p><a href="http://youtube.com/watch?v=_xhYhf5TCKU" target="_blank" title="Kiedy bedzie zmiana cz.2g">
          <img src="http:////i4.ytimg.com/vi/_xhYhf5TCKU/mqdefault.jpg" width=234  height=132 border=0 alt="Kiedy bedzie zmiana cz.2g"></a>
-         <br><font size=-1>Rafa? Ziemkiewicz  - Kiedy bedzie zmiana cz.2g</font></p>   </center>
+         <br><font size=-1>Rafa? Ziemkiewicz  - Kiedy bedzie zmiana cz.2g</font></p><p><a href="http://yutube.com/watch?v=0Yb0Zz4Hg4M" target="_blank" title="Zbrodnia oko?o Smole&#324;ska">
+         <img src="http:////i1.ytimg.com/vi/0Yb0Zz4Hg4M/mqdefault.jpg" width=234  height=132 border=0 alt="Zbrodnia oko?o Smole&#324;ska"></a>
+         <br><font size=-1>prof. Miros?aw Dakowski - Zbrodnia oko?o Smole&#324;ska</font></p>   </center>
    </font>
   </td>
  </tr>

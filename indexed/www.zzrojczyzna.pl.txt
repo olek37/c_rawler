@@ -1,5 +1,5 @@
 HTTP/1.1 200 OK
-Date: Tue, 14 Jan 2020 01:59:12 GMT
+Date: Tue, 14 Jan 2020 13:30:41 GMT
 Server: Apache/2
 Last-Modified: Mon, 19 Nov 2018 10:04:14 GMT
 ETag: "4b5c2-57b01a3a6796a"
@@ -1421,4 +1421,19 @@ na mapie sprzed 1939 r. mapka</font></p>
 Hitlera</font></a></font></p>
 <p style="margin-bottom: 0cm; margin-top: 0px;" align="left"><font face="Tahoma" size="2">-
 <a href="http://www.youtube.com/watch?v=0ABmHEMbl44"><font color="#0066cc">Dzieci Hitlera i Gebelsa</font></a></font></p>
-<p style="margin-bottom: 0cm; margin-top: 0px;" a
+<p style="margin-bottom: 0cm; margin-top: 0px;" align="left"><font face="Tahoma" size="2">-
+<a href="http://www.youtube.com/watch?v=xuRhUbV9JFQ"><font color="#0066cc">Koszalin - wojna</font></a></font></p>
+<p style="margin-bottom: 0cm; margin-top: 0px;" align="left"><font face="Tahoma" size="2">-
+<a href="http://www.youtube.com/watch?v=R8a713Vs_xU"><font color="#0066cc">Zdjęcia z albumów Nazistów</font></a></font></p>
+<p style="margin-bottom: 0cm; margin-top: 0px;" align="left"><font face="Tahoma" size="2">-
+<a href="http://www.youtube.com/watch?v=DpejrE6evLU"><font color="#0066cc">Norymbergia ostatnie zeznanie Goeringa</font></a></font></p>
+<p style="margin-bottom: 0cm; margin-top: 0px;" align="left"><font face="Tahoma" size="2"><br>
+<b>9. Afery bezprawia w sądach prokuraturach,
+policji, administracji, komorników, adwokatów III RP, lekarzy biegłych
+sądowych.</b></font></p>
+<p style="margin-bottom: 0cm; margin-top: 0px;" align="left" dir="ltr"><font face="Tahoma" size="2">- Polecamy czarna listę skorumpowanych sędziów i
+prokuratorów, policjantów, adwokatów, komorników oraz urzędników
+państwowych w III RP. </font></p>
+<p style="margin-bottom: 0cm; margin-top: 0px;" align="left" dir="ltr"><font face="Tahoma" size="2">- <a href="http://www.youtube.com/watch?v=kpH34YFs3ps"><font color="#0066cc">Kaci mordercy sędziowie</font></a></font></p>
+<p>&nbsp;</p>
+<center><a href="http://www.aferyprawa.eu/Black"><font color="#0066cc"><img src="afery.jpg" border="0" height="84" wid

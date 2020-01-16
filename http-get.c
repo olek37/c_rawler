@@ -15,7 +15,7 @@
 #define MAX_DEPTH 10
 #define MAX_BREADTH 20
 
-char links[10000];
+char links[20000];
 
 bool isEndOfHtml(char* buffer, int size) {
     char* tag = "</html>";
@@ -44,7 +44,7 @@ char* getFilenameFromHostname(char* hostname) {
 char* getLinksFilenameFromHostname(char* hostname) {
     char* filename = (char*)malloc(sizeof(char) * MAX_HOSTNAME_LEN);
     char* dir = "indexed/";
-    char* ext = "-links.txt";
+    char* ext = ".links";
     strcat(filename, dir);
     strcat(filename, hostname);
     strcat(filename, ext);

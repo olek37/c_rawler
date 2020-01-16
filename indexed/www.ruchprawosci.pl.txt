@@ -1,17 +1,17 @@
 HTTP/1.1 200 OK
-Date: Tue, 14 Jan 2020 01:59:13 GMT
+Date: Tue, 14 Jan 2020 13:30:42 GMT
 Server: Apache/2
 P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
 Expires: Wed, 17 Aug 2005 00:00:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-Set-Cookie: e1fd705fa6f2df217c7715f38e3ab6fc=fv24tj6064u0fvhsceng7knkp0; path=/; HttpOnly
+Set-Cookie: e1fd705fa6f2df217c7715f38e3ab6fc=vgef9pb96dhj250vso7ss2kjh1; path=/; HttpOnly
 Set-Cookie: info_test=1
 Set-Cookie: templateColor=red
 Set-Cookie: templateColor=red
 Upgrade: h2,h2c
 Connection: Upgrade
-Last-Modified: Tue, 14 Jan 2020 01:59:13 GMT
+Last-Modified: Tue, 14 Jan 2020 13:30:42 GMT
 Vary: Accept-Encoding,User-Agent
 X-FRAME-OPTIONS: SAMEORIGIN
 X-XSS-Protection: 1; mode=block
@@ -51,7 +51,7 @@ Content-Type: text/html; charset=utf-8
 		min-width: 85%;
 	}
 	</style>
-	<script type="application/json" class="joomla-script-options new">{"csrf.token":"03ddb36d6cea3b1a3915b474000fa730","system.paths":{"root":"","base":""}}</script>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"d33118d49d32a8f650800650b18e6c46","system.paths":{"root":"","base":""}}</script>
 	<script src="/media/jui/js/jquery.min.js?d2437a0620684093aa09654707f8d828" type="text/javascript"></script>
 	<script src="/media/jui/js/jquery-noconflict.js?d2437a0620684093aa09654707f8d828" type="text/javascript"></script>
 	<script src="/media/jui/js/jquery-migrate.min.js?d2437a0620684093aa09654707f8d828" type="text/javascript"></script>
@@ -343,7 +343,7 @@ ających się do lewicy. Ponieważ powinna ona zjednoczyć ludzi uczciwych i wra
 	#vvisit_counter218 .vstats_icon{margin-right:5px;}
 	#vvisit_counter218{padding:5px;}</style>
 <div id="vvisit_counter218" class="vvisit_counter vacenter">
-	<div class="vdigit_counter"><span class="vdigit-1" title="">1</span><span class="vdigit-7" title="">7</span><span class="vdigit-7" title="">7</span><span class="vdigit-5" title="">5</span><span class="vdigit-9" title="">9</span><span class="vdigit-5" title="">5</span></div>
+	<div class="vdigit_counter"><span class="vdigit-1" title="">1</span><span class="vdigit-7" title="">7</span><span class="vdigit-7" title="">7</span><span class="vdigit-6" title="">6</span><span class="vdigit-5" title="">5</span><span class="vdigit-6" title="">6</span></div>
 
 		</div>
 	</div>

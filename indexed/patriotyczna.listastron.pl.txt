@@ -1,7 +1,7 @@
 HTTP/1.1 200 OK
-Date: Tue, 14 Jan 2020 01:59:52 GMT
+Date: Tue, 14 Jan 2020 13:31:22 GMT
 Server: Apache
-Set-Cookie: wejsciowa=r45r3ltsm1o00cbfsk5tens7g7; path=/
+Set-Cookie: wejsciowa=p936eegsmhjl7en575hklack37; path=/
 Expires: Thu, 19 Nov 1981 08:52:00 GMT
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
@@ -40,7 +40,7 @@ a = new String(self.location); if (a.indexOf("?we") != -1){(top.location == self
 function wy(id)
 {
 	o = new Image();
-	o.src = "wyjscie.php?id=" + id + "&z=87";
+	o.src = "wyjscie.php?id=" + id + "&z=17";
 }
 --></script>
 
@@ -125,8 +125,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (23312)
  </td>
  <td >
- <div class="n">578</div>
- (121593)
+ <div class="n">588</div>
+ (121603)
  </td>
  
  
@@ -147,8 +147,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (16854)
  </td>
  <td >
- <div class="n">715</div>
- (114789)
+ <div class="n">731</div>
+ (114805)
  </td>
  
  
@@ -169,8 +169,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (16773)
  </td>
  <td >
- <div class="n">162</div>
- (36838)
+ <div class="n">164</div>
+ (36840)
  </td>
  
  
@@ -191,8 +191,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (12553)
  </td>
  <td >
- <div class="n">204</div>
- (43302)
+ <div class="n">206</div>
+ (43304)
  </td>
  
  
@@ -213,8 +213,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (11727)
  </td>
  <td >
- <div class="n">46</div>
- (29560)
+ <div class="n">47</div>
+ (29561)
  </td>
  
  
@@ -235,8 +235,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (11494)
  </td>
  <td >
- <div class="n">27</div>
- (39739)
+ <div class="n">29</div>
+ (39741)
  </td>
  
  
@@ -257,8 +257,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (10977)
  </td>
  <td >
- <div class="n">504</div>
- (68003)
+ <div class="n">518</div>
+ (68017)
  </td>
  
  
@@ -279,8 +279,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (10250)
  </td>
  <td >
- <div class="n">143</div>
- (71294)
+ <div class="n">148</div>
+ (71299)
  </td>
  
  
@@ -323,8 +323,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (6908)
  </td>
  <td >
- <div class="n">102</div>
- (58234)
+ <div class="n">105</div>
+ (58237)
  </td>
  
  
@@ -499,8 +499,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (3763)
  </td>
  <td >
- <div class="n">115</div>
- (40392)
+ <div class="n">118</div>
+ (40395)
  </td>
  
  
@@ -521,8 +521,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (3262)
  </td>
  <td >
- <div class="n">15</div>
- (10467)
+ <div class="n">16</div>
+ (10468)
  </td>
  
  
@@ -609,8 +609,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (3085)
  </td>
  <td >
- <div class="n">12</div>
- (7888)
+ <div class="n">13</div>
+ (7889)
  </td>
  
  
@@ -763,8 +763,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (1964)
  </td>
  <td >
- <div class="n">12</div>
- (8720)
+ <div class="n">13</div>
+ (8721)
  </td>
  
  
@@ -785,8 +785,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (1957)
  </td>
  <td >
- <div class="n">29</div>
- (29061)
+ <div class="n">31</div>
+ (29063)
  </td>
  
  
@@ -917,8 +917,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (1498)
  </td>
  <td >
- <div class="n">13</div>
- (6369)
+ <div class="n">14</div>
+ (6370)
  </td>
  
  
@@ -961,8 +961,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (1447)
  </td>
  <td >
- <div class="n">42</div>
- (13124)
+ <div class="n">43</div>
+ (13125)
  </td>
  
  
@@ -983,8 +983,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (1409)
  </td>
  <td >
- <div class="n">33</div>
- (6765)
+ <div class="n">34</div>
+ (6766)
  </td>
  
  
@@ -1005,8 +1005,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (1405)
  </td>
  <td >
- <div class="n">12</div>
- (8789)
+ <div class="n">13</div>
+ (8790)
  </td>
  
  
@@ -1027,8 +1027,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (1389)
  </td>
  <td >
- <div class="n">34</div>
- (18294)
+ <div class="n">35</div>
+ (18295)
  </td>
  
  
@@ -1093,8 +1093,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (1213)
  </td>
  <td >
- <div class="n">4</div>
- (3500)
+ <div class="n">5</div>
+ (3501)
  </td>
  
  
@@ -1137,8 +1137,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (974)
  </td>
  <td >
- <div class="n">15</div>
- (5733)
+ <div class="n">16</div>
+ (5734)
  </td>
  
  
@@ -1247,8 +1247,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (659)
  </td>
  <td >
- <div class="n">8</div>
- (4595)
+ <div class="n">9</div>
+ (4596)
  </td>
  
  
@@ -1379,8 +1379,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (473)
  </td>
  <td >
- <div class="n">14</div>
- (6657)
+ <div class="n">15</div>
+ (6658)
  </td>
  
  
@@ -1423,8 +1423,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (451)
  </td>
  <td >
- <div class="n">4</div>
- (1183)
+ <div class="n">5</div>
+ (1184)
  </td>
  
  
@@ -1445,8 +1445,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (439)
  </td>
  <td >
- <div class="n">2</div>
- (1842)
+ <div class="n">3</div>
+ (1843)
  </td>
  
  
@@ -1511,8 +1511,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (360)
  </td>
  <td >
- <div class="n">11</div>
- (3332)
+ <div class="n">12</div>
+ (3333)
  </td>
  
  
@@ -1643,8 +1643,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (279)
  </td>
  <td >
- <div class="n">2</div>
- (2526)
+ <div class="n">3</div>
+ (2527)
  </td>
  
  
@@ -1819,8 +1819,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (176)
  </td>
  <td >
- <div class="n">2</div>
- (851)
+ <div class="n">3</div>
+ (852)
  </td>
  
  
@@ -1841,8 +1841,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (174)
  </td>
  <td >
- <div class="n">8</div>
- (1618)
+ <div class="n">9</div>
+ (1619)
  </td>
  
  
@@ -1951,8 +1951,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (132)
  </td>
  <td >
- <div class="n">3</div>
- (1165)
+ <div class="n">4</div>
+ (1166)
  </td>
  
  
@@ -2017,8 +2017,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (112)
  </td>
  <td >
- <div class="n">1</div>
- (1146)
+ <div class="n">2</div>
+ (1147)
  </td>
  
  
@@ -2061,8 +2061,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (102)
  </td>
  <td >
- <div class="n">5</div>
- (1295)
+ <div class="n">6</div>
+ (1296)
  </td>
  
  
@@ -2281,8 +2281,8 @@ Toplista zrzeszaj±ca strony o nastawieniu patriotycznym - zarówno historycznym, 
  (68)
  </td>
  <td >
- <div class="n">3</div>
- (1849)
+ <div class="n">4</div>
+ (1850)
  </td>
  
  

@@ -1,9 +1,9 @@
 HTTP/1.1 200 OK
-Date: Tue, 14 Jan 2020 01:59:11 GMT
+Date: Tue, 14 Jan 2020 13:30:40 GMT
 Content-Type: text/html; charset=UTF-8
 Transfer-Encoding: chunked
 Connection: keep-alive
-Set-Cookie: __cfduid=d0c7adee02486d5de0f213b0e269be1e01578967150; expires=Thu, 13-Feb-20 01:59:10 GMT; path=/; domain=.dlapolski.pl; HttpOnly; SameSite=Lax
+Set-Cookie: __cfduid=db66988f473c41de7be3f7acbd5e999991579008639; expires=Thu, 13-Feb-20 13:30:39 GMT; path=/; domain=.dlapolski.pl; HttpOnly; SameSite=Lax
 Link: <https://www.dlapolski.pl/wp-json/>; rel="https://api.w.org/"
 X-Frame-Options: SAMEORIGIN
 X-Content-Type-Options: nosniff
@@ -11,9 +11,9 @@ X-XSS-Protection: 1; mode=block
 CF-Cache-Status: DYNAMIC
 Alt-Svc: h2=":443"; ma=60
 Server: cloudflare
-CF-RAY: 554c02556cc1c83f-AMS
+CF-RAY: 554ff73f1db572ed-AMS
 
-7daf
+32bc
 <!DOCTYPE html><html lang="pl-PL">
 <head>
 <meta charset="UTF-8">
@@ -23,7 +23,7 @@ CF-RAY: 554c02556cc1c83f-AMS
 <title>DlaPolski.PL | właściwa strona internetu | film | muzyka | memy</title>
 
 <meta name="description" content="DlaPolski.PL - codziennie ciekawe wideo" />
-<meta name="keywords" content="komentarz,rok,wojciech sumliński,izrael,pan nikt,podsumowanie,rosja,wojna,społeczeństwo,stanisław krajski,uklad,pytania,roszczenia,stanisław michalkiewicz,zydzi,piotr korczarowski,historia,klamstwa,putin,grzegorz braun,pieniądze,podatki,felieton,mieczysław ryba,wiara,chrzescijanie,jacek ożóg,raport,budzet,dobromir sośnierz,konfederacja,lewica,katecheza,spowiedz,film dokumentalny,gospodarka,komunizm,zapowiedz" />
+<meta name="keywords" content="kościół,ks. dr przemysław drąga,rodzina,apel,komentarz,stanisław michalkiewicz,tomasz grodzki,historia,ii wojna św,klamstwa,odpowiedź,putin,konfederacja,konrad berkowicz,polityka,rok,wojciech sumliński,izrael,pan nikt,podsumowanie,rosja,wojna,społeczeństwo,stanisław krajski,uklad,pytania,roszczenia,zydzi,piotr korczarowski,grzegorz braun,pieniądze,podatki,felieton,mieczysław ryba,wiara,chrzescijanie,jacek ożóg,raport" />
 <link rel="next" href="https://www.dlapolski.pl/page/2" />
 <link rel="canonical" href="https://www.dlapolski.pl/" />
 <meta property="og:type" content="website" />
@@ -218,7 +218,9 @@ img.emoji {
                     color : #fff!important;
                     }
                     
-                    .at-cat-color-wrap-8 .widget-title::before,
+                    .at-cat-
+5f37
+color-wrap-8 .widget-title::before,
                     body.category-8 .page-header .page-title::before
                     {
                      border-bottom: 7px solid #000000;
@@ -661,9 +663,7 @@ img.emoji {
                     }
 </style>
 <link rel='stylesheet' id='supermag-block-front-styles-css' href='http://www.dlapolski.pl/wp-content/themes/supermag/acmethemes/gutenberg/gutenberg-front.css?ver=1.0' type='text/css' media='all' />
-<link rel='stylesheet' id='duperma
-7ff0
-g-parent-style-css' href='http://www.dlapolski.pl/wp-content/themes/supermag/style.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dupermag-parent-style-css' href='http://www.dlapolski.pl/wp-content/themes/supermag/style.css?ver=5.3.2' type='text/css' media='all' />
 <link rel='stylesheet' id='dupermag-style-css' href='http://www.dlapolski.pl/wp-content/themes/dupermag/style.css?ver=5.3.2' type='text/css' media='all' />
 <style id='rocket-lazyload-inline-css' type='text/css'>
 .rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;background:#000;margin:5px}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(http://www.dlapolski.pl/wp-content/plugins/rocket-lazy-load/assets/img/play.png) no-repeat;cursor:pointer}
@@ -745,7 +745,9 @@ g-parent-style-css' href='http://www.dlapolski.pl/wp-content/themes/supermag/sty
                 js.id = id;
                 js.src = "//connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v2.0";
                 fjs.parentNode.insertBefore(js, fjs);
-            }(document, 'script', 'facebook-jssdk'));</script>
+            }(document
+132e
+, 'script', 'facebook-jssdk'));</script>
 <meta name="onesignal" content="wordpress-plugin" />
 <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script> <script>
 
@@ -817,7 +819,9 @@ oneSignal_options['notifyButton']['colors']['circle.background'] = '#cd0000';
       function documentInitOneSignal() {
         var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
 
-        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i+
+db4
++)
           oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
       }
 
@@ -904,7 +908,9 @@ display: none;
 </div>
 <nav id="site-navigation" class="main-navigation supermag-enable-sticky-menu clearfix" role="navigation">
 <div class="header-main-menu wrapper clearfix">
-<div class="acmethemes-nav"><ul id="menu-menu" class="menu"><li id="menu-item-49406" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-49406"><a href="https://www.dlapolski.pl" aria-current="page"><i class="_mi dashicons dashicons-admin-home" aria-hidden="true" style="font-size:1.8em;"></i><span class="visuallyhidden"><span>Start</span></span></a></li>
+<div class="acmethemes-nav"><ul id="menu-menu" class="menu"><li id="menu-item-49406" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-49406">
+18bf
+<a href="https://www.dlapolski.pl" aria-current="page"><i class="_mi dashicons dashicons-admin-home" aria-hidden="true" style="font-size:1.8em;"></i><span class="visuallyhidden"><span>Start</span></span></a></li>
 <li id="menu-item-69881" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69881"><a href="http://telewizjatrwam.dlapolski.pl/"><i class="_mi _before dashicons dashicons-desktop" aria-hidden="true" style="font-size:1.5em;"></i><span><span>TV Trwam</span></span></a></li>
 <li id="menu-item-69882" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69882"><a href="http://radiomaryja.dlapolski.pl/"><i class="_mi _before dashicons dashicons-controls-volumeon" aria-hidden="true" style="font-size:1.5em;"></i><span><span>Radio Maryja</span></span></a></li>
 <li id="menu-item-69883" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69883"><a href="http://telewizjarepublika.dlapolski.pl/"><i class="_mi _before dashicons dashicons-desktop" aria-hidden="true" style="font-size:1.5em;"></i><span><span>TV Republika</span></span></a></li>
@@ -946,6 +952,44 @@ display: none;
 <div class="slider-feature-wrap clearfix"> <div class="slider-section">
 <ul class="home-bxslider">
 <li>
+<a href="https://www.dlapolski.pl/jaka-jest-kondycja-polskich-rodzin">
+<img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/jaka-jest-kondycja-polskich-rodzin-jR9E_2JGh50-649x365.jpg" />
+</a>
+<div class="slider-desc">
+<div class="above-slider-details">
+<a href="https://www.dlapolski.pl/2020/01/14">
+<i class="fa fa-calendar"></i>
+14 stycznia 2020 </a>
+<a href="https://www.dlapolski.pl/jaka-jest-kondycja-polskich-rodzin#respond"><i class="fa fa-comment"></i> 0</a> </div>
+<div class="slider-details">
+<a href="https://www.dlapolski.pl/jaka-jest-kondycja-polskich-rodzin">
+<div class="slide-title">
+<span>Jaka jest kondycja polskich rodzin?</span> </div>
+<div class="slide-caption">Kondycja polskich rodzin jest bardzo zróżnicowana, a pewne negatywne tendencje wyraźniej widać...</div> </a>
+</div>
+</div>
+</li>
+<li>
+
+1dd9
+<a href="https://www.dlapolski.pl/jesli-nie-przeciwstawimy-sie-totalniakom-wezma-nas-za-morde">
+<img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-je-li-nie-przeciwstawimy-si-totalniakom-wezm-nas-za-mord-8221-e1QPJI9x_AA-649x365.jpg" />
+</a>
+<div class="slider-desc">
+<div class="above-slider-details">
+<a href="https://www.dlapolski.pl/2020/01/14">
+<i class="fa fa-calendar"></i>
+14 stycznia 2020 </a>
+<a href="https://www.dlapolski.pl/jesli-nie-przeciwstawimy-sie-totalniakom-wezma-nas-za-morde#comments"><i class="fa fa-comment"></i> 2</a> </div>
+<div class="slider-details">
+<a href="https://www.dlapolski.pl/jesli-nie-przeciwstawimy-sie-totalniakom-wezma-nas-za-morde">
+<div class="slide-title">
+<span>&#8222;Jeśli nie przeciwstawimy się totalniakom, wezmą nas za mordę!&#8221;</span> </div>
+<div class="slide-caption">Apel Stanisława Michalkiewicza!</div> </a>
+</div>
+</div>
+</li>
+<li>
 <a href="https://www.dlapolski.pl/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy">
 <img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy-jY_MAWkdrDo-649x365.jpg" />
 </a>
@@ -973,10 +1017,10 @@ display: none;
 <i class="fa fa-calendar"></i>
 13 stycznia 2020 </a>
 <a href="https://www.dlapolski.pl/uklad-nie-chce-madrosci-i-doswiadczenia-ktore-maja-ludzi-starsi#comments"><i class="fa fa-comment"></i> 1</a> </div>
-<div class="slider-details">
+ <div class="slider-details">
 <a href="https://www.dlapolski.pl/uklad-nie-chce-madrosci-i-doswiadczenia-ktore-maja-ludzi-starsi">
 <div class="slide-title">
-<span>Układ nie chce mądrości i doświadczenia, które mają ludzi starsi</span> </div>
+<span>Układ nie chce mądrości i doświadczenia, które mają ludzie starsi</span> </div>
 <div class="slide-caption">Dr Stanisław Krajski opowiada o tym, że współczesny świat &#8211; realizując tajemnicze...</div> </a>
 </div>
 </div>
@@ -999,124 +1043,90 @@ display: none;
 </div>
 </div>
 </li>
-<li>
-<a href="https://www.dlapolski.pl/czas-apokalipsy">
-<img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-czas-apokalipsy-8221-RT99O8lY0UI-649x365.jpg" />
-</a>
-<div class="slider-desc">
-<div class="above-slider-details">
-<a href="https://www.dlapolski.pl/2020/01/13">
-<i class="fa fa-calendar"></i>
-13 stycznia 2020 </a>
-<a href="https://www.dlapolski.pl/czas-apokalipsy#respond"><i class="fa fa-comment"></i> 0</a> </div>
-<div class="slider-details">
-<a href="https://www.dlapolski.pl/czas-apokalipsy">
-<div class="slide-title">
-<span>&#8222;Czas apokalipsy&#8221;</span> </div>
-<div class="slide-caption">Płonie kontynent australijski, Bliski Wschód szykuje się do wojny. Tymczasem w Polsce...</div> </a>
-</div>
-</div>
-</li>
-<li>
-<a href="https://www.dlapolski.pl/brudne-klamstwa-putina">
-<img src="https://www.dlapolski.pl/wp-content/uploads/2019/10/wojciech-sumli-ski-ocenia-rz-dy-pis-0t7sxThpzSg-649x365.jpg" />
-</a>
-<div class="slider-desc">
-<div class="above-slider-details">
-<a href="https://www.dlapolski.pl/2020/01/13">
-<i class="fa fa-calendar"></i>
-13 stycznia 2020 </a>
-<a href="https://www.dlapolski.pl/brudne-klamstwa-putina#comments"><i class="fa fa-comment"></i> 1</a> </div>
-<div class="slider-details">
-<a href="https://www.dlapolski.pl/brudne-klamstwa-putina">
-<div class="slide-title">
-<span>Brudne kłamstwa Putina</span> </div>
-<div class="slide-caption">Nigdy się nie poddawaj &#8211; Wojciech Sumliński</div> </a>
-</div>
-</div>
-</li>
 </ul>
 </div>
 <div class="besides-slider"><div class="besides-slider-left"> <div class="beside-post clearfix">
-<a href="https://www.dlapolski.pl/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy">
+<a href="https://www.dlapolski.pl/jaka-jest-kondycja-polskich-rodzin">
 <figure class="beside-thumb clearfix">
-<img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy-jY_MAWkdrDo-240x172.jpg" alt="Trudny rok za nami, kolejny&#8230; jeszcze trudniejszy" title="Trudny rok za nami, kolejny&#8230; jeszcze trudniejszy" />
+<img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/jaka-jest-kondycja-polskich-rodzin-jR9E_2JGh50-240x172.jpg" alt="Jaka jest kondycja polskich rodzin?" title="Jaka jest kondycja polskich rodzin?" />
 <div class="overlay"></div>
 </figure>
 </a>
 <div class="beside-caption clearfix">
 <h3 class="post-title">
-<a href="https://www.dlapolski.pl/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy">
-Trudny rok za nami, kolejny&#8230; jeszcze... </a>
+<a href="https://www.dlapolski.pl/jaka-jest-kondycja-polskich-rodzin">
+Jaka jest kondycja polskich rodzin? </a>
 </h3>
 <div class="post-date">
 <a href="https://www.dlapolski.pl/2020/01/14">
 <i class="fa fa-calendar"></i>
 14 stycznia 2020 </a>
-<a href="https://www.dlapolski.pl/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy#respond"><i class="fa fa-comment"></i> 0</a> </div>
-</div>
-</div>
- <div class="beside-post clearfix">
-<a href="https://www.dlapolski.pl/pokojowy-przeglad-tygodnia-i-nie-tylko">
-<figure class="beside-thumb clearfix">
-<img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/pokojowy-przegl-d-tygodnia-8230-i-nie-tylko-RkxZdm18uaA-240x172.jpg" alt="Pokojowy przegląd tygodnia&#8230; i nie tylko" title="Pokojowy przegląd tygodnia&#8230; i nie tylko" />
-<div class="overlay"></div>
-</figure>
-</a>
-<div class="beside-caption clearfix">
-<h3 class="post-title">
-<a href="https://www.dlapolski.pl/pokojowy-przeglad-tygodnia-i-nie-tylko">
-Pokojowy przegląd tygodnia&#8230; i nie tylko </a>
-</h3>
-<div class="post-date">
-<a href="https://www.dlapolski.pl/2020/01/14">
-<i class="fa fa-calendar"></i>
-14 stycznia 2020 </a>
-<a href="https://www.dlapolski.pl/pokojowy-przeglad-tygodnia-i-nie-tylko#respond"><i class="fa fa-comment"></i> 0</a> </div>
-</div>
-</div>
-</div><div class="besides-slider-right"> <div class="beside-post clearfix">
-<a href="https://www.dlapolski.pl/uklad-nie-chce-madrosci-i-doswiadczenia-ktore-maja-ludzi-starsi">
-<figure class="beside-thumb clearfix">
-<img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/uk-ad-nie-chce-m-dro-ci-i-do-wiadczenia-kt-re-maj-ludzi-starsi-A_DZ0AaHlhM-240x172.jpg" alt="Układ nie chce mądrości i doświadczenia, które mają ludzi starsi" title="Układ nie chce mądrości i doświadczenia, które mają ludzi starsi" />
-<div class="overlay"></div>
-</figure>
-</a>
-<div class="beside-caption clearfix">
-<h3 class="post-title">
-<a href="https://www.dlapolski.pl/uklad-nie-chce-madrosci-i-doswiadczenia-ktore-maja-ludzi-starsi">
-Układ nie chce mądrości i doświadczenia,... </a>
-</h3>
-<div class="post-date">
-<a href="https://www.dlapolski.pl/2020/01/13">
-<i class="fa fa-calendar"></i>
-13 stycznia 2020 </a>
-<a href="https://www.dlapolski.pl/uklad-nie-chce-madrosci-i-doswiadczenia-ktore-maja-ludzi-starsi#comments"><i class="fa fa-comment"></i> 1</a> </div>
+<a href="https://www.dlapolski.pl/jaka-jest-kondycja-polskich-rodzin#respond"><i class="fa fa-comment"></i> 0</a> </div>
 </div>
 </div>
 <div class="beside-post clearfix">
-<a href="https://www.dlapolski.pl/polscy-zydzi-sa-rozsadni">
+<a href="https://www.dlapolski.pl/jesli-nie-przeciwstawimy-sie-totalniakom-wezma-nas-za-morde">
 <figure class="beside-thumb clearfix">
-<img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/polscy-ydzi-s-rozs-dni-KlDlGXxgfLs-240x172.jpg" alt="Polscy Żydzi są rozsądni!" title="Polscy Żydzi są rozsądni!" />
+<img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-je-li-nie-przeciwstawimy-si-totalniakom-wezm-nas-za-mord-8221-e1QPJI9x_AA-240x172.jpg" alt="&#8222;Jeśli nie przeciwstawimy się totalniakom, wezmą nas za mordę!&#8221;" title="&#8222;Jeśli nie przeciwstawimy się totalniakom, wezmą nas za mordę!&#8221;" />
 <div class="overlay"></div>
 </figure>
 </a>
 <div class="beside-caption clearfix">
 <h3 class="post-title">
-<a href="https://www.dlapolski.pl/polscy-zydzi-sa-rozsadni">
-Polscy Żydzi są rozsądni! </a>
+<a href="https://www.dlapolski.pl/jesli-nie-przeciwstawimy-sie-totalniakom-wezma-nas-za-morde">
+&#8222;Jeśli nie przeciwstawimy się totalniakom, wezmą... </a>
 </h3>
 <div class="post-date">
-<a href="https://www.dlapolski.pl/2020/01/13">
+<a href="https://www.dlapolski.pl/2020/01/14">
 <i class="fa fa-calendar"></i>
-13 stycznia 2020 </a>
-<a href="https://www.dlapolski.pl/polscy-zydzi-sa-rozsadni#comments"><i class="fa fa-comment"></i> 1</a> </div>
+14 stycznia 2020 </a>
+<a href="https://www.dlapolski.pl/jesli-nie-przeciwstawimy-sie-totalniakom-wezma-nas-za-morde#comments"><i class="fa fa-comment"></i> 2</a> </div>
+</div>
+</div>
+</div><div class="besides-slider-right"> <div class="beside-post clearfix">
+<a href="https://www.dlapolski.pl/odpowiedz-na-klamstwa-putina">
+<figure class="beside-thumb clearfix">
+<img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/odpowied-na-k-amstwa-putina-3BJkEjqtuPQ-240x172.jpg" alt="Odpowiedź na kłamstwa Putina" title="Odpowiedź na kłamstwa Putina" />
+<div class="overlay"></div>
+</figure>
+</a>
+<div class="beside-caption clearfix">
+<h3 class="post-title">
+<a href="https://www.dlapolski.pl/odpowiedz-na-klamstwa-putina">
+Odpowiedź na kłamstwa Putina </a>
+</h3>
+<div class="post-date">
+<a href="https://www.dlapolski.pl/2020/01/14">
+<i class="fa fa-calendar"></i>
+14 stycznia 2020 </a>
+<a href="https://www.dlapolski.pl/odpowiedz-na-klamstwa-putina#respond"><i class="fa fa-comment"></i> 0</a> </div>
+</div>
+</div>
+<div class="beside-post clearfix">
+<a href="https://www.dlapolski.pl/w-koncu-sie-udalo-i-moje-zycie-stracilo-sens">
+<figure class="beside-thumb clearfix">
+<img src="https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-w-ko-cu-si-uda-o-i-8230-moje-ycie-straci-o-sens-8221-X7dajd6J3xI-240x172.jpg" alt="&#8222;W końcu się udało i&#8230; moje życie straciło sens!&#8221;" title="&#8222;W końcu się udało i&#8230; moje życie straciło sens!&#8221;" />
+<div class="overlay"></div>
+</figure>
+</a>
+<div class="beside-caption clearfix">
+<h3 class="post-title">
+<a href="https://www.dlapolski.pl/w-koncu-sie-udalo-i-moje-zycie-stracilo-sens">
+&#8222;W końcu się udało i&#8230; moje...  </a>
+</h3>
+<div class="post-date">
+<a href="https://www.dlapolski.pl/2020/01/14">
+<i class="fa fa-calendar"></i>
+14 stycznia 2020 </a>
+<a href="https://www.dlapolski.pl/w-koncu-sie-udalo-i-moje-zycie-stracilo-sens#respond"><i class="fa fa-comment"></i> 0</a> </div>
 </div>
 </div>
 </div></div></div> <div id="home-content" class="site-content">
 <div id="primary" class="content-area">
 <main id="main" class="site-main" role="main">
 <aside id="custom_html-9" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+1a23
 
 <ins class="adsbygoogle" style="display:inline-block;width:100%;height:450px" data-full-width-responsive="true" data-ad-client="ca-pub-6953811560252598" data-ad-slot="5808416023"></ins>
 <script>
@@ -1131,8 +1141,54 @@ Polscy Żydzi są rozsądni! </a>
 </aside><aside id="supermag_posts_col-19" class="widget widget_supermag_posts_col"><div class='at-cat-color-wrap-71'><h2 class="widget-title"><span>Opinie i komentarze</span></h2></div> <ul class="sm-col-post-type-2 featured-entries-col featured-entries  featured-col-posts supermag-home">
 <li class="acme-col-3 featured-post-main">
 <figure class="widget-image">
+<a href="https://www.dlapolski.pl/jaka-jest-kondycja-polskich-rodzin">
+<img width="500" height="280" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/jaka-jest-kondycja-polskich-rodzin-jR9E_2JGh50-500x280.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://www.dlapolski.pl/wp-content/uploads/2020/01/jaka-jest-kondycja-polskich-rodzin-jR9E_2JGh50-500x280.jpg 500w, https://www.dlapolski.pl/wp-content/uploads/2020/01/jaka-jest-kondycja-polskich-rodzin-jR9E_2JGh50-649x365.jpg 649w, https://www.dlapolski.pl/wp-content/uploads/2020/01/jaka-jest-kondycja-polskich-rodzin-jR9E_2JGh50.jpg 1280w" sizes="(max-width: 500px) 100vw, 500px" /> </a>
+</figure>
+<div class="featured-desc">
+<a href="https://www.dlapolski.pl/jaka-jest-kondycja-polskich-rodzin">
+<h4 class="title">
+<span>Jaka jest kondycja polskich rodzin?</span> </h4>
+</a>
+<div class="above-entry-meta">
+<span>
+<a href="https://www.dlapolski.pl/2020/01/14">
+<i class="fa fa-calendar"></i>
+14 stycznia 2020 </a>
+</span>
+<span>
+<a href="https://www.dlapolski.pl/jaka-jest-kondycja-polskich-rodzin#respond"><i class="fa fa-comment"></i>0</a> </span>
+</div>
+<div class="details">Kondycja polskich rodzin jest bardzo zróżnicowana, a pewne negatywne tendencje wyraźniej widać w północnych i zachodnich regionach kraju.</div>  <div class="below-entry-meta">
+<span class="cat-links"><a class="at-cat-item-71" href="https://www.dlapolski.pl/kategoria/komentarz" rel="category tag">Opinie i komentarze</a>&nbsp;</span> </div>
+</div>
+</li>
+<div class="sm-col-post-type-2-beside"><div class="clearfix visible-lg"></div><div class="clearfix visible-sm"></div> <li class="acme-col-3">
+<figure class="widget-image">
+<a href="https://www.dlapolski.pl/jesli-nie-przeciwstawimy-sie-totalniakom-wezma-nas-za-morde">
+<img width="240" height="172" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-je-li-nie-przeciwstawimy-si-totalniakom-wezm-nas-za-mord-8221-e1QPJI9x_AA-240x172.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /> </a>
+</figure>
+<div class="featured-desc">
+<a href="https://www.dlapolski.pl/jesli-nie-przeciwstawimy-sie-totalniakom-wezma-nas-za-morde">
+<h4 class="title">
+<span>&#8222;Jeśli nie przeciwstawimy się totalniakom, wezmą nas za mordę!&#8221;</span> </h4>
+</a>
+<div class="above-entry-meta">
+<span>
+<a href="https://www.dlapolski.pl/2020/01/14">
+<i class="fa fa-calendar"></i>
+14 stycznia 2020 </a>
+</span>
+<span>
+<a href="https://www.dlapolski.pl/jesli-nie-przeciwstawimy-sie-totalniakom-wezma-nas-za-morde#comments"><i class="fa fa-comment"></i>2</a> </span>
+</div>
+<div class="details">Apel Stanisława Michalkiewicza!</div> <div class="below-entry-meta">
+<span class="cat-links"><a class="at-cat-item-71" href="https://www.dlapolski.pl/kategoria/komentarz" rel="category tag">Opinie i komentarze</a>&nbsp;</span> </div>
+</div>
+</li>
+<li class="acme-col-3">
+<figure class="widget-image">
 <a href="https://www.dlapolski.pl/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy">
-<img width="500" height="280" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy-jY_MAWkdrDo-500x280.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://www.dlapolski.pl/wp-content/uploads/2020/01/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy-jY_MAWkdrDo-500x280.jpg 500w, https://www.dlapolski.pl/wp-content/uploads/2020/01/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy-jY_MAWkdrDo-649x365.jpg 649w, https://www.dlapolski.pl/wp-content/uploads/2020/01/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy-jY_MAWkdrDo.jpg 1280w" sizes="(max-width: 500px) 100vw, 500px" /> </a>
+<img width="240" height="172" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy-jY_MAWkdrDo-240x172.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /> </a>
 </figure>
 <div class="featured-desc">
 <a href="https://www.dlapolski.pl/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy">
@@ -1152,7 +1208,7 @@ Polscy Żydzi są rozsądni! </a>
 <span class="cat-links"><a class="at-cat-item-71" href="https://www.dlapolski.pl/kategoria/komentarz" rel="category tag">Opinie i komentarze</a>&nbsp;</span> </div>
 </div>
 </li>
-<div class="sm-col-post-type-2-beside"><div class="clearfix visible-lg"></div><div class="clearfix visible-sm"></div> <li class="acme-col-3">
+<div class="clearfix visible-sm"></div> <li class="acme-col-3">
 <figure class="widget-image">
 <a href="https://www.dlapolski.pl/uklad-nie-chce-madrosci-i-doswiadczenia-ktore-maja-ludzi-starsi">
 <img width="240" height="172" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/uk-ad-nie-chce-m-dro-ci-i-do-wiadczenia-kt-re-maj-ludzi-starsi-A_DZ0AaHlhM-240x172.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /> </a>
@@ -1160,12 +1216,14 @@ Polscy Żydzi są rozsądni! </a>
 <div class="featured-desc">
 <a href="https://www.dlapolski.pl/uklad-nie-chce-madrosci-i-doswiadczenia-ktore-maja-ludzi-starsi">
 <h4 class="title">
-<span>Układ nie chce mądrości i doświadczenia, które mają ludzi starsi</span> </h4>
+<span>Układ nie chce mądrości i doświadczenia, które mają ludzie starsi</span> </h4>
 </a>
 <div class="above-entry-meta">
 <span>
 <a href="https://www.dlapolski.pl/2020/01/13">
-<i class="fa fa-calendar"></i>
+
+7ff9
+ <i class="fa fa-calendar"></i>
 13 stycznia 2020 </a>
 </span>
 <span>
@@ -1175,58 +1233,8 @@ Polscy Żydzi są rozsądni! </a>
 <span class="cat-links"><a class="at-cat-item-71" href="https://www.dlapolski.pl/kategoria/komentarz" rel="category tag">Opinie i komentarze</a>&nbsp;</span> </div>
 </div>
 </li>
-<li class="acme-col-3">
- <figure class="widget-image">
-<a href="https://www.dlapolski.pl/polscy-zydzi-sa-rozsadni">
-<img width="240" height="172" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/polscy-ydzi-s-rozs-dni-KlDlGXxgfLs-240x172.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /> </a>
-</figure>
-<div class="featured-desc">
-<a href="https://www.dlapolski.pl/polscy-zydzi-sa-rozsadni">
-<h4 class="title">
-<span>Polscy Żydzi są rozsądni!</span> </h4>
-</a>
-<div class="above-entry-meta">
-<span>
-<a href="https://www.dlapolski.pl/2020/01/13">
-<i class="fa fa-calendar"></i>
-13 stycznia 2020 </a>
-</span>
-<span>
-<a href="https://www.dlapolski.pl/polscy-zydzi-sa-rozsadni#com
-70e
-ments"><i class="fa fa-comment"></i>1</a> </span>
-</div>
-<div class="details">Stanisław Michalkiewicz o stanowisku Forum Żydów Polskich w...</div> <div class="below-entry-meta">
-<span class="cat-links"><a class="at-cat-item-71" href="https://www.dlapolski.pl/kategoria/komentarz" rel="category tag">Opinie i komentarze</a>&nbsp;</span> </div>
-</div>
-</li>
-<div class="clearfix visible-sm"></div> <li class="acme-col-3">
-<figure class="widget-image">
-<a href="https://www.dlapolski.pl/czas-apokalipsy">
-<img width="240" height="172" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-czas-apokalipsy-8221-RT99O8lY0UI-240x172.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /> </a>
-</figure>
-<div class="featured-desc">
-<a href="https://www.dlapolski.pl/czas-apokalipsy">
-<h4 class="title">
-<span>&#8222;Czas apokalipsy&#8221;</span> </h4>
-</a>
-<div class="above-entry-meta">
-<span>
-<a href="https://www.dlapolski.pl/2020/01/13">
-<i class="fa fa-calendar"></i>
-13 stycznia 2020 </a>
-</span>
-<span>
-<a href="https://www.dlapolski.pl/czas-apokalipsy#respond"><i class="fa fa-comment"></i>0</a> </span>
-</div>
-<div class="details">Płonie kontynent australijski, Bliski Wschód szykuje się do...</div> <div class="below-entry-meta">
-<span class="cat-links"><a class="at-cat-item-71" href="https://www.dlapolski.pl/kategoria/komentarz" rel="category tag">Opinie i komentarze</a>&nbsp;</span>  </div>
-</div>
-</li>
 <div class="clearfix visible-lg"></div></div> </ul>
 </aside><div class='clearfix'></div><aside id="custom_html-7" class="widget_text widget widget_custom_html"><h2 class="widget-title"><span>Rekomendowane</span></h2><div class="textwidget custom-html-widget"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
-2441
 <ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-6953811560252598" data-ad-slot="8693878482"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
@@ -1391,9 +1399,7 @@ ments"><i class="fa fa-comment"></i>1</a> </span>
 <span>
 <a href="https://www.dlapolski.pl/rodzina-wyzwania-i-szanse-wspolczesnej-rodziny#respond"><i class="fa fa-comment"></i>0</a> </span>
 </div>
-<div class="details">Myśląc z Wyszyńskim &#8211; 
-1c4d
-debata</div> <div class="below-entry-meta">
+<div class="details">Myśląc z Wyszyńskim &#8211; debata</div> <div class="below-entry-meta">
 <span class="cat-links"><a class="at-cat-item-1344" href="https://www.dlapolski.pl/kategoria/spotkanie" rel="category tag">Spotkania</a>&nbsp;</span> </div>
 </div>
 </li>
@@ -1421,14 +1427,19 @@ debata</div> <div class="below-entry-meta">
 </div>
 </li>
 <div class="clearfix visible-lg"></div></div> </ul>
-</aside><div class='clearfix'></div><aside id="rss-2" class="widget widget_rss"><h2 class="widget-title"><span><a class="rsswidget" href="https://rozmowy.eu/feed/"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://www.dlapolski.pl/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget" href="https://rozmowy.eu/">rozmowy.eu i&#8230; nic więcej</a></span></h2><ul><li><a class='rsswidget' href='https://rozmowy.eu/skad-sie-wzial-ozjasz-goldberg'>Skąd się wziął Ozjasz Goldberg?</a><div class="rssSummary">Janusz Korwin-Mikke jak zwykle szokuje, zaskakuje, budzi kontrowersje, ale nikt nie może odmówić liderowi wolnościowców logiki myślenia Czy on sam czuje się spełnionym politykiem i legendą polskiego parlamentaryzmu?</div></li><li><a class='rsswidget' href='https://rozmowy.eu/kto-prowadzil-konta-politykow'>Kto prowadził konta polityków?</a><div class="rssSummary">Wyciekły dane</div></li><li><a class='rsswidget' href='https://rozmowy.eu/co-kilka-minut-na-swiecie-zabijany-jest-chrzescijanin'>Co kilka minut na świecie zabijany jest chrześcijanin</a><div class="rssSummary">Ks. dr Waldemar Cisło</div></li></ul></aside><div class='clearfix'></div> </main>
+</aside><div class='clearfix'></div><aside id="rss-2" class="widget widget_rss"><h2 class="widget-title"><span><a class="rsswidget" href="https://rozmowy.eu/feed/"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://www.dlapolski.pl/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget" href="https://rozmowy.eu/">rozmowy.eu i&#8230; nic więcej</a></span></h2><ul><li><a class='rsswidget' href='https://rozmowy.eu/obawiam-sie-narastania-konfliktu-amerykansko-chinskiego-i-nowej-zimnej-wojny'>Obawiam się narastania konfliktu amerykańsko-chińskiego i nowej Zimnej Wojny</a><div class="rssSummary">M.in. o narastającym konflikcie pomiędzy Iranem a USA oraz jak spięcia na linii Waszyngton-Teheran mogą wpłynąć na świat. A w Polsce również ciekawie, wszystko za sprawą Lewicy i jej kandydata na prezydenta i marszałka Senatu Tomasz Grodzkiego, który uwierzył, że jest trzecią najważniejszą osobą w państwie. Prof. Antoni Dudek i Łukasz Warzecha</div></li><li><a class='rsswidget' href='https://rozmowy.eu/skad-sie-wzial-ozjasz-goldberg'>Skąd się wziął Ozjasz Goldberg?</a><div class="rssSummary">Janusz Korwin-Mikke jak zwykle szokuje, zaskakuje, budzi kontrowersje, ale nikt nie może odmówić liderowi wolnościowców logiki myślenia Czy on sam czuje się spełnionym politykiem i legendą polskiego parlamentaryzmu?</div></li><li><a class='rsswidget' href='https://rozmowy.eu/kto-prowadzil-konta-politykow'>Kto prowadził konta polityków?</a><div class="rssSummary">Wyciekły dane</div></li></ul></aside><div class='clearfix'></div> </main>
 
 </div>
 <div id="secondary-right" class="widget-area sidebar secondary-sidebar float-right" role="complementary">
 <div id="sidebar-section-top" class="widget-area sidebar clearfix">
 <aside id="category-posts-4" class="widget cat-post-widget"><ul id="category-posts-4-internal" class="category-posts-internal">
-<li class='cat-post-item'><a class="cat-post-everything-is-link" href="https://www.dlapolski.pl/czas-apokalipsy" title=""><div><span class="cat-post-thumbnail cat-post-none"><span class="cat-post-crop"><img width="107" height="60" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-czas-apokalipsy-8221-RT99O8lY0UI-500x280.jpg" class="attachment-120x60 size-120x60 wp-post-image" alt="" srcset="https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-czas-apokalipsy-8221-RT99O8lY0UI-500x280.jpg 500w, https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-czas-apokalipsy-8221-RT99O8lY0UI-649x365.jpg 649w, https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-czas-apokalipsy-8221-RT99O8lY0UI-840x473.jpg 840w, https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-czas-apokalipsy-8221-RT99O8lY0UI.jpg 1280w" sizes="(max-width: 107px) 100vw, 107px" /></span></span> </div><div>
+<li class='cat-post-item'><a class="cat-post-everything-is-link" href="https://www.dlapolski.pl/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy" title=""><div><span class="cat-post-thumbnail cat-post-none"><span class="cat-post-crop"><img width="107" height="60" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy-jY_MAWkdrDo-500x280.jpg" class="attachment-120x60 size-120x60 wp-post-image" alt="" srcset="https://www.dlapolski.pl/wp-content/uploads/2020/01/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy-jY_MAWkdrDo-500x280.jpg 500w, https://www.dlapolski.pl/wp-content/uploads/2020/01/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy-jY_MAWkdrDo-649x365.jpg 649w, https://www.dlapolski.pl/wp-content/uploads/2020/01/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy-jY_MAWkdrDo-840x473.jpg 840w, https://www.dlapolski.pl/wp-content/uploads/2020/01/trudny-rok-za-nami-kolejny-jeszcze-trudniejszy-jY_MAWkdrDo.jpg 1280w" sizes="(max-width: 107px) 100vw, 107px" /></span></span> </div><div>
+<span class="cat-post-title"><span>Trudny rok za nami, kolejny&#8230; jeszcze trudniejszy</span></span></div></a></li><li class='cat-post-item'><a class="cat-post-everything-is-link" href="https://www.dlapolski.pl/pokojowy-przeglad-tygodnia-i-nie-tylko" title=""><div><span class="cat-post-thumbnail cat-post-none"><span class="cat-post-crop"><img width="107" height="60" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/pokojowy-przegl-d-tygodnia-8230-i-nie-tylko-RkxZdm18uaA-500x280.jpg" class="attachment-120x60 size-120x60 wp-post-image" alt="" srcset="https://www.dlapolski.pl/wp-content/uploads/2020/01/pokojowy-przegl-d-tygodnia-8230-i-nie-tylko-RkxZdm18uaA-500x280.jpg 500w, https://www.dlapolski.pl/wp-content/uploads/2020/01/pokojowy-przegl-d-tygodnia-8230-i-nie-tylko-RkxZdm18uaA-649x365.jpg 649w, https://www.dlapolski.pl/wp-content/uploads/2020/01/pokojowy-przegl-d-tygodnia-8230-i-nie-tylko-RkxZdm18uaA-840x473.jpg 840w, https://www.dlapolski.pl/wp-content/uploads/2020/01/pokojowy-przegl-d-tygodnia-8230-i-nie-tylko-RkxZdm18uaA.jpg 1280w" sizes="(max-width: 107px) 100vw, 107px" /></span></span> </div><div>
+<span class="cat-post-title"><span>Pokojowy przegląd tygodnia&#8230; i nie tylko</span></span></div></a></li><li class='cat-post-item'><a class="cat-post-everything-is-link" href="https://www.dlapolski.pl/uklad-nie-chce-madrosci-i-doswiadczenia-ktore-maja-ludzi-starsi" title=""><div><span class="cat-post-thumbnail cat-post-none"><span class="cat-post-crop"><img width="107" height="60" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/uk-ad-nie-chce-m-dro-ci-i-do-wiadczenia-kt-re-maj-ludzi-starsi-A_DZ0AaHlhM-500x280.jpg" class="attachment-120x60 size-120x60 wp-post-image" alt="" srcset="https://www.dlapolski.pl/wp-content/uploads/2020/01/uk-ad-nie-chce-m-dro-ci-i-do-wiadczenia-kt-re-maj-ludzi-starsi-A_DZ0AaHlhM-500x280.jpg 500w, https://www.dlapolski.pl/wp-content/uploads/2020/01/uk-ad-nie-chce-m-dro-ci-i-do-wiadczenia-kt-re-maj-ludzi-starsi-A_DZ0AaHlhM-649x365.jpg 649w, https://www.dlapolski.pl/wp-content/uploads/2020/01/uk-ad-nie-chce-m-dro-ci-i-do-wiadczenia-kt-re-maj-ludzi-starsi-A_DZ0AaHlhM-840x473.jpg 840w, https://www.dlapolski.pl/wp-content/uploads/2020/01/uk-ad-nie-chce-m-dro-ci-i-do-wiadczenia-kt-re-maj-ludzi-starsi-A_DZ0AaHlhM.jpg 1280w" sizes="(max-width: 107px) 100vw, 107px" /></span></span> </div><div>
+<span class="cat-post-title"><span>Układ nie chce mądrości i doświadczenia, które mają ludzie starsi</span></span></div></a></li><li class='cat-post-item'><a class="cat-post-everything-is-link" href="https://www.dlapolski.pl/polscy-zydzi-sa-rozsadni" title=""><div><span class="cat-post-thumbnail cat-post-none"><span class="cat-post-crop"><img width="107" height="60" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/polscy-ydzi-s-rozs-dni-KlDlGXxgfLs-500x280.jpg" class="attachment-120x60 size-120x60 wp-post-image" alt="" srcset="https://www.dlapolski.pl/wp-content/uploads/2020/01/polscy-ydzi-s-rozs-dni-KlDlGXxgfLs-500x280.jpg 500w, https://www.dlapolski.pl/wp-content/uploads/2020/01/polscy-ydzi-s-rozs-dni-KlDlGXxgfLs-649x365.jpg 649w, https://www.dlapolski.pl/wp-content/uploads/2020/01/polscy-ydzi-s-rozs-dni-KlDlGXxgfLs-840x473.jpg 840w, https://www.dlapolski.pl/wp-content/uploads/2020/01/polscy-ydzi-s-rozs-dni-KlDlGXxgfLs.jpg 1280w" sizes="(max-width: 107px) 100vw, 107px" /></span></span> </div><div>
+<span class="cat-post-title"><span>Polscy Żydzi są rozsądni!</span></span></div></a></li><li class='cat-post-item'><a class="cat-post-everything-is-link" href="https://www.dlapolski.pl/czas-apokalipsy" title=""><div><span class="cat-post-thumbnail cat-post-none"><span class="cat-post-crop"><img width="107" height="60" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-czas-apokalipsy-8221-RT99O8lY0UI-500x280.jpg" class="attachment-120x60 size-120x60 wp-post-image" alt="" srcset="https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-czas-apokalipsy-8221-RT99O8lY0UI-500x280.jpg 500w, https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-czas-apokalipsy-8221-RT99O8lY0UI-649x365.jpg 649w, https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-czas-apokalipsy-8221-RT99O8lY0UI-840x473.jpg 840w, https://www.dlapolski.pl/wp-content/uploads/2020/01/8222-czas-apokalipsy-8221-RT99O8lY0UI.jpg 1280w" sizes="(max-width: 107px) 100vw, 107px" /></span></span> </div><div>
 <span class="cat-post-title"><span>&#8222;Czas apokalipsy&#8221;</span></span></div></a></li><li class='cat-post-item'><a class="cat-post-everything-is-link" href="https://www.dlapolski.pl/brudne-klamstwa-putina" title=""><div><span class="cat-post-thumbnail cat-post-none"><span class="cat-post-crop"><img width="107" height="60" src="https://www.dlapolski.pl/wp-content/uploads/2019/10/wojciech-sumli-ski-ocenia-rz-dy-pis-0t7sxThpzSg-500x280.jpg" class="attachment-120x60 size-120x60 wp-post-image" alt="" srcset="https://www.dlapolski.pl/wp-content/uploads/2019/10/wojciech-sumli-ski-ocenia-rz-dy-pis-0t7sxThpzSg-500x280.jpg 500w, https://www.dlapolski.pl/wp-content/uploads/2019/10/wojciech-sumli-ski-ocenia-rz-dy-pis-0t7sxThpzSg-649x365.jpg 649w, https://www.dlapolski.pl/wp-content/uploads/2019/10/wojciech-sumli-ski-ocenia-rz-dy-pis-0t7sxThpzSg-840x473.jpg 840w, https://www.dlapolski.pl/wp-content/uploads/2019/10/wojciech-sumli-ski-ocenia-rz-dy-pis-0t7sxThpzSg.jpg 1280w" sizes="(max-width: 107px) 100vw, 107px" /></span></span> </div><div>
 <span class="cat-post-title"><span>Brudne kłamstwa Putina</span></span></div></a></li><li class='cat-post-item'><a class="cat-post-everything-is-link" href="https://www.dlapolski.pl/system-ukrytych-podatkow" title=""><div><span class="cat-post-thumbnail cat-post-none"><span class="cat-post-crop"><img width="107" height="60" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/system-ukrytych-podatk-w-YxXEbEtMFjQ-500x280.jpg" class="attachment-120x60 size-120x60 wp-post-image" alt="" srcset="https://www.dlapolski.pl/wp-content/uploads/2020/01/system-ukrytych-podatk-w-YxXEbEtMFjQ-500x280.jpg 500w, https://www.dlapolski.pl/wp-content/uploads/2020/01/system-ukrytych-podatk-w-YxXEbEtMFjQ-649x365.jpg 649w, https://www.dlapolski.pl/wp-content/uploads/2020/01/system-ukrytych-podatk-w-YxXEbEtMFjQ-840x473.jpg 840w, https://www.dlapolski.pl/wp-content/uploads/2020/01/system-ukrytych-podatk-w-YxXEbEtMFjQ.jpg 1280w" sizes="(max-width: 107px) 100vw, 107px" /></span></span> </div><div>
 <span class="cat-post-title"><span>System ukrytych podatków</span></span></div></a></li><li class='cat-post-item'><a class="cat-post-everything-is-link" href="https://www.dlapolski.pl/jaki-jest-nasz-stan-ducha" title=""><div><span class="cat-post-thumbnail cat-post-none"><span class="cat-post-crop"><img width="103" height="60" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/P0qFYQChL0-480x280.jpg" class="attachment-120x60 size-120x60 wp-post-image" alt="" /></span></span> </div><div>
-<span class="cat-post-title"><span>Jaki jest nasz stan ducha?</span></span></div></a></li><li class='cat-post-item'><a class="cat-post-everything-is-link" href="https://www.dlapolski.pl/przesladowanie-chrzescijan-zdominuje-rok-2020" title=""><div><span class="cat-post-thumbnail cat-post-none"><span class="cat-post-crop"><img width="103" height="60" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/prze-ladowanie-chrze-cijan-z
+<span class="cat-post-title"><span>Jaki jest nasz stan ducha?</span></span></div></a></li><li class='cat-post-item'><a class="cat-post-everything-is-link" href="https://www.dlapolski.pl/przesladowanie-chrzescijan-zdominuje-rok-2020" title=""><div><span class="cat-post-thumbnail cat-post-none"><span class="cat-post-crop"><img width="103" height="60" src="https://www.dlapolski.pl/wp-content/uploads/2020/01/prze-ladowanie-chrze-cijan-zdominuje-rok-2020-Cu0crtNH1TA-480x280.jpg" class="attachment-120x60 size-120x60 wp-post-image" alt="" /></span></span> </div><div>
+<span class="c
