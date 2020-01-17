@@ -10,11 +10,11 @@
 
 #define PORT 5556
 #define MAXMSG 1024
-#define MESSAGE "Jest ok"
 #define MAX_CMD_LEN 1024
 #define MAX_RESP_LEN 1024
 
 
+// create and bind socket
 int make_socket(uint16_t port)
 {
     int sock;
@@ -30,6 +30,7 @@ int make_socket(uint16_t port)
     return sock;
 }
 
+// write the response to client
 void write_to_client (int filedes, char * response)
 {
   printf("Found following results: \n%s\n\n", response);
@@ -40,6 +41,7 @@ void write_to_client (int filedes, char * response)
 FILE *popen(const char *command, const char *mode);
 int pclose(FILE *stream);
 
+// execute a bash command to find all files (websites) containing the given keyword
 char* get_results (char * buffer) 
 {
   FILE *cmd;
@@ -57,7 +59,8 @@ char* get_results (char * buffer)
   return response;
 }
 
-int read_from_client(int filedes)
+// read the request, get the results and send them as a response
+int respond_to_request(int filedes)
 {
   char buffer[MAXMSG];
   int nbytes;
@@ -73,6 +76,7 @@ int read_from_client(int filedes)
   }
 }
 
+// wait for, process and respond to requests
 int main(void)
 {
   int sock;
@@ -100,7 +104,7 @@ int main(void)
           FD_SET(new, &active_fd_set);
         }
         else {
-          if (read_from_client(i) < 0) {
+          if (respond_to_request(i) < 0) {
             close(i);
             FD_CLR(i, &active_fd_set);
           }
