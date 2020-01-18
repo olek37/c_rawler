@@ -8,7 +8,7 @@
 #include <netdb.h>
 #include <string.h>
 
-#define PORT 5556
+#define PORT 5555
 #define MAXMSG 1024
 #define MAX_CMD_LEN 1024
 #define MAX_RESP_LEN 1024
@@ -42,14 +42,15 @@ FILE *popen(const char *command, const char *mode);
 int pclose(FILE *stream);
 
 // execute a bash command to find all files (websites) containing the given keyword
-char* get_results (char * buffer) 
+char* get_results (char * request) 
 {
   FILE *cmd;
   char bash_command[MAX_CMD_LEN];
-  char bash_template[] = "cd indexed; grep %s -l *.txt ";
+  char bash_template[] = "cd indexed; grep %s -l *.txt | sed -e 's/\\.txt$//'";
   char bash_result[MAX_CMD_LEN];
   char * response = (char*)malloc(MAX_RESP_LEN * 100);
-  snprintf(bash_command, MAX_CMD_LEN, bash_template, buffer);
+  snprintf(bash_command, MAX_CMD_LEN, bash_template, request);
+  printf("%s\n", bash_command);
   cmd = popen(bash_command, "r");
   while (fgets(bash_result, sizeof(bash_result), cmd)) {
       strcat(response, bash_result);
@@ -66,11 +67,13 @@ int respond_to_request(int filedes)
   int nbytes;
   char * response;
   nbytes = read(filedes, buffer, MAXMSG);
+  char* request = (char*)malloc(sizeof(char) * nbytes);
+  strncpy(request, buffer, nbytes);
   if(nbytes == 0) {
     return -1;
   } else {
-    fprintf(stderr, "Client requested:\n%s\n\n", buffer);
-    response = get_results(buffer);
+    fprintf(stderr, "Client requested:\n%s\n\n", request);
+    response = get_results(request);
     write_to_client(filedes, response);
     return 0;
   }

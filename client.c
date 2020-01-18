@@ -7,7 +7,7 @@
 #include <netinet/in.h>
 #include <netdb.h>
 
-#define PORT            5556
+#define PORT            5551
 #define MESSAGE         "jest"
 #define SERVERHOST      "127.0.0.1"
 #define MAXMSG          1024

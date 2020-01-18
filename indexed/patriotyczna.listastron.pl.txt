@@ -1,0 +1,2321 @@
+HTTP/1.1 200 OK
+Date: Sat, 18 Jan 2020 01:02:51 GMT
+Server: Apache
+Set-Cookie: wejsciowa=guaheskmi2sutu7s6068haus47; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+ef83
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+<title>Strony Patriotyczne</title>
+<meta http-equiv="content-type" content="text/html;charset=ISO-8859-2"/>
+<meta name="description" content="Toplista zrzeszająca strony o nastawieniu patriotycznym - zarówno historycznym, jak i współczesnym"/>
+<meta name="keywords" content="Polska, patriotyzm, Bóg-Honor-Ojczyzna, bohaterowie, żołnierze wyklęci, AK, poezja patriotyczna"/>
+<style type="text/css"> <!--
+body{font-family:Georgia;color:#FF0000;font-size:14px;margin:0;padding:0 0 10px 0;background:#FFFFFF}
+a{color:#FF0000;font-size:13px;text-decoration:none}
+a:hover{text-decoration:underline}
+h1{font-family:Arial;font-size:32px}
+img{border:0}
+form{margin:10px}
+.toplista{border:2px solid #000000;border-collapse: collapse}
+.toplista td{text-align:center;color:#000000;font-size:16px; width:47px;padding:7px;border:2px solid #000000;background-color:#FFFFFF}
+.naglowek td{color:#FF0000;font-size: 24px;width:auto!important;background-color:#FFFFFF;padding:1px}
+.o{width:468px;overflow:hidden;text-align:center}
+.o a{font-weight:bold;display:block;text-align:center}
+.duzylink {font-size:16px;font-weight: bold}
+.s{display:inline!important}
+.n{font-size:22px!important;font-family:Tahoma}
+--></style>
+<script language="JavaScript" type="text/javascript"><!--
+a = new String(self.location); if (a.indexOf("?we") != -1){(top.location == self.location) || (top.location = self.location);}//--></script>
+<base target="_blank" />
+<script type="text/javascript"><!--
+function wy(id)
+{
+	o = new Image();
+	o.src = "wyjscie.php?id=" + id + "&z=81";
+}
+--></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46048563-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"Ta strona używa ciasteczek (cookies).","dismiss":"OK, rozumiem","learnMore":"Więcej informacji","link":"polityka.php","theme":"light-bottom"};
+</script>
+
+<script type="text/javascript" src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+<!-- End Cookie Consent plugin -->
+</head>
+<body><center><!-- '"toplista.pl"' --><!-- PPN -4 --><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+<!-- 336x280 na wszystkie -4 --> 
+<ins class="adsbygoogle" 
+     style="display:inline-block;width:336px;height:280px" 
+     data-ad-client="ca-pub-7770795961898905" 
+     data-ad-slot="4901882058"></ins> 
+<script> 
+(adsbygoogle = window.adsbygoogle || []).push({}); 
+</script><script type="text/javascript"><!--
+var a;
+if (a == 1)
+{
+var d=document;
+d.writeln('<script src="/adcount.php?a=74899&b=1"><\/script>');
+
+}
+//-->
+</script></center><br /><center>
+<h1>Strony Patriotyczne</h1>
+<img src="http://hej-kto-polak.pl/baner-toplista.jpg"><!--BANER--><img/> <br/><br/>
+Toplista zrzeszająca strony o nastawieniu patriotycznym - zarówno historycznym, jak i współczesnym<br/><br/>
+<a href="regulamin.php" target="_self">Regulamin</a> &#8226;
+<a href="dodaj.php" target="_self">Dodaj stronę!</a> &#8226;
+<a href="edytuj.php" target="_self">Edytuj stronę</a> &#8226;
+<a href="mailto:yuhma@wp.pl">Kontakt</a> &#8226;
+<a href="rss.php" target="_self">RSS <img src="obrazki/rss_icon.png" width="14" height="14" alt="RSS" /></a><br/>
+<br/>
+<a href="http://patriotyczny.sklep.pl/" target="_blank"> <img src="http://patriotyczny.sklep.pl/baner_toplista.gif"><!--REKLAMA--><img/></a> <br/><br/>
+
+	<form class="szukaj" method="get" action="szukaj.php" target="_self">
+	Przeszukaj toplistę: <input id="zapytanie" type="text" name="q" value="" maxlength="50" />
+	<input type="submit" value="Szukaj" />
+	</form><table class="toplista"><tr class="naglowek">
+<td>Pozycja</td>
+<td>Nazwa i opis strony</td>
+ <td>
+ Wejścia
+ <br/>(w sumie)
+ </td>
+ <td>
+ Wyjścia
+ <br/>(w sumie)
+ </td>
+
+
+</tr><tr>
+ <td class="n">1</td>
+ <td>
+  <div class="o">
+  <a href="http://niepoprawni.pl" onclick="wy('niepoprawni');"><img src="http://niepoprawni.pl/grafika/niepoprawni468.png" width="362" height="85" alt="Niepoprawni.pl" /><br />Niepoprawni.pl</a>
+  Serwis stworzony przez blogerów dla blogerów<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=niepoprawni">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (23312)
+ </td>
+ <td >
+ <div class="n">686</div>
+ (121701)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">2</td>
+ <td>
+  <div class="o">
+  <a href="http://marucha.wordpress.com" onclick="wy('marucha');"><img src="http://marucha.files.wordpress.com/2011/01/gajowka.jpg" width="150" height="99" alt="Dziennik gajowego Maruchy (zwany też gajówką)" /><br />Dziennik gajowego Maruchy (zwany też gajówką)</a>
+  Blog i forum dyskusyjne o charakterze narodowo-patriotycznym, wierny Tradycji katolickiej.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=marucha">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (16854)
+ </td>
+ <td >
+ <div class="n">838</div>
+ (114912)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">3</td>
+ <td>
+  <div class="o">
+  <a href="http://urbietorbi-apokalipsa.net/pl/komentarze/temat/np-13" onclick="wy('m2014');"><img src="http://urbietorbi-apokalipsa.net/banner13np.gif" width="300" height="125" alt="Losy Polski, Kościoła i Świata" /><br />Losy Polski, Kościoła i Świata</a>
+  "Przyjmę intronizację od waszego Narodu, którą zaproponowali wasi biskupi&#8230; Gdy nastąpią w swoim czasie w Narodzie i hierarchii stosowne zmiany, których oczekuję, wówczas powtórzycie Intronizację, ulepszając Ją o brakujące szczegóły." <br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=m2014">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (16773)
+ </td>
+ <td >
+ <div class="n">187</div>
+ (36863)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">4</td>
+ <td>
+  <div class="o">
+  <a href="http://www.bibula.com" onclick="wy('bibula');"><img src="http://www.bibula.com/images/Bibula_logo_283x100.jpg" width="283" height="100" alt="BIBULA - pismo niezalezne" /><br />BIBULA - pismo niezalezne</a>
+  Pismo istniejące od 1982, wydawane w poznańskim podziemiu, wznowione w 2002 roku<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=bibula">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (12553)
+ </td>
+ <td >
+ <div class="n">244</div>
+ (43342)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">5</td>
+ <td>
+  <div class="o">
+  <a href="http://www.bliskopolski.pl/godlo-polski/" onclick="wy('bliskopolski');"><img src="http://www.bliskopolski.pl/pliki/baner-godlo.gif" width="468" height="100" alt="BLISKO POLSKI - wiedza, bez newsów" /><br />BLISKO POLSKI - wiedza, bez newsów</a>
+  Polscy patrioci wiedzą, że Tusk to zdrajca, ale wielu z nich wywiesza coś co tylko przypomina polską flagę, część z nich śpiewa błędną wersję polskiego hymnu, a tylko niewielu rozróżnia godło od herbu Polski. Jesteśmy po to, aby im pomóc!<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=bliskopolski">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (11727)
+ </td>
+ <td >
+ <div class="n">52</div>
+ (29566)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">6</td>
+ <td>
+  <div class="o">
+  <a href="http://hej-kto-polak.pl" onclick="wy('hkp');"><img src="http://hej-kto-polak.pl/wp/wp-content/uploads/2010/12/baner1.jpg" width="200" height="100" alt="Hej, kto Polak!" /><br />Hej, kto Polak!</a>
+  Strona romantycznych realistów, którzy marzą o pięknej, silnej, uczciwej i sprawiedliwej Polsce<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=hkp">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (11494)
+ </td>
+ <td >
+ <div class="n">36</div>
+ (39748)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">7</td>
+ <td>
+  <div class="o">
+  <a href="http://www.dakowski.pl" onclick="wy('dakowski');"><img src="http://dakowski.pl//images/banners/banner_last.jpg" width="468" height="60" alt="Dakowski.pl" /><br />Dakowski.pl</a>
+  Zbrodnia okolo-Smoleńska, Agentura w Kościele, Tradycja katolicka, Globcio, neo-Darwinizm, Energetyka Jądrowa, tania energia<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=dakowski">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (10977)
+ </td>
+ <td >
+ <div class="n">600</div>
+ (68099)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">8</td>
+ <td>
+  <div class="o">
+  <a href="http://www.dlapolski.pl" onclick="wy('dlapolski');"><img src="http://forum.dlapolski.pl/img/dlapolski.gif" width="450" height="125" alt="DlaPolski.PL - jesteśmy dla WAS każdego dnia!" /><br />DlaPolski.PL - jesteśmy dla WAS każdego dnia!</a>
+  Konserwatywno patriotyczna strona z informacjami w formie materiałów wideo. Każdego dnia coś nowego - od ponad 8 lat stale rosnąca biblioteka - już ponad 14 tys. filmów! Oglądaj razem z nami TV na żywo.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=dlapolski">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (10250)
+ </td>
+ <td >
+ <div class="n">173</div>
+ (71324)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">9</td>
+ <td>
+  <div class="o">
+  <a href="http://www.tajnekomplety.com" onclick="wy('tajnekomplet');"><img src="http://www.tajnekomplety.com/tajnekomplety_small.jpg" width="205" height="125" alt="Tajne Komplety" /><br />Tajne Komplety</a>
+  Tajne Komplety są stroną przeznaczonym dla Polaków, którzy kochaja Boga i swoją Ojczyznę.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=tajnekomplet">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (7046)
+ </td>
+ <td >
+ <div class="n">37</div>
+ (26901)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">10</td>
+ <td>
+  <div class="o">
+  <a href="http://www.blogpress.pl" onclick="wy('blogpress');"><img src="http://www.blogpress.pl/grafika/Blogpress_.jpg" width="411" height="61" alt="Blogpress.pl" /><br />Blogpress.pl</a>
+  Informacje, relacje, opinie, satyra<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=blogpress">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (6908)
+ </td>
+ <td >
+ <div class="n">119</div>
+ (58251)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">11</td>
+ <td>
+  <div class="o">
+  <a href="http://polskie-forum.pl" onclick="wy('polskieforum');"><img src="http://polskie-forum.pl/pliki/pf_dlugi_maly.png" width="191" height="27" alt="Polskie Forum" /><br />Polskie Forum</a>
+  Forum dyskusji w duchu patriotycznym. Opinie, ankiety, komentarze, inicjatywy.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=polskieforum">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (6613)
+ </td>
+ <td >
+ <div class="n">28</div>
+ (16789)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">12</td>
+ <td>
+  <div class="o">
+  <a href="http://witamy-w-polsce.pl" onclick="wy('a3j6exm');"><img src="http://witamy-w-polsce.pl/images/wwpol.jpg" width="266" height="101" alt="Witamy w Polsce" /><br />Witamy w Polsce</a>
+  Zbiór materiałów z orbity konserwatywno-liberalnej<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=a3j6exm">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (5978)
+ </td>
+ <td >
+ <div class="n">13</div>
+ (16660)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">13</td>
+ <td>
+  <div class="o">
+  <a href="http://www.wolnapolska.pl" onclick="wy('wolnapolska');"><img src="http://wolnapolska.pl/images/wolna_polska_468x60.gif" width="460" height="60" alt="Wolna Polska" /><br />Wolna Polska</a>
+  Wolna Polska - prawdziwe informacje<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=wolnapolska">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (5442)
+ </td>
+ <td >
+ <div class="n">69</div>
+ (26684)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">14</td>
+ <td>
+  <div class="o">
+  <a href="http://solidarni2010.pl" onclick="wy('kayan');"><img src="http://solidarni2010.pl/themes/solidarni/images/logo_beta.png" width="220" height="100" alt="Stowarzyszenie Solidarni2010" /><br />Stowarzyszenie Solidarni2010</a>
+  <br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=kayan">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (5285)
+ </td>
+ <td >
+ <div class="n">39</div>
+ (16730)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">15</td>
+ <td>
+  <div class="o">
+  <a href="http://www.piotrnatanek.pl" onclick="wy('piotrnatanek');"><img src="http://www.piotrnatanek.pl/images/banner_pn.jpg" width="400" height="50" alt="ks dr hab Piotr Natanek" /><br />ks dr hab Piotr Natanek</a>
+  Rekolekcje Patriotyczne<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=piotrnatanek">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (4949)
+ </td>
+ <td >
+ <div class="n">15</div>
+ (12827)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">16</td>
+ <td>
+  <div class="o">
+  <a href="http://www.krzysztofkopec.pl" onclick="wy('kkopec');"><img src="http://www.krzysztofkopec.pl/baner.png" width="400" height="66" alt="Krzysztof Kopeć Historia Polski" /><br />Krzysztof Kopeć Historia Polski</a>
+  Historia II RP, jej aktywa finansowe, galerie dokumentów historycznych<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=kkopec">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (4498)
+ </td>
+ <td >
+ <div class="n">22</div>
+ (11371)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">17</td>
+ <td>
+  <div class="o">
+  <a href="http://www.oburzeni.pl" onclick="wy('ciesielczyk');"><img src="http://www.prawdemowiac.pl/tl_files/nowa_galeria/ax_524/banner.jpg" width="440" height="125" alt="stowarzyszenie OBURZENI" /><br />stowarzyszenie OBURZENI</a>
+  OBURZENI chcą obalić okrągłostołowy system zainstalowany w Polsce w 1989<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=ciesielczyk">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (4168)
+ </td>
+ <td >
+ <div class="n">13</div>
+ (13401)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">18</td>
+ <td>
+  <div class="o">
+  <a href="http://alexjones.pl" onclick="wy('wookie');"><img src="http://alexjones.pl/images/banery/aj250x90.png" width="250" height="90" alt="AlexJones.pl" /><br />AlexJones.pl</a>
+  Prawdziwe informacje o świecie, walczymy o prawdę i przyszłość.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=wookie">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (3763)
+ </td>
+ <td >
+ <div class="n">138</div>
+ (40415)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">19</td>
+ <td>
+  <div class="o">
+  <a href="http://www.zzrojczyzna.pl" onclick="wy('zzrojczyzna');"><img src="http://www.zzrojczyzna.pl/baner3.jpg" width="441" height="110" alt="Związek Zawodowy Rolników" /><br />Związek Zawodowy Rolników</a>
+  Ojczyzna wypowiada posłuszeństwo obywatelskie rządowi D. Tuska współczesnym targowiczanom, porozbiorowcom, mordercom chłopów polskich, pracowników polskich eksterminatorów narodu polskiego słowiańskiego. 386 zdrajców Narodu, Dekalog Polaka Słowianina<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=zzrojczyzna">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (3262)
+ </td>
+ <td >
+ <div class="n">19</div>
+ (10471)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">20</td>
+ <td>
+  <div class="o">
+  <a href="http://niepoprawneradio.pl" onclick="wy('radiopl');"><img src="http://farm4.staticflickr.com/3826/9678045084_7f0aa6cfc8.jpg" width="450" height="88" alt="Niepoprawne Radio PL" /><br />Niepoprawne Radio PL</a>
+  Tego nie usłyszysz nigdzie indziej - notki blogerów, felietony polityczne, relacje ze spotkań i wykładów, niepoprawne lektury i muzyka bardów<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=radiopl">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (3229)
+ </td>
+ <td >
+ <div class="n">24</div>
+ (10513)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">21</td>
+ <td>
+  <div class="o">
+  <a href="http://www.obiektywnie.com.pl/" onclick="wy('obiektywnie');"><img src="http://img211.imageshack.us/img211/2852/logo1jzl.jpg" width="468" height="112" alt="Obiektywnie.com.pl" /><br />Obiektywnie.com.pl</a>
+  Portal społeczności blogerów<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=obiektywnie">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (3228)
+ </td>
+ <td >
+ <div class="n">15</div>
+ (9931)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">22</td>
+ <td>
+  <div class="o">
+  <a href="http://nwonews.pl" onclick="wy('nwo');"><img src="http://nwonews.pl/bannery/bho.png" width="468" height="125" alt="NwoNews.pl" /><br />NwoNews.pl</a>
+  NwoNews.pl to niezależny serwis informacyjny o charakterze narodowo-patriotycznym. Znajdziesz w nim wiadomości, których próżno szukać w reżimowych mediach III RP.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=nwo">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (3180)
+ </td>
+ <td >
+ <div class="n">13</div>
+ (18566)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">23</td>
+ <td>
+  <div class="o">
+  <a href="http://pejzaz.blogspot.com/" onclick="wy('rzepka');"><img src="http://images61.fotosik.pl/661/5e41e54d6a7b2fc8med.jpg" width="300" height="96" alt="Pejzaż Horyzontalny - blog Rzepki" /><br />Pejzaż Horyzontalny - blog Rzepki</a>
+  satyra polityczna, media, społeczeństwo<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=rzepka">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (3085)
+ </td>
+ <td >
+ <div class="n">16</div>
+ (7892)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">24</td>
+ <td>
+  <div class="o">
+  <a href="http://www.prawyprosty.net" onclick="wy('22');"><img src="http://www.prawyprosty.net/images/prawyprosty.jpg" width="277" height="63" alt="prawyprosty.net" /><br />prawyprosty.net</a>
+  Codzienne wiadomosci z kraju i ze swiata, nowe felietony i ciekawe opisy historyczne.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=22">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (2850)
+ </td>
+ <td >
+ <div class="n">11</div>
+ (16440)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">25</td>
+ <td>
+  <div class="o">
+  <a href="http://polacywessen.de" onclick="wy('kgpe');"><img src="http://polacywessen.de/images/kgpe_logo.png" width="400" height="107" alt="Klub Gazety Polskiej w Essen" /><br />Klub Gazety Polskiej w Essen</a>
+  Serwis internetowy Polaków zamieszkujących Essen i okolice, skupionych wokół Polskiej Misji Katolickiej w Essen oraz Klubu Gazety Polskiej. Znajdziesz u nas informacje o naszej działalności, ciekawe filmy, posłuchasz Radia Maryja i obejrzysz TV Trwam<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=kgpe">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (2809)
+ </td>
+ <td >
+ <div class="n">11</div>
+ (10372)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">26</td>
+ <td>
+  <div class="o">
+  <a href="http://podziemiezbrojne.blox.pl" onclick="wy('allman');"><img src="http://podziemiezbrojne.blox.pl/resource/banerZW01.gif" width="450" height="75" alt="Żołnierze Wyklęci - Zapomniani Bohaterowie" /><br />Żołnierze Wyklęci - Zapomniani Bohaterowie</a>
+  Antykomunistyczne Podziemie Zbrojne po 1944 r.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=allman">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (2666)
+ </td>
+ <td >
+ <div class="n">10</div>
+ (7862)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">27</td>
+ <td>
+  <div class="o">
+  <a href="http://amelia007blog.wordpress.com/" onclick="wy('amelia007');"><img src="http://imageshack.us/a/img21/9733/roza2x.jpg" width="80" height="80" alt="Amelia007, Onion i goście - poważnie i śmieszno" /><br />Amelia007, Onion i goście - poważnie i śmieszno</a>
+  patriotyczne teksty, obrazy, wywiady, relacje, a także muzyka i inne<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=amelia007">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (2655)
+ </td>
+ <td >
+ <div class="n">2</div>
+ (7634)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">28</td>
+ <td>
+  <div class="o">
+  <a href="http://www.prawica.com.pl/" onclick="wy('prawica1966');"><img src="http://www.prawica.com.pl/images/banners/PRAWICA-banner2.jpg" width="468" height="83" alt="prawica.com.pl" /><br />prawica.com.pl</a>
+  nieregularnik prawicowy<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=prawica1966">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (2136)
+ </td>
+ <td >
+ <div class="n">40</div>
+ (14132)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">29</td>
+ <td>
+  <div class="o">
+  <a href="http://myslnarodowa.wordpress.com/" onclick="wy('myslnarodowa');"><img src="http://myslnarodowa.files.wordpress.com/2012/06/bannerpmn4m.png" width="468" height="125" alt="Polska Myśl Narodowa" /><br />Polska Myśl Narodowa</a>
+  Polska Myśl Narodowa: interes narodowy Polaków w XXI wieku, polska tożsamość narodowa, historia, ekonomia<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=myslnarodowa">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (2097)
+ </td>
+ <td >
+ <div class="n">31</div>
+ (10592)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">30</td>
+ <td>
+  <div class="o">
+  <a href="http://www.w-sercu-polska.org" onclick="wy('wsercupolska');"><img src="http://wsercupolska.org/joomla/images/stories/articles/wsercupolska2.jpg" width="120" height="125" alt="W sercu Polska" /><br />W sercu Polska</a>
+  Klub Współczesnych Narodowców<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=wsercupolska">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (1964)
+ </td>
+ <td >
+ <div class="n">16</div>
+ (8724)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">31</td>
+ <td>
+  <div class="o">
+  <a href="http://ewastankiewicz.wordpress.com" onclick="wy('kayan1');"><img src="https://ewastankiewicz.files.wordpress.com/2014/06/ewa-logo544-2.jpg" width="424" height="125" alt="Co robić?" /><br />Co robić?</a>
+  gdy zdrowy rozsądek podpowiada rozwiązania, które nie mieszczą się w głowie?<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=kayan1">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (1957)
+ </td>
+ <td >
+ <div class="n">38</div>
+ (29070)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">32</td>
+ <td>
+  <div class="o">
+  <a href="http://www.ruch-demokratyczny.pl" onclick="wy('magic');"><img src="http://www.ruch-demokratyczny.pl/baner-rdorp.png" width="468" height="125" alt="Ruch Demokratyczny Obywateli RP" /><br />Ruch Demokratyczny Obywateli RP</a>
+  Portal i forum Obywateli Polskich dążących do poprawy jakości życia w Polsce, równości wobec prawa oraz niezależności Polski.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=magic">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (1687)
+ </td>
+ <td >
+ <div class="n">4</div>
+ (2492)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">33</td>
+ <td>
+  <div class="o">
+  <a href="http://pelargonia-kwiatypolskie.blogspot.com/" onclick="wy('pelargonia');">Kwiaty polskie</a>
+  <br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=pelargonia">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (1608)
+ </td>
+ <td >
+ <div class="n">9</div>
+ (2280)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">34</td>
+ <td>
+  <div class="o">
+  <a href="http://77400.pl" onclick="wy('77400');"><img src="http://www.77400.pl/images/banners/77400.jpg" width="400" height="100" alt="www.77400.pl" /><br />www.77400.pl</a>
+  Piszemy o władzach centralnych i lokalnych, historii i kulturze, czasami z humorem, czasami niezwykle poważnie...zawsze jednak zgodnie z prawdą<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=77400">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (1558)
+ </td>
+ <td >
+ <div class="n">10</div>
+ (5940)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">35</td>
+ <td>
+  <div class="o">
+  <a href="http://padre.info.pl" onclick="wy('padreinfopl');"><img src="http://img826.imageshack.us/img826/8651/1tlx.jpg" width="248" height="75" alt="Padre - Wiedza czyni mądrym" /><br />Padre - Wiedza czyni mądrym</a>
+  Strona z ciekawymi artykułami związanymi ze społeczeństwem, polityką.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=padreinfopl">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (1518)
+ </td>
+ <td >
+ <div class="n">8</div>
+ (6084)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">36</td>
+ <td>
+  <div class="o">
+  <a href="http://www.ruchprawosci.pl" onclick="wy('ruch');"><img src="http://ruchprawosci.pl/banery/baner468x125.png" width="468" height="125" alt="RUCH NA RZECZ PRAWOŚCI" /><br />RUCH NA RZECZ PRAWOŚCI</a>
+  Inicjatywa tworzenia uczciwej partii<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=ruch">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (1501)
+ </td>
+ <td >
+ <div class="n">1</div>
+ (3061)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">37</td>
+ <td>
+  <div class="o">
+  <a href="http://www.skracaj.com/d7ec.html" onclick="wy('madzia85h');"><img src="http://heterykon.blox.pl/resource/rp.gif" width="400" height="120" alt="MOHEROSTRADA" /><br />MOHEROSTRADA</a>
+  Ratujmy Polskę! .................... wbrew wszelkim przeciwnościom i ...  polit-pop kłamcom<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=madzia85h">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (1498)
+ </td>
+ <td >
+ <div class="n">14</div>
+ (6370)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">38</td>
+ <td>
+  <div class="o">
+  <a href="http://wolne-mysli.pl" onclick="wy('radekdl');"><img src="http://www.niedziela.pl/gifs/portaln/624x400/1443042889.jpg" width="300" height="80" alt="Wolne Myśli" /><br />Wolne Myśli</a>
+  BÓG HONOR OJCZYZNA!                     Patriotyczno-katolickie spojrzenie. Znajdziesz tu odkłamane informacje i aktualne wiadomości, wolne i niezależne słowo, katechezy, wydarzenia ważne dla Kościoła i wiele więcej. Zapraszamy!<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=radekdl">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (1465)
+ </td>
+ <td >
+ <div class="n">15</div>
+ (8867)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">39</td>
+ <td>
+  <div class="o">
+  <a href="http://prawymsierpowym.pl" onclick="wy('bastek');"><img src="http://prawymsierpowym.pl/wp-content/themes/idream/images/prawymsierpowym3.gif" width="450" height="110" alt="blog mocno polityczny" /><br />blog mocno polityczny</a>
+  Żołnierze wyklęci, polityka, sport, historia, humor, wierszyki o władzy<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=bastek">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (1447)
+ </td>
+ <td >
+ <div class="n">51</div>
+ (13133)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">40</td>
+ <td>
+  <div class="o">
+  <a href="http://www.kworum.com.pl" onclick="wy('kworum');"><img src="http://www.kworum.com.pl/bannery/kworum3.jpg" width="298" height="106" alt="Polsko-Polonijna Gazeta Internetowa KWORUM" /><br />Polsko-Polonijna Gazeta Internetowa KWORUM</a>
+  GI KWORUM powstała w 2006 roku jako antidotum na liczne objawy antypolonizmu, płynące ze środowisk nieprzychylnych Polsce, by szerzyć idee odrodzenia patriotycznego, świadomości oraz dumy narodowej, promować polską kulturę i naukę<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=kworum">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (1409)
+ </td>
+ <td >
+ <div class="n">37</div>
+ (6769)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">41</td>
+ <td>
+  <div class="o">
+  <a href="http://antydotum.pl" onclick="wy('antydotum');"><img src="http://antydotum.pl/Anty/grafika/Banery/Antydotum.png" width="315" height="86" alt="Antydotum" /><br />Antydotum</a>
+  Zapraszam każdego komu Polska nie jest obojętna  do współpracy dla wspólnego  pożytku naszych starań na rzecz pomyślności  Ojczyzny oraz nas samych <br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=antydotum">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (1405)
+ </td>
+ <td >
+ <div class="n">17</div>
+ (8794)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">42</td>
+ <td>
+  <div class="o">
+  <a href="http://wyszperane.info" onclick="wy('jacekb');"><img src="http://www.wyszperane.info/media/2015/08/cropped-4268547265_d14931ee53_b.jpg" width="360" height="120" alt="wyszperane" /><br />wyszperane</a>
+  Wyszukuję wiadomości, które nie mają szans dostać się na pierwsze strony, a są dla nas ważne z różnych powodów.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=jacekb">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (1389)
+ </td>
+ <td >
+ <div class="n">44</div>
+ (18304)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">43</td>
+ <td>
+  <div class="o">
+  <a href="http://www.xl4.pl" onclick="wy('roman');"><img src="http://files.clickweb.home.pl/homepl30328/image/tutka01.jpg" width="450" height="125" alt="XL4.PL" /><br />XL4.PL</a>
+  CO WYDARZYŁO SIĘ 10 KWIETNIA 2010 ROKU? Książka pt. Zatarty ślad. O 10 kwietnia 2010 r. Romana Misiewicza. Prywatne śledztwo smoleńskie. Publicystyka, literatura faktu, STRONA  XL4.PL , dawniej dobre-nowiny.pl.   <br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=roman">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (1351)
+ </td>
+ <td >
+ <div class="n">14</div>
+ (5289)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">44</td>
+ <td>
+  <div class="o">
+  <a href="http://polishgazette.com" onclick="wy('pg');"><img src="http://img.webme.com/pic/l/liga5/banner_pg.jpg" width="400" height="96" alt="Polish Gazette" /><br />Polish Gazette</a>
+  najwiecej o Polsce i narodzie polskim<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=pg">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (1311)
+ </td>
+ <td >
+ <div class="n">5</div>
+ (4522)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">45</td>
+ <td>
+  <div class="o">
+  <a href="http://trybunalscy.pl" onclick="wy('trybunalscy');"><img src="http://trybunalscy.pl/img/logo_tryb.png" width="468" height="60" alt="trybunalscy.pl" /><br />trybunalscy.pl</a>
+  w ambicjach miejsce debaty szeroko rozumianej prawicy<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=trybunalscy">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (1213)
+ </td>
+ <td >
+ <div class="n">5</div>
+ (3501)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">46</td>
+ <td>
+  <div class="o">
+  <a href="http://www.andrzejewski.siedlce.pl/" onclick="wy('hotelik');"><img src="http://www.andrzejewski.siedlce.pl/files/baner/andrzejewski-baner-468x125.jpg" width="468" height="125" alt="Strona domowa Leszka Andrzejewskiego" /><br />Strona domowa Leszka Andrzejewskiego</a>
+  Dokumenty IPN, zdjęcia z lat '80 oraz znaczki i banknoty Solidarności i organizacji niepodległościowych<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=hotelik">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (1041)
+ </td>
+ <td >
+ <div class="n">7</div>
+ (3218)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">47</td>
+ <td>
+  <div class="o">
+  <a href="http://www.towarzystwopatriotyczne.org" onclick="wy('towpat');"><img src="http://towarzystwopatriotyczne.org/wp-content/uploads/2013/09/banertp.jpg" width="225" height="83" alt="Towarzystwo Patriotyczne" /><br />Towarzystwo Patriotyczne</a>
+  Fundacja Jana Pietrzaka<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=towpat">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (974)
+ </td>
+ <td >
+ <div class="n">18</div>
+ (5736)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">48</td>
+ <td>
+  <div class="o">
+  <a href="http://www.rodaknet.com" onclick="wy('rodak');"><img src="http://www.rodaknet.com/IMAGES/logo_rp_blue.gif" width="300" height="85" alt="RODAKpress" /><br />RODAKpress</a>
+  Niepoprawny Politycznie Magazyn Ruchu Rodakow<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=rodak">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (867)
+ </td>
+ <td >
+ <div class="n">13</div>
+ (6286)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">49</td>
+ <td>
+  <div class="o">
+  <a href="http://yarrok.blogspot.com/" onclick="wy('yarrok');"><img src="http://www.bodurniamamyzaprezydenta.republika.pl/winieta5c.jpg" width="312" height="75" alt="Ambrozja Europejska czyli Mięta z Bóbrem" /><br />Ambrozja Europejska czyli Mięta z Bóbrem</a>
+  Strona prywatna YARROKA - grafika, wielbiciela wszelkich sztuk.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=yarrok">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (846)
+ </td>
+ <td >
+ <div class="n">3</div>
+ (1965)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">50</td>
+ <td>
+  <div class="o">
+  <a href="http://forum.dlapolski.pl" onclick="wy('ndforum');"><img src="http://forum.dlapolski.pl/img/nd-forum.gif" width="450" height="125" alt="Forum patriotyczne" /><br />Forum patriotyczne</a>
+  Forum dla wszystkich myślących po Polsku. Ludzie z sercem i głową.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=ndforum">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (827)
+ </td>
+ <td >
+ <div class="n">12</div>
+ (5224)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">51</td>
+ <td>
+  <div class="o">
+  <a href="http://oburzeni.org.pl/" onclick="wy('oburzeni');"><OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="460" HEIGHT="68" id="1"><PARAM NAME=movie VALUE="http://oburzeni.org.pl/oburzeni5.swf"><EMBED src="http://oburzeni.org.pl/oburzeni5.swf" quality=high WIDTH="460" HEIGHT="68" NAME="1" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>Oburzeni - Ruch Oburzonych</a>
+  Ruch Oburzonych PAWEŁ KUKIZ NASZYM KANDYDATEM<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=oburzeni">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (773)
+ </td>
+ <td >
+ <div class="n">3</div>
+ (1613)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">52</td>
+ <td>
+  <div class="o">
+  <a href="http://www.ob-ciach.net/" onclick="wy('obciach');"><img src="http://www.ob-ciach.net/images/fundacja-logo-170.png" alt="OB-CIACH" /><br />OB-CIACH</a>
+  Ruch społeczny OB-CIACH, czyli OB(ywatelskie)-CIACH(anie) schematu. OB-CIACH, czyli nasza niezgoda na fałsz, niesprawiedliwość i brak patriotyzmu.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=obciach">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (659)
+ </td>
+ <td >
+ <div class="n">10</div>
+ (4597)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">53</td>
+ <td>
+  <div class="o">
+  <a href="http://europejczycy.info" onclick="wy('europ12');"><img src="http://europejczycy.info/wp-content/uploads/2013/06/6772822_printttttttttt-4.jpg" width="468" height="73" alt="europejczycy.info" /><br />europejczycy.info</a>
+  Nowa odsłona Europejczycy.info. Niezależny Serwis Informacyjny opieramy się na prawdzie i wolności słowa, dyskryminujemy kłamstwo.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=europ12">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (582)
+ </td>
+ <td >
+ <div class="n">7</div>
+ (2757)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">54</td>
+ <td>
+  <div class="o">
+  <a href="http://suwerennosc.blogspot.com" onclick="wy('suwnar');"><img src="https://www.facebook.com/download/1121999647829889/sn-m.jpg" width="301" height="65" alt="Suwerenność Narodu Polskiego" /><br />Suwerenność Narodu Polskiego</a>
+  Wszystko, co wiedzieć powinni Polacy, aby Naród Polski był faktycznym konstytucyjnym Suwerenem, podmiotem, a nie przedmiotem polityki<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=suwnar">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (576)
+ </td>
+ <td >
+ <div class="n">8</div>
+ (4042)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">55</td>
+ <td>
+  <div class="o">
+  <a href="http://ewafelinska.pl" onclick="wy('ewa');"><img src="http://ewafelinska.pl/wp-content/themes/twentyten/images/headers/path.jpg" width="468" height="94" alt="Ewa Felińska" /><br />Ewa Felińska</a>
+  Strona poświęcona pierwszej Polce zesłanej na Sybir za własną działalność polityczną - Ewie Felińskiej<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=ewa">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (540)
+ </td>
+ <td >
+ <div class="n">11</div>
+ (2254)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">56</td>
+ <td>
+  <div class="o">
+  <a href="http://narodowikonserwatysci.pl/" onclick="wy('pank');"><img src="http://narodowikonserwatysci.files.wordpress.com/2012/09/banner-all-ok1.jpg" width="400" height="83" alt="Polska Akcja Narodowo Konserwatywna" /><br />Polska Akcja Narodowo Konserwatywna</a>
+  PANK to apolityczne stowarzyszenie którego celem jest wzmocnienie świadomości i dumy narodowej Polaków przez podejmowanie publicznych inicjatyw o wymowie patriotycznej.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=pank">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (516)
+ </td>
+ <td >
+ <div class="n">5</div>
+ (2558)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">57</td>
+ <td>
+  <div class="o">
+  <a href="http://mirekkabala.pl" onclick="wy('iticracker');"><img src="http://dziecinow.home.pl/dziecinow/images/mirekkabala.png" width="200" height="113" alt="Mirek Kabala - Blog" /><br />Mirek Kabala - Blog</a>
+  <br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=iticracker">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (485)
+ </td>
+ <td >
+ <div class="n">4</div>
+ (2487)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">58</td>
+ <td>
+  <div class="o">
+  <a href="http://nieznudzeni.pl" onclick="wy('nieznudz');"><img src="http://farm6.staticflickr.com/5549/9674981111_a26031106b.jpg" width="340" height="86" alt="Nieznudzeni Polską" /><br />Nieznudzeni Polską</a>
+  Agregator najlepszych POLSKICH blogerów. Dodaj do ulubionych by nie przeszukiwać sieci!<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=nieznudz">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (473)
+ </td>
+ <td >
+ <div class="n">18</div>
+ (6661)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">59</td>
+ <td>
+  <div class="o">
+  <a href="http://fc.fc.pl/KND/" onclick="wy('knd');"><img src="http://fc.fc.pl/KND//logo3.jpg" width="271" height="125" alt="Klub Narodowej Demokracji" /><br />Klub Narodowej Demokracji</a>
+  Deklaracja 2 stycznia 2014r <br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=knd">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (472)
+ </td>
+ <td >
+ <div class="n">7</div>
+ (2010)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">60</td>
+ <td>
+  <div class="o">
+  <a href="http://www.eczyzo.com" onclick="wy('eczyzo');">B + O + R. Bóg, Ojczyzna i Rodzina</a>
+  Wiara. Polityka. Rodzina. Zdrowie i Medycyna. Emanuel Czyżo<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=eczyzo">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (451)
+ </td>
+ <td >
+ <div class="n">7</div>
+ (1186)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">61</td>
+ <td>
+  <div class="o">
+  <a href="http://dajwlape.pl" onclick="wy('dajwlape');"><img src="http://dajwlape.pl/logo.gif" width="250" height="51" alt="dajwlape.pl" /><br />dajwlape.pl</a>
+  opinie na temat sędziów i kuratorów<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=dajwlape">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (439)
+ </td>
+ <td >
+ <div class="n">5</div>
+ (1845)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">62</td>
+ <td>
+  <div class="o">
+  <a href="http://pkubala.weebly.com" onclick="wy('pawelk');"><img src="http://prawda24.tk/index/portal/images/logo.png" width="250" height="75" alt="Prawda 24" /><br />Prawda 24</a>
+  Polacy to wspaniały naród - zasługują na prawdę!<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=pawelk">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (424)
+ </td>
+ <td >
+ <div class="n">13</div>
+ (5288)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">63</td>
+ <td>
+  <div class="o">
+  <a href="http://arkanoego.net" onclick="wy('1543');"><img src="http://arkanoego.net/wp-content/uploads/2013/04/cropped-baner_arka12.jpg" width="468" height="112" alt="Arka Noego" /><br />Arka Noego</a>
+  Kłamstwo smoleńskie, analizy i sprawy Polski<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=1543">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (398)
+ </td>
+ <td >
+ <div class="n">3</div>
+ (2879)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">64</td>
+ <td>
+  <div class="o">
+  <a href="http://niezaleznemediapodlasia.pl/" onclick="wy('mickeyyy');"><img src="http://niezaleznemediapodlasia.pl/wp-content/uploads/2013/09/Baner-NMP.jpg" width="300" height="103" alt="Niezależne Media Podlasia" /><br />Niezależne Media Podlasia</a>
+  Portal ma na celu pokazanie rzeczy które publiczne media ukrywają<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=mickeyyy">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (360)
+ </td>
+ <td >
+ <div class="n">16</div>
+ (3337)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">65</td>
+ <td>
+  <div class="o">
+  <a href="http://lospomorze.blogspot.com" onclick="wy('los_pomorze');"><img src="http://jacek_gaw.w.interia.pl/DSCI4080--.jpg" width="420" height="90" alt="..." /><br />...</a>
+  Polskość, to nie jest nienormalność! POpieranie liberałów, to jest nienormalność !<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=los_pomorze">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (350)
+ </td>
+ <td >
+ <div class="n">1</div>
+ (1532)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">66</td>
+ <td>
+  <div class="o">
+  <a href="http://solidarni.xcl.pl/" onclick="wy('solidarniwja');"><img src="http://solidarni.xcl.pl/wp-content/themes/solidarni/images/logo.jpg" width="440" height="125" alt="Stowarzyszenie Solidarni w Jaśle" /><br />Stowarzyszenie Solidarni w Jaśle</a>
+  Stowarzyszenie &#8222;Solidarni w Jaśle&#8221; powstało z inicjatywy osób związanych z Niezależnym Samorządnym Związkiem Zawodowym &#8222;Solidarność&#8221; w latach 80-tych minionego wieku.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=solidarniwja">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (348)
+ </td>
+ <td >
+ <div class="n">6</div>
+ (927)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">67</td>
+ <td>
+  <div class="o">
+  <a href="http://mysuweren.pl" onclick="wy('ja');"><img src="http://www.mysuweren.pl/obrazki/image/mysuweren.jpg" width="400" height="103" alt="My Suweren" /><br />My Suweren</a>
+  <br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=ja">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (340)
+ </td>
+ <td >
+ <div class="n">9</div>
+ (2582)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">68</td>
+ <td>
+  <div class="o">
+  <a href="http://www.lospolski.pl" onclick="wy('zakilles');"><img src="http://i39.tinypic.com/mrxp42.jpg" width="125" height="125" alt="Liga Obrony Suwerenności" /><br />Liga Obrony Suwerenności</a>
+  Strona jedynej polskiej ideowo-narodowej partii patriotycznej.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=zakilles">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (303)
+ </td>
+ <td >
+ <div class="n">9</div>
+ (3980)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">69</td>
+ <td>
+  <div class="o">
+  <a href="http://polskiblues.strefa.pl/" onclick="wy('polskiblues');"><img src="http://polskiblues.strefa.pl/graf/szyldy/polski_blues_1m.png" width="342" height="124" alt="Polski Blues" /><br />Polski Blues</a>
+  Strona promująca blues z polskimi tekstami oraz jego wykonawców - solistów i zespoły<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=polskiblues">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (286)
+ </td>
+ <td >
+ <div class="n">1</div>
+ (1633)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">70</td>
+ <td>
+  <div class="o">
+  <a href="http://markd.pl" onclick="wy('markdpl');"><img src="http://farm4.staticflickr.com/3711/9674957331_b0a011fbac.jpg" width="450" height="88" alt="Strona autorska MarkD" /><br />Strona autorska MarkD</a>
+  Tu znajdziesz posty autora zbioru afer PO oraz współtwórcy Niepoprawnego Radia PL<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=markdpl">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (279)
+ </td>
+ <td >
+ <div class="n">5</div>
+ (2529)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">71</td>
+ <td>
+  <div class="o">
+  <a href="http://prawicowyinternet.pl" onclick="wy('prawicowyint');"><img src="http://prawicowyinternet.pl/tlo2.jpg" width="468" height="125" alt="Prawicowy Internet" /><br />Prawicowy Internet</a>
+  największy zbiór patriotycznych piosenek w siecie! Pieśni patriotyczne, piosenki harcerskie, patriotyczny rap, piosenki o Solidarności, Katyniu, Żołnierzach Wyklętych. A także piosenki międzywojenne.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=prawicowyint">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (261)
+ </td>
+ <td >
+ <div class="n">25</div>
+ (4202)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">72</td>
+ <td>
+  <div class="o">
+  <a href="http://www.atopolskawlasnie.com/" onclick="wy('wkosiba');"><img src="http://www.atopolskawlasnie.com/grafika/psf_logo_blog.jpg" width="200" height="100" alt="Polonia Semper Fidelis" /><br />Polonia Semper Fidelis</a>
+  Portal Organizacji Polonia Semper Fidelis<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=wkosiba">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (259)
+ </td>
+ <td >
+ <div class="n">5</div>
+ (1071)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">73</td>
+ <td>
+  <div class="o">
+  <a href="http://TV-1.pl" onclick="wy('tv1');"><img src="http://tv-1.pl/wp-content/uploads/tv1logo-1801.jpg" width="180" height="95" alt="TV 1" /><br />TV 1</a>
+  TELEWIZJA 1<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=tv1">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (246)
+ </td>
+ <td >
+ <div class="n">4</div>
+ (5566)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">74</td>
+ <td>
+  <div class="o">
+  <a href="http://zgromadzenie-narodu-polskiego.manifo.com" onclick="wy('ryziel');"><img src="http://s3.manifo.com/usr/4/4B2e8/d3/img/34orzelek.jpg" width="100" height="118" alt="Zgromadzenie Narodu Polskiego" /><br />Zgromadzenie Narodu Polskiego</a>
+  Konsolidacja sil patriotycznych do wyborow Parlamentarnych<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=ryziel">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (234)
+ </td>
+ <td >
+ <div class="n">1</div>
+ (1081)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">75</td>
+ <td>
+  <div class="o">
+  <a href="http://solidarni.cba.pl/" onclick="wy('starper');"><img src="http://pu.i.wp.pl/bloog/95314126/53575395/logo_wi_vZ_big.jpg" width="298" height="75" alt="Bibuła Świętokrzyska" /><br />Bibuła Świętokrzyska</a>
+  Informacje i wiadomości o starachowickiej i świętokrzyskiej opozycji lat 1980 - 1989<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=starper">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (218)
+ </td>
+ <td >
+ <div class="n">4</div>
+ (1085)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">76</td>
+ <td>
+  <div class="o">
+  <a href="http://polskapolityka2012.blogspot.com" onclick="wy('kasztelan7');"><img src="http://s4.ifotos.pl/img/Baner460P_rherxhe.png" width="400" height="60" alt="Polska Polityka" /><br />Polska Polityka</a>
+  Opinie, artykuły, analizy nie tylko polityczne.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=kasztelan7">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (195)
+ </td>
+ <td >
+ <div class="n">6</div>
+ (2835)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">77</td>
+ <td>
+  <div class="o">
+  <a href="http://zenobiusz-blog.blogspot.com/" onclick="wy('zenobiusz');"><img src="http://i.imgur.com/OU2DP.png" width="468" height="125" alt="Zenobiusz's Blog" /><br />Zenobiusz's Blog</a>
+  Wiara,Nadzieja,Miłość,nie umierają nigdy<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=zenobiusz">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (192)
+ </td>
+ <td >
+ <div class="n">11</div>
+ (2494)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">78</td>
+ <td>
+  <div class="o">
+  <a href="https://jasminmpowaznie.wordpress.com/" onclick="wy('polska113');"><img src="https://jasminmpowaznie.files.wordpress.com/2016/11/banner21.jpg" width="468" height="80" alt="ODRODZONA RP" /><br />ODRODZONA RP</a>
+  Patriotyczne przebudzenie narodu!<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=polska113">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (176)
+ </td>
+ <td >
+ <div class="n">3</div>
+ (852)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">79</td>
+ <td>
+  <div class="o">
+  <a href="http://ruch-obywatelski.com" onclick="wy('niepodam');"><img src="http://ruch-obywatelski.com/wp-content/uploads/2014/02/ruchobywatelski.png" width="250" height="42" alt="Ruch Obywatelski - strona patriotyczna" /><br />Ruch Obywatelski - strona patriotyczna</a>
+  Strona nie poprawna politycznie przedstawiająca afery oraz przekręty władzy polskiej<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=niepodam">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (174)
+ </td>
+ <td >
+ <div class="n">13</div>
+ (1623)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">80</td>
+ <td>
+  <div class="o">
+  <a href="http://jakuccy.pl" onclick="wy('jakuccy');">Julia M. Jaskólska, Piotr Jakucki. Strona autorska</a>
+  strona zawiera teksty publicystyczne, komentarze, felietony i wywiady Julii M. Jaskólskiej i Piotra Jakuckiego<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=jakuccy">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (169)
+ </td>
+ <td >
+ <div class="n">3</div>
+ (1070)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">81</td>
+ <td>
+  <div class="o">
+  <a href="http://eprudnik.pl" onclick="wy('blogeprudnik');">eprudnik.pl blog sięgający głębiej</a>
+  Osobisty przewodnik życia z wiarą i otwartą głową<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=blogeprudnik">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (164)
+ </td>
+ <td >
+ <div class="n">0</div>
+ (422)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">82</td>
+ <td>
+  <div class="o">
+  <a href="http://cyra.wblogu.pl" onclick="wy('adamcyra');"><img src="http://imagizer.imageshack.us/a/img33/9023/ar8e.jpg" width="248" height="124" alt="cyra.wblogu.pl czyli wprawnym okiem historyka" /><br />cyra.wblogu.pl czyli wprawnym okiem historyka</a>
+  Prywatny blog historyczny dr. Adama Cyry. Na blogu znajdą Państwo artykuły, poświęcone między innymi historii KL Auschwitz oraz Kresów Wschodnich RP.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=adamcyra">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (148)
+ </td>
+ <td >
+ <div class="n">5</div>
+ (1720)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">83</td>
+ <td>
+  <div class="o">
+  <a href="http://koalicja.net.pl/" onclick="wy('kdw2012');"><img src="http://koalicja.boykott.pl/wp-content/uploads/2012/04/baner_kdw1.jpg" width="347" height="124" alt="Koalicja dla Wolności" /><br />Koalicja dla Wolności</a>
+  Organizacja non-profit. Nasz cel: Dokonać systemowej zmiany na rzecz Idei wolności, normalności i przyszłości, by móc uczciwie żyć i pracować w Polsce naszych marzeń.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=kdw2012">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (133)
+ </td>
+ <td >
+ <div class="n">2</div>
+ (942)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">84</td>
+ <td>
+  <div class="o">
+  <a href="http://www.husarmia.pl/" onclick="wy('husarmiapl');"><img src="http://www.husarmia.pl/wp-content/uploads/2015/04/husarmia.png" width="423" height="125" alt="HUSARMIA - WSPÓLNIE KRZEWIMY PATRIOTYZM" /><br />HUSARMIA - WSPÓLNIE KRZEWIMY PATRIOTYZM</a>
+  Projekt mający na celu promocję patriotyzmu i takich wartości jak odwaga czy duma. Akcja pokazująca, że Polacy to naród dumny, odważny i niezwyciężony. Husarmia promuje myśl endecką, myśl o narodzie, Kościele, Tradycji, Państwie, cnotach publicznych i et<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=husarmiapl">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (132)
+ </td>
+ <td >
+ <div class="n">4</div>
+ (1166)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">85</td>
+ <td>
+  <div class="o">
+  <a href="http://andrzejkolakowski.com.pl" onclick="wy('januszjas');"><img src="http://brzozow.org.pl/img/ak.jpg" width="400" height="100" alt="Andrzej Kołakowski" /><br />Andrzej Kołakowski</a>
+  Polski bard. Niezależne, patriotyczne pieśni. Jeden z niepokonanych i niepokornych. Poeta drugiego obiegu.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=januszjas">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (113)
+ </td>
+ <td >
+ <div class="n">3</div>
+ (2825)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">86</td>
+ <td>
+  <div class="o">
+  <a href="http://piosenkireligijne.pl" onclick="wy('pioreligijne');"><img src="http://piosenkireligijne.pl/gbook.jpg" width="450" height="120" alt="Piosenki Religijne" /><br />Piosenki Religijne</a>
+  Największy zbiór piosenek religijnych. Łacińskie pieśni religijne, Chorał Gregoriański.  Pieśni Maryjne, Pieśni na Uwielbienie, Pieśni Wielkopostne<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=pioreligijne">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (112)
+ </td>
+ <td >
+ <div class="n">5</div>
+ (1557)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">87</td>
+ <td>
+  <div class="o">
+  <a href="http://wojnaznarodem.blogspot.com/" onclick="wy('fotoamator');">Wojna z Narodem</a>
+  blog autorski z tekstami publikowanymi również na Niepoprawni i Pomnik Smoleńsk<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=fotoamator">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (112)
+ </td>
+ <td >
+ <div class="n">2</div>
+ (1147)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">88</td>
+ <td>
+  <div class="o">
+  <a href="http://dziennik.artystyczny-margines.pl/" onclick="wy('radymenes');"><img src="http://dziennik.artystyczny-margines.pl/wp-content/uploads/2014/10/dz.png" width="100" height="100" alt="Dziennik Złożony" /><br />Dziennik Złożony</a>
+  Tematy tabu, poezja, historia, wydarzenia - to wszystko w moim dzienniku.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=radymenes">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (106)
+ </td>
+ <td >
+ <div class="n">10</div>
+ (1331)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">89</td>
+ <td>
+  <div class="o">
+  <a href="http://histeo.blog.pl" onclick="wy('kumpel18');"><img src="http://img10.imageshack.us/img10/2575/7769396c26ae075m3.jpg" width="460" height="90" alt="Histeo - Inna strona historii!" /><br />Histeo - Inna strona historii!</a>
+  Czy historia może wciągać? Wejdź i sprawdź!<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=kumpel18">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (102)
+ </td>
+ <td >
+ <div class="n">7</div>
+ (1297)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">90</td>
+ <td>
+  <div class="o">
+  <a href="http://cud1920.pl/" onclick="wy('1920cud1920');"><img src="http://cud1920.pl/blog/wp-content/uploads/2012/02/banner_468.jpg" width="468" height="62" alt="Cud1920" /><br />Cud1920</a>
+  Strona poświęcona Cudowi nad Wisłą w sierpniu 1920 oraz tematyce religijno - patriotycznej i poezji CWU<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=1920cud1920">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (100)
+ </td>
+ <td >
+ <div class="n">5</div>
+ (929)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">91</td>
+ <td>
+  <div class="o">
+  <a href="http://opozycjonista.blog.pl" onclick="wy('opozycjonist');"><img src="http://godlo.pl/symbole/godlo-polski-250x295.png" width="100" height="120" alt="opozycjonista.blog.pl" /><br />opozycjonista.blog.pl</a>
+  Blog o zakłamaniu i absurdach w Polsce. Na tym blogu są zawarte informacje z niezależnych mediów, które nie są kontrolowane przez rządy. Większość zamieszczonych publikacji pochodzi od niezależnych autorów piszących dla niezależnych portali oraz ode mnie.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=opozycjonist">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (99)
+ </td>
+ <td >
+ <div class="n">18</div>
+ (4143)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">92</td>
+ <td>
+  <div class="o">
+  <a href="http://dziennikpolski.com.pl" onclick="wy('dziennikpols');"><img src="http://img.webme.com/pic/l/liga5/dp-com-pl-logo125.jpg" width="125" height="125" alt="Dziennik Polski" /><br />Dziennik Polski</a>
+  bez cenzury<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=dziennikpols">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (97)
+ </td>
+ <td >
+ <div class="n">15</div>
+ (4615)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">93</td>
+ <td>
+  <div class="o">
+  <a href="http://ruchobywatelskimanifesto.pl" onclick="wy('manifesto');"><img src="http://img593.imageshack.us/img593/1354/bannerilg.jpg" width="368" height="116" alt="Ruch Obywatelski manifesto..." /><br />Ruch Obywatelski manifesto...</a>
+  Strona o charakterze społecznym. Obraliśmy sobie za cel pojednanie wszystkich środowisk aktywistycznych, by móc wspólnie przeciwdziałać nieludzkim decyzją. Więcej informacji odnośnie kampanii na stronie.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=manifesto">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (78)
+ </td>
+ <td >
+ <div class="n">6</div>
+ (958)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">94</td>
+ <td>
+  <div class="o">
+  <a href="http://palmereldritch1984.wordpress.com" onclick="wy('mpn_pe1984');"><img src="http://palmereldritch1984.files.wordpress.com/2014/01/polski_nacjonalizm_pe.jpg" width="468" height="125" alt="Myśli Polskiego Nacjonalisty" /><br />Myśli Polskiego Nacjonalisty</a>
+  Myśli Polskiego Nacjonalisty - komentarze polityczne, ekonomiczne i historyczne. Tematy: polska racja stanu, polski interes narodowy, tożsamość i świadomość narodowa Polaków w XXI w. bez chadeckich błędów.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=mpn_pe1984">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (75)
+ </td>
+ <td >
+ <div class="n">20</div>
+ (2791)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">95</td>
+ <td>
+  <div class="o">
+  <a href="http://fundacjagp.pl" onclick="wy('kamilkocon');"><img src="http://fundacjagp.pl/baner.jpg" width="468" height="58" alt="Fundacja Gazety Podlaskiej" /><br />Fundacja Gazety Podlaskiej</a>
+  Fundacja Gazety Podlaskiej im. prof. Tadeusza Kłopotowskiego w Siedlcach<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=kamilkocon">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (74)
+ </td>
+ <td >
+ <div class="n">5</div>
+ (545)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">96</td>
+ <td>
+  <div class="o">
+  <a href="http://novushiacynthus.blogspot.com/" onclick="wy('hiacynthus');"><img src="http://tnij.org/ok0m" width="468" height="119" alt="Novus Hiacynthus" /><br />Novus Hiacynthus</a>
+  Strona ks. Jacka Bałemby SDB o charakterze katolickim i patriotycznym<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=hiacynthus">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (70)
+ </td>
+ <td >
+ <div class="n">8</div>
+ (3175)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">97</td>
+ <td>
+  <div class="o">
+  <a href="http://blog-n-roll.pl/" onclick="wy('but13');"><img src="http://www.ivrp.pl/obrazki/bannery/bnr_logo_250_362.jpg" width="250" height="54" alt="Blog-n-roll.pl" /><br />Blog-n-roll.pl</a>
+  Portal blogerski, tworzony m.in. przez dawnych redaktorów i użytkowników portalu Niepoprawni.pl<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=but13">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (69)
+ </td>
+ <td >
+ <div class="n">14</div>
+ (3921)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">98</td>
+ <td>
+  <div class="o">
+  <a href="http://radiorp.pl" onclick="wy('radiorp');"><img src="http://radiorp.pl/wp-content/uploads/cropped-default-thumb.png" width="468" height="60" alt="Radio internetowe. Serwis informacyjny z radiem" /><br />Radio internetowe. Serwis informacyjny z radiem</a>
+  Serwis informacyjny drugiego obiegu. Informacje z Polski, ze świata. Informacje na wolnej licencji CC-BY-SA 3.0 PL . Po stronie Rzeczpospolitej Polski.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=radiorp">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (69)
+ </td>
+ <td >
+ <div class="n">3</div>
+ (679)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">99</td>
+ <td>
+  <div class="o">
+  <a href="http://www.prokapitalizm.pl" onclick="wy('prokap');"><img src="http://www.prokapitalizm.pl/wp-content/uploads/2008/12/pro_kapitalizm03.jpg" width="445" height="59" alt="Prokapitalizm.pl" /><br />Prokapitalizm.pl</a>
+  Polityka, gospodarka, społeczeństwo - publicystyka, wywiady, telewizja Prokapa<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=prokap">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (68)
+ </td>
+ <td >
+ <div class="n">5</div>
+ (1851)
+ </td>
+ 
+ 
+</tr><tr>
+ <td class="n">100</td>
+ <td>
+  <div class="o">
+  <a href="http://wazne-sprawy.pl/" onclick="wy('waznesprawy1');"><img src="http://wazne-sprawy.pl/wp-content/uploads/2014/11/ws1.png" width="219" height="70" alt="Ważne-Sprawy.pl - Artykuły - Informacje" /><br />Ważne-Sprawy.pl - Artykuły - Informacje</a>
+  Publikacje najciekawszych oraz ważnych artykułów.<br /><br />
+  
+  
+  <a class="s" href="szczegoly.php?id=waznesprawy1">szczegóły</a>
+  
+  </div>
+ </td>
+ <td>
+ <div class="n">0</div>
+ (68)
+ </td>
+ <td >
+ <div class="n">14</div>
+ (2784)
+ </td>
+ 
+ 
+</tr></table><div style="width:100%;font-size:10px;text-align:center">Ranking stworzony w serwisie <a style="font-size:10px" href="http://toplista.pl/">TopLista.pl</a></div><br /> &nbsp;
+
+<br/><br/>
+<a href="dodaj.php" target="_self">Dodaj stronę!</a> &#8226; 
+<a href="edytuj.php" target="_self">Edytuj stronę</a> &#8226;
+<a href="szukaj.php" target="_self">Wyszukiwarka</a> &#8226; 
+<a href="mailto:yuhma@wp.pl">Kontakt</a>
+</center><script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script><script src="//toplista.pl/tac/pp-t-a-c.js" type="text/javascript"></script></body>
+</html>
+0
+
